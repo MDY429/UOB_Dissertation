@@ -1,5 +1,14 @@
 # Weekly Log  
   
+### week3 (2020/06/20 - 2020/06/26)
+* **What were your objectives for this week, and which did you achieve?**  
+    This week, I discuss the project dataset with my supervisor,  I have to do more search for my dataset on google, social media, stack exchange, etc.  
+    If I still cannot have a proper dataset, I would change the project direction a little bit.  
+  
+* **What are your objectives for next week?**  
+    Next week, I should shrink the range of question a little bit and design a flow to restrict the user's query.  
+    Then, use specific expression to lead the user to search what exercise they want to do. Analyse and classificate question and find the corresponding exercise data.   
+  
 ### week2 (2020/06/13 - 2020/06/19)
 * **What were your objectives for this week, and which did you achieve?**  
     This week, I discuss the project topic with my supervisor,  search for some paper for related work and finish the project proposal.  
