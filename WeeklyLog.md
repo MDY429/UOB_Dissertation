@@ -1,4 +1,16 @@
 # Weekly Log  
+
+### week4 (2020/06/27 - 2020/07/03)
+* **What were your objectives for this week, and which did you achieve?**  
+    - Restrict the range of users' questions.  
+    - Check python library implement.  
+    - Resolve building error when import Tensorflow.  
+    - Install Nvidia driver and DLL file for running deep learning.  
+    - Create simple dataset.  
+  
+* **What are your objectives for next week?**  
+    Finish first version prototype. If it works, then extends the dataset.
+     
   
 ### week3 (2020/06/20 - 2020/06/26)
 * **What were your objectives for this week, and which did you achieve?**  
