@@ -16,37 +16,37 @@
         },
         {"tag": "arms",
         "patterns": ["biceps brachii","arms", "triceps","brachialis", "triceps brachii"],
-        "responses": [""],
+        "responses": ["This is arm"],
         "context": [""]
         },
         {"tag": "legs",
-        "patterns": ["biceps femoris", "gluteus maximus", "quadriceps femoris"],
-        "responses": [""],
+        "patterns": ["biceps femoris", "gluteus maximus", "quadriceps femoris", "legs"],
+        "responses": ["This is leg question"],
         "context": [""]
         },
         {"tag": "chest",
-        "patterns": ["pectoralis major", "Serratus anterior"],
-        "responses": [""],
+        "patterns": ["pectoralis major", "Serratus anterior", "chest"],
+        "responses": ["The is chest question"],
         "context": [""]
         },
         {"tag": "back",
-        "patterns": ["erector spinae", "latissimus dorsi", "trapezius"],
-        "responses": [""],
+        "patterns": ["erector spinae", "latissimus dorsi", "trapezius", "back"],
+        "responses": ["This is back question"],
         "context": [""]
         },
         {"tag": "shoulders",
         "patterns": ["anterior deltoid"],
-        "responses": [""],
+        "responses": ["Shoulder question", "shoulders"],
         "context": [""]
         },
         {"tag": "calves",
-        "patterns": ["gastrocnemius", "soleus"],
-        "responses": [""],
+        "patterns": ["gastrocnemius", "soleus", "calves"],
+        "responses": ["calves question"],
         "context": [""]
         },
         {"tag": "abs",
-        "patterns": ["rectus abdominis", "obliquus externus abdominis"],
-        "responses": [""],
+        "patterns": ["rectus abdominis", "obliquus externus abdominis", "abs"],
+        "responses": ["abs question!"],
         "context": [""]
         }
    ]
