@@ -1,5 +1,12 @@
 # Weekly Log  
 
+### week5 (2020/07/04 - 2020/07/010)
+* **What were your objectives for this week, and which did you achieve?**  
+    Finish the first step, input the muscle then get correct response.  
+  
+* **What are your objectives for next week?**  
+    After getting the muscle, the second step is getting the facility request.
+  
 ### week4 (2020/06/27 - 2020/07/03)
 * **What were your objectives for this week, and which did you achieve?**  
     - Restrict the range of users' questions.  
