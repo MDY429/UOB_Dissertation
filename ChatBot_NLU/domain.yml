@@ -1,0 +1,37 @@
+actions:
+- action_search_exercise
+- utter_ask_facility
+- utter_goodbye
+- utter_greet
+entities:
+- facility
+- muscle
+- deny
+intents:
+- inform
+- greet
+- goodbye
+- utility
+responses:
+  utter_ask_facility:
+  - text: OK, for {muscle} exercise. What facility you want to use?
+  - text: Sure, for {muscle} exercise with any facility?
+  utter_ask_facility2:
+  - text: "Change to {muscle}, need any facility?"
+  utter_goodbye:
+  - text: see ya :)
+  - text: bye bye
+  - text: Have a good day.
+  utter_greet:
+  - text: Hello, how can I help?
+  - text: Which muscle you want to train?
+session_config:
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 0
+slots:
+  facility:
+    type: text
+  muscle:
+    type: text
+  deny:
+    type: text
