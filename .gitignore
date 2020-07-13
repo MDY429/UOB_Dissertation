@@ -1,6 +1,7 @@
 # Generated file
 *.pkl
 *.h5
+*.gz
 
 # VS Code Setting
 .vscode/
