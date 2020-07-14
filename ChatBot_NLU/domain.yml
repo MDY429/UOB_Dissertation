@@ -1,23 +1,30 @@
 actions:
+- action_check_equipment
+- action_check_muscle
 - action_search_exercise
 - utter_ask_facility
+- utter_ask_facility2
+- utter_cannot_understand
 - utter_goodbye
 - utter_greet
 entities:
-- facility
-- muscle
 - deny
-intents:
-- inform
+- facility
 - greet
+- muscle
+intents:
+- greet
+- inform
+- deny
 - goodbye
-- utility
 responses:
   utter_ask_facility:
   - text: OK, for {muscle} exercise. What facility you want to use?
   - text: Sure, for {muscle} exercise with any facility?
   utter_ask_facility2:
-  - text: "Change to {muscle}, need any facility?"
+  - text: Change to {muscle}, need any facility?
+  utter_cannot_understand:
+  - text: Sorry, I cannot understand what you mean. Could you say again please?
   utter_goodbye:
   - text: see ya :)
   - text: bye bye
@@ -29,9 +36,9 @@ session_config:
   carry_over_slots_to_new_session: true
   session_expiration_time: 0
 slots:
+  deny:
+    type: text
   facility:
     type: text
   muscle:
-    type: text
-  deny:
     type: text
