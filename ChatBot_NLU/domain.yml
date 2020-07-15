@@ -15,7 +15,7 @@ entities:
 intents:
 - greet
 - inform
-- deny
+- negative
 - goodbye
 responses:
   utter_ask_facility:
