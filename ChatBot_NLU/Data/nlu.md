@@ -3,6 +3,7 @@
 - hi there
 - hello
 - [hola](greet)
+- [hey what's up](greet)
 
 ## intent:inform
 - I want to train my [shoulders](muscle)
@@ -10,14 +11,19 @@
 - Train my [chest](muscle) with [dumbbell](facility)
 - training my [biceps](muscle)
 - i want to train my [shoulders](muscle) with [barbell](facility)
-- trainning [Triceps Brachii](muscle) with [dumbbell](facility)
-- trainning my [triceps](muscle)
+- training [Triceps Brachii](muscle) with [dumbbell](facility)
+- training my [triceps](muscle)
 - [cable](facility) please
 - wanna know how to train [chest](muscle) with [cable](facility)
 - how to train my [chest](muscle)
 - just [bodyweight](facility)
+- i want to focus on my [pectoralis major](muscle)
+- yoo, i want to know exercise about [chest](muscle) with [cable](facility)
+- tell me some about [biceps](muscle)
+- oh sorry, i am asking [triceps](muscle)
+- [dumbbell](facility)
 
-## intent:deny
+## intent:negative
 - no
 - no thanks
 - nope
