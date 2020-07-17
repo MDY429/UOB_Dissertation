@@ -1,8 +1,15 @@
 # Weekly Log  
 
-### week5 (2020/07/04 - 2020/07/010)
+### week6 (2020/07/11 - 2020/07/17)
 * **What were your objectives for this week, and which did you achieve?**  
-    Finish the first step, input the muscle then get correct response.  
+    Try to use the web crawler to dump the exercise dataset.
+  
+* **What are your objectives for next week?**  
+    Merge the search feature to let chatbot could find the corresponding data.
+
+### week5 (2020/07/04 - 2020/07/10)
+* **What were your objectives for this week, and which did you achieve?**  
+    Finish the first step, input the muscle then get the correct response.  
   
 * **What are your objectives for next week?**  
     After getting the muscle, the second step is getting the facility request.
