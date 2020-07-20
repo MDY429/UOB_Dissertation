@@ -1,0 +1,1366 @@
+Body,muscle,exercise,equipment,resource
+neck,Sternocleidomastoid,Cable Neck Flexion,Cable,https://exrx.net/WeightExercises/Sternocleidomastoid/CBNeckFlx
+neck,Sternocleidomastoid,Cable Neck Flexion (with belt),Cable,https://exrx.net/WeightExercises/Sternocleidomastoid/CBNeckFlxBelt
+neck,Sternocleidomastoid,Cable Neck Rotation (with belt),Cable,https://exrx.net/WeightExercises/Sternocleidomastoid/CBNeckRotationBelt
+neck,Sternocleidomastoid,Cable Lateral Neck Flexion (with belt),Cable,https://exrx.net/WeightExercises/Sternocleidomastoid/CBNeckLtrFlxBelt
+neck,Sternocleidomastoid,Lever Neck Flexion (plate loaded),Lever,https://exrx.net/WeightExercises/Sternocleidomastoid/LVNeckFlexionH
+neck,Sternocleidomastoid,Lever Lateral Neck Flexion (plate loaded),Lever,https://exrx.net/WeightExercises/Sternocleidomastoid/LVLateralNeckFlexionH
+neck,Sternocleidomastoid,Lever Neck Flexion,Lever,https://exrx.net/WeightExercises/Sternocleidomastoid/LVNeckFlx
+neck,Sternocleidomastoid,Lever Lateral Neck Flexion,Lever,https://exrx.net/WeightExercises/Sternocleidomastoid/LVNeckLtrFlx
+neck,Sternocleidomastoid,Weighted Lying Neck Flexion,Weight,https://exrx.net/WeightExercises/Sternocleidomastoid/WtLyingNeckFlexion
+neck,Sternocleidomastoid,Weighted Neck Flexion,Weight,https://exrx.net/WeightExercises/Sternocleidomastoid/WtNeckFlx
+neck,Sternocleidomastoid,Weighted Lateral Neck Flexion,Weight,https://exrx.net/WeightExercises/Sternocleidomastoid/WtNeckLateralFlex
+neck,Sternocleidomastoid,Front Neck Bridge,BodyWeight,https://exrx.net/WeightExercises/Sternocleidomastoid/BWFrontNeckBridge
+neck,Sternocleidomastoid,Wall Front Neck Bridge,BodyWeight,https://exrx.net/WeightExercises/Sternocleidomastoid/BWWallFrontNeckBridge
+neck,Sternocleidomastoid,Wall Side Neck Bridge,BodyWeight,https://exrx.net/WeightExercises/Sternocleidomastoid/BWWallSideNeckBridge
+neck,Sternocleidomastoid,Suspended Neck Flexion,Suspended,https://exrx.net/WeightExercises/Sternocleidomastoid/STNeckFlexion
+neck,Sternocleidomastoid,Suspended Lateral Neck Flexion,Suspended,https://exrx.net/WeightExercises/Sternocleidomastoid/STNeckLateralExtension
+neck,Splenius,Cable Neck Extension,Cable,https://exrx.net/WeightExercises/Splenius/CBNeckExt
+neck,Splenius,Cable Neck Extension (with belt),Cable,https://exrx.net/WeightExercises/Splenius/CBNeckExtBelt
+neck,Splenius,Lever Neck Extension (plate loaded),Lever,https://exrx.net/WeightExercises/Splenius/LVNeckExtentionH
+neck,Splenius,Lever Neck Extension,Lever,https://exrx.net/WeightExercises/Splenius/LVNeckExt
+neck,Splenius,Weighted Lying Neck Extension,Weight,https://exrx.net/WeightExercises/Splenius/WtLyingNeckExtension
+neck,Splenius,Weighted Neck Extension,Weight,https://exrx.net/WeightExercises/Splenius/WtNeckExtension
+neck,Splenius,Weighted Seated Neck Extension,Weight,https://exrx.net/WeightExercises/Splenius/WtNeckExt
+neck,Splenius,Weighted Neck Harness Extension,Weight,https://exrx.net/WeightExercises/Splenius/WtNeckHarnessExt
+neck,Splenius,Band Resistive Neck Retraction,Band Resistive,https://exrx.net/WeightExercises/Splenius/BRNeckRetraction
+neck,Splenius,Rear Neck Bridge,BodyWeight,https://exrx.net/WeightExercises/Splenius/BWRearNeckBridge
+neck,Splenius,Wall Rear Neck Bridge,BodyWeight,https://exrx.net/WeightExercises/Splenius/BWWallRearNeckBridge
+neck,Splenius,Lying Neck Retraction Isometric,None,https://exrx.net/WeightExercises/Splenius/LyingIsometricNeckRetr
+neck,Splenius,Suspended Neck Extension,Suspended,https://exrx.net/WeightExercises/Splenius/STNeckExtension
+shoulder,DeltoidAnterior,Barbell Behind Neck Press,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBBehindNeckPress
+shoulder,DeltoidAnterior,Barbell Front Raise,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBFrontRaise
+shoulder,DeltoidAnterior,Barbell Incline Front Raise,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBInclineFrontRaise
+shoulder,DeltoidAnterior,Barbell Military Press,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBMilitaryPress
+shoulder,DeltoidAnterior,Barbell Seated Military Press,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBSeatedMilitaryPress
+shoulder,DeltoidAnterior,Barbell Shoulder Press,Barbell,https://exrx.net/WeightExercises/DeltoidAnterior/BBShoulderPress
+shoulder,DeltoidAnterior,Cable Bar Behind Neck Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBBarBehindNeckPress
+shoulder,DeltoidAnterior,Cable Bar Military Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBBarMilitaryPress
+shoulder,DeltoidAnterior,Cable Bar Shoulder Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBBarShoulderPress
+shoulder,DeltoidAnterior,Cable Seated Front Raise,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBSeatedFrontRaise
+shoulder,DeltoidAnterior,Cable Alternating Front Raise,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBAlternatingFrontRaise
+shoulder,DeltoidAnterior,Cable Alternating Seated Front Raise,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBAlternatingSeatedFrontRaise
+shoulder,DeltoidAnterior,Cable One Arm Front Raise,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBFrontRaise
+shoulder,DeltoidAnterior,Cable One Arm Front Raise (with rope),Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBFrontRaiseRope
+shoulder,DeltoidAnterior,Cable Standing Shoulder Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBStandingShoulderPress
+shoulder,DeltoidAnterior,Cable Shoulder Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBShoulderPress
+shoulder,DeltoidAnterior,Cable Twisting Overhead Press,Cable,https://exrx.net/WeightExercises/DeltoidAnterior/CBTwistingOverheadPress
+shoulder,DeltoidAnterior,Dumbbell Arnold Press,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBArnoldPress
+shoulder,DeltoidAnterior,Dumbbell Front Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBFrontRaise
+shoulder,DeltoidAnterior,Dumbbell Alternating Front Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBAlternatingFrontRaise
+shoulder,DeltoidAnterior,Dumbbell Alternating Incline Front Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBAlternInclineFrontRaise
+shoulder,DeltoidAnterior,Dumbbell Shoulder Press,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBShoulderPress
+shoulder,DeltoidAnterior,Dumbbell One Arm Shoulder Press,Dumbbell,https://exrx.net/WeightExercises/DeltoidAnterior/DBOneArmShoulderPress
+shoulder,DeltoidAnterior,Lever Behind Neck Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVBehindNeckPressH
+shoulder,DeltoidAnterior,Lever Barbell Behind Neck Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVBBBehindNeckPress
+shoulder,DeltoidAnterior,Lever Military Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVMilitaryPressH
+shoulder,DeltoidAnterior,Lever Reclined Shoulder Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVReclinedShoulderPressPL
+shoulder,DeltoidAnterior,Lever Shoulder Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVShoulderPressH
+shoulder,DeltoidAnterior,Lever Barbell Shoulder Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVBBShoulderPress
+shoulder,DeltoidAnterior,Lever One Arm Shoulder Press (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVOneArmShoulderPress
+shoulder,DeltoidAnterior,Lever One Arm Front Raise,Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVFrontRaise
+shoulder,DeltoidAnterior,Lever Reclined Shoulder Press,Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVReclinedShoulderPress
+shoulder,DeltoidAnterior,Lever Reclined Parallel Grip Shoulder Press,Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVReclinedShoulderPressParGrip
+shoulder,DeltoidAnterior,Lever Shoulder Press,Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVShoulderPress
+shoulder,DeltoidAnterior,Lever Shoulder Press (parallel grip),Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVShoulderPressParGrip
+shoulder,DeltoidAnterior,Lever Alternating Shoulder Press,Lever,https://exrx.net/WeightExercises/DeltoidAnterior/LVAlternatingShoulderPress
+shoulder,DeltoidAnterior,Sled Shoulder Press,Sled,https://exrx.net/WeightExercises/DeltoidAnterior/SLShoulderPress
+shoulder,DeltoidAnterior,Sled Shoulder Press (parallel grip),Sled,https://exrx.net/WeightExercises/DeltoidAnterior/SLShoulderPressParGrip
+shoulder,DeltoidAnterior,Smith Behind Neck Press,Smith,https://exrx.net/WeightExercises/DeltoidAnterior/SMBehindNeckPress
+shoulder,DeltoidAnterior,Smith Shoulder Press,Smith,https://exrx.net/WeightExercises/DeltoidAnterior/SMShoulderPress
+shoulder,DeltoidAnterior,Handstand Shoulder Press (between benches),BodyWeight,https://exrx.net/WeightExercises/DeltoidAnterior/BWHandstandPressBench
+shoulder,DeltoidAnterior,Pike Press,BodyWeight,https://exrx.net/WeightExercises/DeltoidAnterior/BWPikePress
+shoulder,DeltoidAnterior,Decline Pike Press,BodyWeight,https://exrx.net/WeightExercises/DeltoidAnterior/BWDeclinePikePress
+shoulder,DeltoidAnterior,Suspended Front Raise,Suspended,https://exrx.net/WeightExercises/DeltoidAnterior/STFrontRaise
+shoulder,DeltoidLateral,Barbell Upright Row,Barbell,https://exrx.net/WeightExercises/DeltoidLateral/BBUprightRow
+shoulder,DeltoidLateral,Barbell Wide Grip Upright Row,Barbell,https://exrx.net/WeightExercises/DeltoidLateral/BBWideGripUprightRow
+shoulder,DeltoidLateral,Cable Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBLateralRaise
+shoulder,DeltoidLateral,Cable One Arm Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBOneArmLateralRaise
+shoulder,DeltoidLateral,Cable Lateral Raise (pulleys close),Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBLateralRaiseClose
+shoulder,DeltoidLateral,Cable Seated Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBSeatedLateralRaise
+shoulder,DeltoidLateral,Cable Upright Row,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBUprightRow
+shoulder,DeltoidLateral,Cable Bar Upright Row,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBBarUprightRow
+shoulder,DeltoidLateral,Cable Upright Row (dual pulley),Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBUprightRowDualPulley
+shoulder,DeltoidLateral,Cable One Arm Upright Row,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBOneArmUprightRow
+shoulder,DeltoidLateral,Cable Upright Row (with rope attachment),Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBUprightRowRope
+shoulder,DeltoidLateral,Cable Upright Row (stirrup attachments),Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBUprightRowStirrups
+shoulder,DeltoidLateral,Cable Wide Grip Upright Row,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBWideGripUprightRow
+shoulder,DeltoidLateral,Cable Y Raise,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBYRaise
+shoulder,DeltoidLateral,Cable Seated Y Raise,Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBSeatedYRaise
+shoulder,DeltoidLateral,Cable Seated Y Raise (with rope attachment),Cable,https://exrx.net/WeightExercises/DeltoidLateral/CBSeatedYRaiseRope
+shoulder,DeltoidLateral,Dumbbell Incline Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBInclineLateralRaise
+shoulder,DeltoidLateral,Dumbbell Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBLateralRaise
+shoulder,DeltoidLateral,Dumbbell One Arm Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBOneArmLateralRaise
+shoulder,DeltoidLateral,Dumbbell One Arm Seated Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBOneArmSeatedLateralRaise
+shoulder,DeltoidLateral,Dumbbell Lying Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBLyingLateralRaise
+shoulder,DeltoidLateral,Dumbbell Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBRaises
+shoulder,DeltoidLateral,Dumbbell Upright Row,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBUprightRow
+shoulder,DeltoidLateral,Dumbbell One Arm Upright Row,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBOneArmUprightRow
+shoulder,DeltoidLateral,Dumbbell Seated Upright Row,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBSeatedUprightRow
+shoulder,DeltoidLateral,Lever Barbell Upright Row (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVBBUprightRow
+shoulder,DeltoidLateral,Lever Lateral Raise (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVLateralRaiseH
+shoulder,DeltoidLateral,Lever Lateral Raise,Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVLateralRaise
+shoulder,DeltoidLateral,Lever Extended Arm Lateral Raise,Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVExtendedArmLateralRaise
+shoulder,DeltoidLateral,Lever Extended Arm Kneeling Lateral Raise,Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVExtendedArmKneelingLateralRaise
+shoulder,DeltoidLateral,Lever Lateral Raise,Lever,https://exrx.net/WeightExercises/DeltoidLateral/LVLateralRaise2
+shoulder,DeltoidLateral,Smith Upright Row,Smith,https://exrx.net/WeightExercises/DeltoidLateral/SMUprightRow
+shoulder,DeltoidLateral,Smith Wide Grip Upright Row,Smith,https://exrx.net/WeightExercises/DeltoidLateral/SMWideGripUprightRow
+shoulder,DeltoidLateral,Suspended Y Lateral Raise,Suspended,https://exrx.net/WeightExercises/DeltoidLateral/STYShoulderRaise
+shoulder,DeltoidPosterior,Barbell Rear Delt Raise,Barbell,https://exrx.net/WeightExercises/DeltoidPosterior/BBRearDeltRaise
+shoulder,DeltoidPosterior,Barbell Rear Delt Row,Barbell,https://exrx.net/WeightExercises/DeltoidPosterior/BBRearDeltRow
+shoulder,DeltoidPosterior,Barbell Lying Rear Delt Row,Barbell,https://exrx.net/WeightExercises/DeltoidPosterior/BBLyingRearDeltRow
+shoulder,DeltoidPosterior,Cable Reverse Fly,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBStandingReverseFly
+shoulder,DeltoidPosterior,Cable Seated Reverse Fly,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBSeatedRearDeltPull
+shoulder,DeltoidPosterior,Cable One Arm Reverse Fly,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBRearDeltPull
+shoulder,DeltoidPosterior,Cable Supine Reverse Fly,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBSupineRearLateralRaise
+shoulder,DeltoidPosterior,Cable Rear Delt Row,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBRearDeltRow
+shoulder,DeltoidPosterior,Cable One Arm Rear Delt Row,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBOneArmRearDeltRow
+shoulder,DeltoidPosterior,Cable Standing Rear Delt Row (with rope),Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBStandingRearDeltRowRope
+shoulder,DeltoidPosterior,Cable Rear Delt Row (stirrups),Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBRearDeltRowStirrups
+shoulder,DeltoidPosterior,Cable Seated Rear Delt Row (stirrups),Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBSeatedRearDeltRowStirrups
+shoulder,DeltoidPosterior,Cable Standing Rear Delt Row (stirrups),Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBStandingRearDeltRowStirrups
+shoulder,DeltoidPosterior,Cable Rear Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBRearLateralRaise
+shoulder,DeltoidPosterior,Cable One Arm Rear Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBOneArmRearLateralRaise
+shoulder,DeltoidPosterior,Cable Seated Rear Lateral Raise,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBSeatedRearLateralRaise
+shoulder,DeltoidPosterior,Cable Standing Cross Row,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBStandingCrossRow
+shoulder,DeltoidPosterior,Cable One Arm Standing Cross Row,Cable,https://exrx.net/WeightExercises/DeltoidPosterior/CBOneArmCrossRow
+shoulder,DeltoidPosterior,Dumbbell Lying Rear Delt Row,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearDeltRow
+shoulder,DeltoidPosterior,Dumbbell Lying Rear Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearLateralRaise
+shoulder,DeltoidPosterior,Dumbbell Lying One Arm Rear Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBOneArmRearLateralRaise
+shoulder,DeltoidPosterior,Dumbbell Rear Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBRearLateralRaise
+shoulder,DeltoidPosterior,Dumbbell Rear Delt Row,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBRearDeltRow
+shoulder,DeltoidPosterior,Dumbbell Seated Rear Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBSeatedRearLateralRaise
+shoulder,DeltoidPosterior,Dumbbell Side Lying Rear Delt Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBLyingRearDeltRaise
+shoulder,DeltoidPosterior,Lever Incline Rear Delt Row (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVInclineRearDeltRowPL
+shoulder,DeltoidPosterior,Lever Lying Rear Lateral Raise (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVLyingRearLateralRaiseH
+shoulder,DeltoidPosterior,Lever Rear Delt Raise (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearDeltRaise
+shoulder,DeltoidPosterior,Lever Seated Rear Delt Row (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearDeltRowHammer
+shoulder,DeltoidPosterior,Lever Seated Rear Delt Row (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearDeltRowC
+shoulder,DeltoidPosterior,Lever Seated Rear Lateral Raise (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVSeatedRearLateralRaise
+shoulder,DeltoidPosterior,Lever T-Bar Rear Delt Row (plate loaded),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVTBarRearDeltRow
+shoulder,DeltoidPosterior,Lever Lying Rear Lateral Raise,Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVLyingRearLateralRaise
+shoulder,DeltoidPosterior,Lever Rear Lateral Raise (on lateral raise machine),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearLateralRaiseOnLatRsMch
+shoulder,DeltoidPosterior,Lever Rear Lateral Raise (on extended arm kneeling lateral raise machine),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearLateralRaiseOnExtArmLatRsMch
+shoulder,DeltoidPosterior,Lever Seated Rear Delt Row,Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearDeltRow
+shoulder,DeltoidPosterior,Lever Seated Reverse Fly (parallel grip),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearLateralRaise
+shoulder,DeltoidPosterior,Lever Seated Reverse Fly (gripless),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVSeatedRearDeltFly
+shoulder,DeltoidPosterior,Lever Seated Reverse Fly (on pec deck),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVRearDeltFlyGriplessPecDeck
+shoulder,DeltoidPosterior,Lever Seated Reverse Fly (overhand grip),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVReverseFlyOverhand
+shoulder,DeltoidPosterior,Lever Seated Reverse Fly (pronated parallel grip),Lever,https://exrx.net/WeightExercises/DeltoidPosterior/LVReverseFlyPronated
+shoulder,DeltoidPosterior,Smith Rear Delt Row,Smith,https://exrx.net/WeightExercises/DeltoidPosterior/SMRearDeltRow
+shoulder,DeltoidPosterior,Rear Delt Inverted Row,BodyWeight,https://exrx.net/WeightExercises/DeltoidPosterior/BWRearDeltInvertedRow
+shoulder,DeltoidPosterior,Rear Delt Inverted Row (high bar),BodyWeight,https://exrx.net/WeightExercises/DeltoidPosterior/BWRearDeltInvertedRowHigh
+shoulder,DeltoidPosterior,Rear Delt Inverted Row (on hips),BodyWeight,https://exrx.net/WeightExercises/DeltoidPosterior/BWRearDeltInvertedRowHips
+shoulder,DeltoidPosterior,Suspended Rear Delt Row,Suspended,https://exrx.net/WeightExercises/DeltoidPosterior/STRearDeltRow
+shoulder,DeltoidPosterior,Suspended Reverse Fly,Suspended,https://exrx.net/WeightExercises/DeltoidPosterior/STReverseFly
+shoulder,Supraspinatus,Cable Front Lateral Raise,Cable,https://exrx.net/WeightExercises/Supraspinatus/CBFrontLateralRaise
+shoulder,Supraspinatus,Cable Seated Front Lateral Raise,Cable,https://exrx.net/WeightExercises/Supraspinatus/CBSeatedFrontLateralRaise
+shoulder,Supraspinatus,Dumbbell Front Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/Supraspinatus/DBFrontLateralRaise
+shoulder,Supraspinatus,Dumbbell Seated Front Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/Supraspinatus/DBFrontLateralRaiseSeated
+shoulder,Supraspinatus,Dumbbell Full Can Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/Supraspinatus/DBFullCanLateralRaise
+shoulder,DeltoidLateral,Dumbbell Lying Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidLateral/DBLyingLateralRaise
+shoulder,DeltoidPosterior,Dumbbell Lying One Arm Rear Lateral Raise,Dumbbell,https://exrx.net/WeightExercises/DeltoidPosterior/DBOneArmRearLateralRaise
+UpperArms,Triceps,Machine-assisted Triceps Dip,Assisted,https://exrx.net/WeightExercises/Triceps/ASTriDip
+UpperArms,Triceps,Machine-assisted Triceps Dip (kneeling),Assisted,https://exrx.net/WeightExercises/Triceps/ASTriDipKneeling
+UpperArms,Triceps,Barbell Close Grip Bench Press,Barbell,https://exrx.net/WeightExercises/Triceps/BBCloseGripBenchPress
+UpperArms,Triceps,Barbell Close Grip Incline Bench Press,Barbell,https://exrx.net/WeightExercises/Triceps/BBCloseGripInclineBenchPress
+UpperArms,Triceps,Barbell JM Bench Press,Barbell,https://exrx.net/WeightExercises/Triceps/BBJMPress
+UpperArms,Triceps,Barbell Lying Triceps Extension,Barbell,https://exrx.net/WeightExercises/Triceps/BBLyingTriExt
+UpperArms,Triceps,Barbell Decline Triceps Extension,Barbell,https://exrx.net/WeightExercises/Triceps/BBDeclineTriExt
+UpperArms,Triceps,Barbell Incline Triceps Extension,Barbell,https://exrx.net/WeightExercises/Triceps/BBInclineTriExt
+UpperArms,Triceps,"Barbell Lying Triceps Extension ""Skull Crusher""",Barbell,https://exrx.net/WeightExercises/Triceps/BBLyingTriExtSC
+UpperArms,Triceps,Barbell Triceps Extension,Barbell,https://exrx.net/WeightExercises/Triceps/BBTriExt
+UpperArms,Triceps,Cable Bent-over Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBBentoverTriExt
+UpperArms,Triceps,Cable Bent-over Triceps Extension (with rope attachment),Cable,https://exrx.net/WeightExercises/Triceps/CBBentoverTriExtRope
+UpperArms,Triceps,Cable Forward Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBForwardTricepsExt
+UpperArms,Triceps,Cable Incline Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBInclineTriExt
+UpperArms,Triceps,Cable Kneeling Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBKneelingTriExt
+UpperArms,Triceps,Cable Lying Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBLyingTriExt
+UpperArms,Triceps,Cable Decline Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBDeclineTricepsExt
+UpperArms,Triceps,Cable Pushdown,Cable,https://exrx.net/WeightExercises/Triceps/CBPushdown
+UpperArms,Triceps,Cable Alternating Seated Pushdown,Cable,https://exrx.net/WeightExercises/Triceps/CBAlternatingSeatedPushdown
+UpperArms,Triceps,Cable Bar Pushdown,Cable,https://exrx.net/WeightExercises/Triceps/CBBarPushdown
+UpperArms,Triceps,Cable Pushdown (forward leaning),Cable,https://exrx.net/WeightExercises/Triceps/CBPushdownHeavy
+UpperArms,Triceps,Cable Incline Pushdown,Cable,https://exrx.net/WeightExercises/Triceps/CBInclinePushdown
+UpperArms,Triceps,Cable One Arm Pushdown,Cable,https://exrx.net/WeightExercises/Triceps/CBOneArmPushdown
+UpperArms,Triceps,Cable Pushdown (with back support),Cable,https://exrx.net/WeightExercises/Triceps/CBPushdownSupport
+UpperArms,Triceps,Cable Pushdown (with rope attachment),Cable,https://exrx.net/WeightExercises/Triceps/CBPushdownRope
+UpperArms,Triceps,Cable Pushdown (with V-bar),Cable,https://exrx.net/WeightExercises/Triceps/CBPushdownVBar
+UpperArms,Triceps,Cable Side Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBSideTricepsExt
+UpperArms,Triceps,Cable Triceps Dip,Cable,https://exrx.net/WeightExercises/Triceps/CBTriDip
+UpperArms,Triceps,Cable Triceps Extension,Cable,https://exrx.net/WeightExercises/Triceps/CBTriExt
+UpperArms,Triceps,Cable One Arm Triceps Extension (pronated grip),Cable,https://exrx.net/WeightExercises/Triceps/CBOneArmTriExtPronated
+UpperArms,Triceps,Cable One Arm Triceps Extension (supinated grip),Cable,https://exrx.net/WeightExercises/Triceps/CBOneArmTriExt
+UpperArms,Triceps,Cable Triceps Extension (with rope),Cable,https://exrx.net/WeightExercises/Triceps/CBStandingTricepsExtensionRope
+UpperArms,Triceps,Dumbbell Kickback,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBKickback
+UpperArms,Triceps,Dumbbell Lying Triceps Extension,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBLyingTriExt
+UpperArms,Triceps,Dumbbell Decline Triceps Extension,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBDeclineTriExt
+UpperArms,Triceps,Dumbbell Incline Triceps Extension,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBInclineTricepsExt
+UpperArms,Triceps,Dumbbell One Arm Triceps Extension,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBOneArmTriExt
+UpperArms,Triceps,Dumbbell One Arm Triceps Extension (on bench),Dumbbell,https://exrx.net/WeightExercises/Triceps/DBOneArmTriExtBench
+UpperArms,Triceps,Dumbbell Triceps Extension,Dumbbell,https://exrx.net/WeightExercises/Triceps/DBTriExt
+UpperArms,Triceps,Lever Close Grip Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/Triceps/LVCloseGripBenchPressH
+UpperArms,Triceps,Lever Barbell Close Grip Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/Triceps/LVBBCloseGripBenchPress
+UpperArms,Triceps,Lever Triceps Extension (plate loaded),Lever,https://exrx.net/WeightExercises/Triceps/LVTriExtGripless
+UpperArms,Triceps,"Lever Triceps Extension (no seat, plate loaded)",Lever,https://exrx.net/WeightExercises/Triceps/LVTricepsExtensionNoSeatPL
+UpperArms,Triceps,Lever Triceps Dip (plate loaded),Lever,https://exrx.net/WeightExercises/Triceps/LVTriDipH
+UpperArms,Triceps,Lever Incline Triceps Extension,Lever,https://exrx.net/WeightExercises/Triceps/LVInclineTricepsExtension
+UpperArms,Triceps,Lever Overhead Triceps Extension,Lever,https://exrx.net/WeightExercises/Triceps/LVTricepsExtensionOH
+UpperArms,Triceps,Lever Pushdown,Lever,https://exrx.net/WeightExercises/Triceps/LVPushdown
+UpperArms,Triceps,Lever Seated Close Grip Press,Lever,https://exrx.net/WeightExercises/Triceps/LVSeatedCloseGripPress
+UpperArms,Triceps,Lever Close Grip Incline Bench Press,Lever,https://exrx.net/WeightExercises/Triceps/LVCloseGripInclineBenchPress
+UpperArms,Triceps,Lever Triceps Dip,Lever,https://exrx.net/WeightExercises/Triceps/LVTriDip
+UpperArms,Triceps,Lever Triceps Dip,Lever,https://exrx.net/WeightExercises/Triceps/LVTriDip2
+UpperArms,Triceps,Lever Overhand Triceps Dip,Lever,https://exrx.net/WeightExercises/Triceps/LVOverhandTriDip
+UpperArms,Triceps,Lever Triceps Extension,Lever,https://exrx.net/WeightExercises/Triceps/LVTriExt
+UpperArms,Triceps,Lever Triceps Extension,Lever,https://exrx.net/WeightExercises/Triceps/LVTriExt2
+UpperArms,Triceps,Lever Alternating Triceps Extension,Lever,https://exrx.net/WeightExercises/Triceps/LVAltTriExt
+UpperArms,Triceps,Sled Standing Triceps Dip,Sled,https://exrx.net/WeightExercises/Triceps/SLStandingTricepsDip
+UpperArms,Triceps,Smith Close Grip Bench Press,Smith,https://exrx.net/WeightExercises/Triceps/SMCloseGripBenchPress
+UpperArms,Triceps,Smith Close Grip Incline Bench Press,Smith,https://exrx.net/WeightExercises/Triceps/SMCloseGripInclineBenchPress
+UpperArms,Triceps,Weighted Bench Dip,Weight,https://exrx.net/WeightExercises/Triceps/WtBenchDip
+UpperArms,Triceps,Weighted Close Grip Push-up,Weight,https://exrx.net/WeightExercises/Triceps/WtPushup
+UpperArms,Triceps,Weighted Triceps Dip,Weight,https://exrx.net/WeightExercises/Triceps/WtTriDip
+UpperArms,Triceps,Band-assisted Triceps Dip,Assisted,https://exrx.net/WeightExercises/Triceps/ASTricepsDipBand
+UpperArms,Triceps,Bench Dip,BodyWeight,https://exrx.net/WeightExercises/Triceps/BWBenchDip
+UpperArms,Triceps,Bench Dip (knees bent),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWBenchDipBentKnee
+UpperArms,Triceps,Bench Dip (heels on floor),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWBenchDipFloor
+UpperArms,Triceps,Close Grip Push-up,BodyWeight,https://exrx.net/WeightExercises/Triceps/BWCloseGripPushup
+UpperArms,Triceps,Close Grip Push-up (on knees),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWCloseGripPushupKnees
+UpperArms,Triceps,Close Grip Push-up (on medicine ball),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWCloseGripPushupMB
+UpperArms,Triceps,Close Grip Incline Push-up (on bar),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWCloseGripInclinePushupBar
+UpperArms,Triceps,Suspended Triceps Extension (with rope),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWSuspendedTricepsExtension
+UpperArms,Triceps,Triceps Dip,BodyWeight,https://exrx.net/WeightExercises/Triceps/BWTriDip
+UpperArms,Triceps,Triceps Dip (between benches),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWTriDipBenches
+UpperArms,Triceps,Triceps Dip (bent knees between benches),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWTriDipBenchesBentKnees
+UpperArms,Triceps,Suspended Triceps Dip,Suspended,https://exrx.net/WeightExercises/Triceps/STTriDip
+UpperArms,Triceps,Suspended Self-assisted Triceps Dip,Suspended,https://exrx.net/WeightExercises/Triceps/STSelfAssistedTricepsDip
+UpperArms,Triceps,Suspended Triceps Extension,Suspended,https://exrx.net/WeightExercises/Triceps/STTricepsExtension
+UpperArms,Triceps,Suspended Triceps Extension (with rope),BodyWeight,https://exrx.net/WeightExercises/Triceps/BWSuspendedTricepsExtension
+UpperArms,Triceps,Self-assisted Triceps Dip,Assisted,https://exrx.net/WeightExercises/Triceps/ASTricepsDipSelf
+UpperArms,Biceps,Barbell Curl,Barbell,https://exrx.net/WeightExercises/Biceps/BBCurl
+UpperArms,Biceps,Barbell Drag Curl,Barbell,https://exrx.net/WeightExercises/Biceps/BBDragCurl
+UpperArms,Biceps,Cable Alternating Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBAlternatingCurl
+UpperArms,Biceps,Cable Alternating Seated Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBAlternatingSeatedCurl
+UpperArms,Biceps,Cable Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBCurl
+UpperArms,Biceps,Cable Bar Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBBarCurl
+UpperArms,Biceps,Cable Curl (with stirrups),Cable,https://exrx.net/WeightExercises/Biceps/CBCurlStirrups
+UpperArms,Biceps,Cable Seated Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBSeatedCurl
+UpperArms,Biceps,Cable One Arm Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBOneArmCurl
+UpperArms,Biceps,Cable Supine Curl,Cable,https://exrx.net/WeightExercises/Biceps/CBSupineCurl
+UpperArms,Biceps,Dumbbell Curl,Dumbbell,https://exrx.net/WeightExercises/Biceps/DBCurl
+UpperArms,Biceps,Dumbbell Incline Curl,Dumbbell,https://exrx.net/WeightExercises/Biceps/DBInclineCurl
+UpperArms,Biceps,Lever Curl,Lever,https://exrx.net/WeightExercises/Biceps/LVCurl
+UpperArms,Biceps,Lever Alternating Curl,Lever,https://exrx.net/WeightExercises/Biceps/LVAlternatingCurl
+UpperArms,Brachialis,Suspension Arm Curl,Suspended,https://exrx.net/WeightExercises/Brachialis/STArmCurl
+UpperArms,Brachialis,Barbell Preacher Curl,Barbell,https://exrx.net/WeightExercises/Brachialis/BBPreacherCurl
+UpperArms,Brachialis,Barbell Standing Preacher Curl,Barbell,https://exrx.net/WeightExercises/Brachialis/BBStandingPreacherCurl
+UpperArms,Brachialis,Barbell Prone Incline Curl,Barbell,https://exrx.net/WeightExercises/Brachialis/BBProneInclineCurl
+UpperArms,Brachialis,Cable Concentration Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBConcentrationCurl
+UpperArms,Brachialis,Cable Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBPreacherCurl
+UpperArms,Brachialis,Cable Alternating Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBAlternatingPreacherCurl
+UpperArms,Brachialis,Cable Standing Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBStandingPreacherCurl
+UpperArms,Brachialis,Cable One Arm Standing Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBOneArmStandingPreacherCurl
+UpperArms,Brachialis,Cable One Arm Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBOneArmPreacherCurl
+UpperArms,Brachialis,Cable Preacher Curl (stirrups),Cable,https://exrx.net/WeightExercises/Brachialis/CBPreacherCurlStirrups
+UpperArms,Brachialis,Cable Prone Incline Curl,Cable,https://exrx.net/WeightExercises/Brachialis/CBProneInclineCurl
+UpperArms,Brachialis,Dumbbell Concentration Curl,Dumbbell,https://exrx.net/WeightExercises/Brachialis/DBConcentrationCurl
+UpperArms,Brachialis,Dumbbell Preacher Curl,Dumbbell,https://exrx.net/WeightExercises/Brachialis/DBPreacherCurl
+UpperArms,Brachialis,Dumbbell Standing Preacher Curl,Dumbbell,https://exrx.net/WeightExercises/Brachialis/DBStandingPreacherCurl
+UpperArms,Brachialis,Dumbbell Prone Incline Curl,Dumbbell,https://exrx.net/WeightExercises/Brachialis/DBProneInclineCurl
+UpperArms,Brachialis,Lever Preacher Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurlH
+UpperArms,Brachialis,"Lever Preacher Curl (arms high, plate loaded)",Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurlHighPL
+UpperArms,Brachialis,"Lever Alternating Preacher Curl (arms high, plate loaded)",Lever,https://exrx.net/WeightExercises/Brachialis/LVAlterPreacherCurlHighPL
+UpperArms,Brachialis,"Lever Preacher Curl (no seat, plate loaded)",Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurlNoSeatPL
+UpperArms,Brachialis,Lever Preacher Curl,Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurl
+UpperArms,Brachialis,Lever Preacher Curl (arms high),Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurlHigh
+UpperArms,Brachialis,Lever Alternating Preacher Curl (arms high),Lever,https://exrx.net/WeightExercises/Brachialis/LVAlterPreacherCurlHigh
+UpperArms,Brachialis,Lever Preacher Curl (no seat),Lever,https://exrx.net/WeightExercises/Brachialis/LVPreacherCurlNoSeat
+UpperArms,Brachialis,Suspension Arm Curl,Suspended,https://exrx.net/WeightExercises/Brachialis/STArmCurl
+ForeArms,Brachioradialis,Barbell Reverse Curl,Barbell,https://exrx.net/WeightExercises/Brachioradialis/BBReverseCurl
+ForeArms,Brachioradialis,Barbell Reverse Preacher Curl,Barbell,https://exrx.net/WeightExercises/Brachioradialis/BBReversePreacherCurl
+ForeArms,Brachioradialis,Barbell Standing Reverse Preacher Curl,Barbell,https://exrx.net/WeightExercises/Brachioradialis/BBStandingReversePreacherCurl
+ForeArms,Brachioradialis,Cable Hammer Curl,Cable,https://exrx.net/WeightExercises/Brachioradialis/CBHammerCurl
+ForeArms,Brachioradialis,Cable Reverse Curl,Cable,https://exrx.net/WeightExercises/Brachioradialis/CBReverseCurl
+ForeArms,Brachioradialis,Cable Bar Reverse Curl,Cable,https://exrx.net/WeightExercises/Brachioradialis/CBBarReverseCurl
+ForeArms,Brachioradialis,Cable Reverse Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachioradialis/CBReversePreacherCurl
+ForeArms,Brachioradialis,Cable Standing Reverse Preacher Curl,Cable,https://exrx.net/WeightExercises/Brachioradialis/CBStandingReversePreacherCurl
+ForeArms,Brachioradialis,Dumbbell Hammer Curl,Dumbbell,https://exrx.net/WeightExercises/Brachioradialis/DBHammerCurl
+ForeArms,Brachioradialis,Lever Hammer Preacher Curl,Lever,https://exrx.net/WeightExercises/Brachioradialis/LVHammerPreacherCurl
+ForeArms,Brachioradialis,Lever Reverse Curl,Lever,https://exrx.net/WeightExercises/Brachioradialis/LVReverseCurl
+ForeArms,Brachioradialis,Lever Reverse Preacher Curl,Lever,https://exrx.net/WeightExercises/Brachioradialis/LVReversePreacherCurl
+ForeArms,WristFlexors,Barbell Wrist Curl,Barbell,https://exrx.net/WeightExercises/WristFlexors/BBWristCurl
+ForeArms,WristFlexors,Cable Wrist Curl,Cable,https://exrx.net/WeightExercises/WristFlexors/CBWristCurl
+ForeArms,WristFlexors,Cable One Arm Wrist Curl,Cable,https://exrx.net/WeightExercises/WristFlexors/CBOneArmWristCurl
+ForeArms,WristFlexors,Cable Roller Wrist Flexion,Cable,https://exrx.net/WeightExercises/WristFlexors/CBRollerWristFlexion
+ForeArms,WristFlexors,Dumbbell Wrist Curl,Dumbbell,https://exrx.net/WeightExercises/WristFlexors/DBWristCurl
+ForeArms,WristFlexors,Dumbbell Ulnar Deviation,Dumbbell,https://exrx.net/WeightExercises/WristFlexors/DBUlnarFlexion
+ForeArms,WristFlexors,Lever Grip (plate loaded),Lever,https://exrx.net/WeightExercises/WristFlexors/LVGripPL
+ForeArms,WristFlexors,Lever Wrist Curl (plate loaded),Lever,https://exrx.net/WeightExercises/WristFlexors/LVWristCurlPL
+ForeArms,WristFlexors,Lever Grip,Lever,https://exrx.net/WeightExercises/WristFlexors/LVGrip
+ForeArms,WristFlexors,Lever Ulnar Deviation,Lever,https://exrx.net/WeightExercises/WristFlexors/LVUlnarFlexion
+ForeArms,WristFlexors,Lever Wrist Curl,Lever,https://exrx.net/WeightExercises/WristFlexors/LVWristCurl
+ForeArms,WristFlexors,Lever Roller Wrist Flexion,Lever,https://exrx.net/WeightExercises/WristFlexors/LVRollerWristFlexion
+ForeArms,WristFlexors,Lever Roller Ulnar Deviation,Lever,https://exrx.net/WeightExercises/WristFlexors/LVRollerUlnarFlexion
+ForeArms,WristFlexors,Sled One Hand Grip,Sled,https://exrx.net/WeightExercises/WristFlexors/SLGrip
+ForeArms,WristFlexors,Sled Grip (plate loaded),Sled,https://exrx.net/WeightExercises/WristFlexors/SLGripPlateLoaded
+ForeArms,WristFlexors,Sled One Hand Grip (plate loaded),Sled,https://exrx.net/WeightExercises/WristFlexors/SLOneHandGripPlateLoaded
+ForeArms,WristFlexors,Sled One Hand Pinch Grip (plate loaded),Sled,https://exrx.net/WeightExercises/WristFlexors/SLOneHandPinchGripPL
+ForeArms,WristExtensors,Barbell Reverse Wrist Curl,Barbell,https://exrx.net/WeightExercises/WristExtensors/BBReverseWristCurl
+ForeArms,WristExtensors,Cable Reverse Wrist Curl,Cable,https://exrx.net/WeightExercises/WristExtensors/CBReverseWristCurl
+ForeArms,WristExtensors,Cable One Arm Reverse Wrist Curl,Cable,https://exrx.net/WeightExercises/WristExtensors/CBOneArmReverseWristCurl
+ForeArms,WristExtensors,Cable Roller Wrist Extension,Cable,https://exrx.net/WeightExercises/WristExtensors/CBRollerWristExtention
+ForeArms,WristExtensors,Dumbbell Radial Deviation,Dumbbell,https://exrx.net/WeightExercises/WristExtensors/DBRadialFlexion
+ForeArms,WristExtensors,Dumbbell Reverse Wrist Curl,Dumbbell,https://exrx.net/WeightExercises/WristExtensors/DBReverseWristCurl
+ForeArms,WristExtensors,Lever Reverse Wrist Curl (plate loaded),Lever,https://exrx.net/WeightExercises/WristExtensors/LVReverseWristCurlPL
+ForeArms,WristExtensors,Lever Radial Deviation,Lever,https://exrx.net/WeightExercises/WristExtensors/LVRadialFlexion
+ForeArms,WristExtensors,Lever Reverse Wrist Curl,Lever,https://exrx.net/WeightExercises/WristExtensors/LVReverseWristCurl
+ForeArms,WristExtensors,Lever Roller Wrist Extension,Lever,https://exrx.net/WeightExercises/WristExtensors/LVRollerWristExtention
+ForeArms,WristExtensors,Lever Roller Radial Deviation,Lever,https://exrx.net/WeightExercises/WristExtensors/LVRollerRadialFlexion
+ForeArms,Pronators,Dumbbell Lying Pronation (arm up),Dumbbell,https://exrx.net/WeightExercises/Pronators/DBLyingPronationUp
+ForeArms,Pronators,Dumbbell Lying Pronation (arm down),Dumbbell,https://exrx.net/WeightExercises/Pronators/DBLyingPronationDown
+ForeArms,Pronators,Dumbbell Seated Pronation,Dumbbell,https://exrx.net/WeightExercises/Pronators/DBSeatedPronation
+ForeArms,Pronators,Lever Seated Forearm Pronation,Lever,https://exrx.net/WeightExercises/Pronators/LVSeatedPronation
+ForeArms,Pronators,Lever Standing Forearm Pronation,Lever,https://exrx.net/WeightExercises/Pronators/LVPronation
+ForeArms,Supinators,Lever Forearm Supination/Pronation,Lever,https://exrx.net/WeightExercises/Supinators/LVSupinationPronation
+ForeArms,Supinators,Dumbbell Lying Supination,Dumbbell,https://exrx.net/WeightExercises/Supinators/DBLyingSupinationUp
+ForeArms,Supinators,Dumbbell Lying Supination (arm down),Dumbbell,https://exrx.net/WeightExercises/Supinators/DBLyingSupinationDown
+ForeArms,Supinators,Dumbbell Seated Supination,Dumbbell,https://exrx.net/WeightExercises/Supinators/DBSeatedSupination
+ForeArms,Supinators,Lever Seated Forearm Supination,Lever,https://exrx.net/WeightExercises/Supinators/LVSeatedSupination
+ForeArms,Supinators,Lever Standing Forearm Supination,Lever,https://exrx.net/WeightExercises/Supinators/LVSupination
+ForeArms,Supinators,Lever Forearm Supination/Pronation,Lever,https://exrx.net/WeightExercises/Supinators/LVSupinationPronation
+back,BackGeneral,Barbell Bent-over Row,Barbell,https://exrx.net/WeightExercises/BackGeneral/BBBentOverRow
+back,BackGeneral,Barbell Close Grip Bent-over Row,Barbell,https://exrx.net/WeightExercises/BackGeneral/BBCloseGripBentOverRow
+back,BackGeneral,Barbell Underhand Bent-over Row,Barbell,https://exrx.net/WeightExercises/BackGeneral/BBUnderhandBentOverRow
+back,BackGeneral,Cambered Barbell Lying Row,None,https://exrx.net/WeightExercises/BackGeneral/CamberedBarLyingRow
+back,BackGeneral,Cable Incline Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBInclineRow
+back,BackGeneral,Cable Straight Back Incline Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBStraightBackInclineRow
+back,BackGeneral,Cable Kneeling Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmKneelingRow
+back,BackGeneral,Cable Lying Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBLyingRow
+back,BackGeneral,Cable One Arm Bent-over Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmBentoverRow
+back,BackGeneral,Cable One Arm Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmRow
+back,BackGeneral,Cable Twisting Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmTwistingRow
+back,BackGeneral,Cable One Arm Seated High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmHighRow
+back,BackGeneral,Cable One Arm Straight Back Seated High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmStrBackHighRow
+back,BackGeneral,Cable Twisting Seated High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmTwistingHighRow
+back,BackGeneral,Cable Seated High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBSeatedHighRow
+back,BackGeneral,Cable Alternating Seated High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBAlternatingHighRow
+back,BackGeneral,Cable Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBSeatedRow
+back,BackGeneral,Cable Straight Back Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBStraightBackSeatedRow
+back,BackGeneral,Cable Wide Grip Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBWideGripSeatedRow
+back,BackGeneral,Cable Wide Grip Straight Back Seated Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBWideGripStrBackSeatedRow
+back,BackGeneral,Cable Standing Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmStandingRow
+back,BackGeneral,Cable Standing Low Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBOneArmStandingLowRow
+back,BackGeneral,Cable Twisting Standing High Row,Cable,https://exrx.net/WeightExercises/BackGeneral/CBStandingTwistingHighRow
+back,BackGeneral,Dumbbell Bent-over Row,Dumbbell,https://exrx.net/WeightExercises/BackGeneral/DBBentOverRow
+back,BackGeneral,Dumbbell Lying Row,Dumbbell,https://exrx.net/WeightExercises/BackGeneral/DBLyingRow
+back,BackGeneral,Lever Bent-over Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVBentOverRowH
+back,BackGeneral,Lever Barbell Bent-over Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVBBBentOverRow
+back,BackGeneral,Lever One Arm Bent-over Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVOneArmBentOverRow
+back,BackGeneral,Lever Wide Grip Bent-over Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVWideGripBentOverRowH
+back,BackGeneral,Lever Incline Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVInclineRow
+back,BackGeneral,Lever Close Grip Incline Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVCloseGripInclineRow
+back,BackGeneral,Lever One Arm Standing Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVOneArmStandingRow
+back,BackGeneral,Lever Narrow Grip Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVNarrowGripSeatedRowH
+back,BackGeneral,Lever Alternating Narrow Grip Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVAlternatingNarrowGripSeatedRow
+back,BackGeneral,"Lever Wide Grip Seated Row (high bar, plate loaded)",Lever,https://exrx.net/WeightExercises/BackGeneral/LVWideGripSeatedRowH
+back,BackGeneral,Lever Alternating Wide Grip Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVAlternatingWideGripSeatedRow
+back,BackGeneral,Lever Wide Grip Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVWideLowGripSeatedRowH
+back,BackGeneral,"Lever Seated Row (no chest pad, plate loaded)",Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedRowNoPadPL
+back,BackGeneral,"Lever Straight Back Seated Row (no chest pad, plate loaded)",Lever,https://exrx.net/WeightExercises/BackGeneral/LVStraightBackSeatedRowNoPadPL
+back,BackGeneral,Lever Seated Low Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedLowRow
+back,BackGeneral,Lever Seated High Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedHighRow
+back,BackGeneral,Lever Underhand Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedUnderhandRowH
+back,BackGeneral,Lever Alternating Underhand Seated Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVAlternatingSeatedUnderhandRowH
+back,BackGeneral,Lever T-bar Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVTBarRow
+back,BackGeneral,Lever T-bar Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVTBarRowLM
+back,BackGeneral,Lever Close Grip T-bar Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVCloseGripTBarRow
+back,BackGeneral,Lever Close Grip T-bar Row (plate loaded),Lever,https://exrx.net/WeightExercises/BackGeneral/LVCloseGripTBarRowLM
+back,BackGeneral,Lever Seated High Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedHighRowC
+back,BackGeneral,Lever Alternating Seated High Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVAlternatingSeatedHighRow
+back,BackGeneral,Lever Seated High Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedHighRowB
+back,BackGeneral,Lever Seated Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedRow
+back,BackGeneral,Lever Wide Grip Seated Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVWideGripSeatedRow
+back,BackGeneral,Lever Seated Row (no chest pad),Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedRowNoPad
+back,BackGeneral,Lever Straight Back Seated Row (no chest pad),Lever,https://exrx.net/WeightExercises/BackGeneral/LVStraightBackSeatedRowNoPad
+back,BackGeneral,Lever Underhand Seated Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedUnderhandRowS
+back,BackGeneral,Lever Underhand Seated Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVSeatedUnderhandRow
+back,BackGeneral,Lever Alternating Underhand Seated Row,Lever,https://exrx.net/WeightExercises/BackGeneral/LVAlternatingSeatedUnderhandRow
+back,BackGeneral,Smith Bent-over Row,Smith,https://exrx.net/WeightExercises/BackGeneral/SMBentOverRow
+back,BackGeneral,Weighted Inverted Row,Weight,https://exrx.net/WeightExercises/BackGeneral/WTSupineRow
+back,BackGeneral,Inverted Row,BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWSupineRow
+back,BackGeneral,Inverted Row (feet elevated),BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWSupineRowFeetElevated
+back,BackGeneral,Inverted Row (high bar),BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWSupineRowHigh
+back,BackGeneral,Inverted Row (on hips),BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWSupineRowHips
+back,BackGeneral,Underhand Inverted Row,BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWUnderhandSupineRow
+back,BackGeneral,Underhand Inverted Row (high bar),BodyWeight,https://exrx.net/WeightExercises/BackGeneral/BWUnderhandSupineRowHigh
+back,BackGeneral,Suspended Inverted Row,Suspended,https://exrx.net/WeightExercises/BackGeneral/STInvertedRow
+back,BackGeneral,Suspended Bent-knee Inverted Row,Suspended,https://exrx.net/WeightExercises/BackGeneral/STBentKneeInvertedRow
+back,BackGeneral,Suspended Power Pull,Suspended,https://exrx.net/WeightExercises/BackGeneral/STPowerPull
+back,BackGeneral,Suspended Row,Suspended,https://exrx.net/WeightExercises/BackGeneral/STRow
+back,LatissimusDorsi,Machine-assisted Chin-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsUnderhandChinup
+back,LatissimusDorsi,Machine-assisted Parallel Close Grip Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsCloseGripChinupKneeling
+back,LatissimusDorsi,Machine-assisted Parallel Close Grip Pull-up (standing),Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsCloseGripChinup
+back,LatissimusDorsi,Machine-assisted Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsPullupKneeling
+back,LatissimusDorsi,Machine-assisted Pull-up (open-centered bar),Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsPullupOpenKneeling
+back,LatissimusDorsi,"Machine-assisted Pull-up (open-centered bar, standing)",Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsPullupOpen
+back,LatissimusDorsi,Barbell Pullover,Barbell,https://exrx.net/WeightExercises/LatissimusDorsi/BBPullover
+back,LatissimusDorsi,Barbell Bent Arm Pullover,Barbell,https://exrx.net/WeightExercises/LatissimusDorsi/BBBentArmPullover
+back,LatissimusDorsi,Cable Close Grip Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBCloseGripPulldown
+back,LatissimusDorsi,Cable Alternating Close Grip Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBAlternatingCloseGripPulldown
+back,LatissimusDorsi,Cable One Arm Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBOneArmPulldown
+back,LatissimusDorsi,Cable One Arm Kneeling Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBOneArmKneelingPulldown
+back,LatissimusDorsi,Cable Close Grip Pulldown (stirrups),Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBCloseGripPulldownStirrups
+back,LatissimusDorsi,Cable Kneeling Bent-over Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBKneelingBentoverPullover
+back,LatissimusDorsi,Cable Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBFrontPulldown
+back,LatissimusDorsi,Cable Alternating Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBAlternatingPulldown
+back,LatissimusDorsi,Cable Parallel Grip Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBParallelGripPulldown
+back,LatissimusDorsi,Cable Pulldown (pro lat bar),Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBFrontPulldownProLatBar
+back,LatissimusDorsi,Cable Pulldown (stirrups),Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBPulldownStirrups
+back,LatissimusDorsi,Cable Pullover,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBPullover
+back,LatissimusDorsi,Cable Bent-over Pullover,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBBentoverPullover
+back,LatissimusDorsi,Cable Seated Pullover,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBSeatedStraightArmPullover
+back,LatissimusDorsi,Cable Chin-up,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBUnderhandChinup
+back,LatissimusDorsi,Cable Parallel Close Grip Pull-up,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBParallelCloseGripChinup
+back,LatissimusDorsi,Cable Parallel Grip Pull-up,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBParallelGripChinup
+back,LatissimusDorsi,Cable Pull-up,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBPullup
+back,LatissimusDorsi,Cable Rear Pull-up,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBRearPullup
+back,LatissimusDorsi,Cable Rear Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBRearPulldown
+back,LatissimusDorsi,Cable Twisting Standing Overhead Pull,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBTwistingOverheadPull
+back,LatissimusDorsi,Cable Underhand Pulldown,Cable,https://exrx.net/WeightExercises/LatissimusDorsi/CBUnderhandPulldown
+back,LatissimusDorsi,Lever Close Grip Pulldown (plate-loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVCloseGripPulldownPL
+back,LatissimusDorsi,Lever Front Pulldown (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldownPL
+back,LatissimusDorsi,Lever Pulldown (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPulldownH
+back,LatissimusDorsi,Lever Pullover (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPulloverH
+back,LatissimusDorsi,Lever Rear Pulldown (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVRearPulldownPL
+back,LatissimusDorsi,Lever Underhand Pulldown (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVUnderhandPulldownH
+back,LatissimusDorsi,Lever Underhand Pulldown (plate loaded),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVUnderhandPulldownPL
+back,LatissimusDorsi,Lever Close Grip Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVCloseGripPulldown
+back,LatissimusDorsi,Lever Close Grip Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVCloseGripPulldown2
+back,LatissimusDorsi,Lever Front Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVFrontPulldown
+back,LatissimusDorsi,Lever Iron Cross,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVIronCross
+back,LatissimusDorsi,Lever Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPulldown
+back,LatissimusDorsi,Lever Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPulldown2
+back,LatissimusDorsi,Lever Pulldown (parallel grip),Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPulldownParallelGrip
+back,LatissimusDorsi,Lever Pullover,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVPullover
+back,LatissimusDorsi,Lever Underhand Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVUnderhandPulldownS
+back,LatissimusDorsi,Lever Underhand Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVUnderhandPulldown
+back,LatissimusDorsi,Lever Alternating Underhand Pulldown,Lever,https://exrx.net/WeightExercises/LatissimusDorsi/LVAltUnderhandPulldownS
+back,LatissimusDorsi,Weighted Chin-up,Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtUnderhandChinup
+back,LatissimusDorsi,Weighted Parallel Close Grip Pull-up,Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtCloseGripChinup
+back,LatissimusDorsi,Weighted Pull-up,Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtPullup
+back,LatissimusDorsi,Weighted Pull-up (neutral grip),Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtPullupN
+back,LatissimusDorsi,Weighted Pull-up (open-centered bar),Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtPullupOpen
+back,LatissimusDorsi,Weighted Rear Pull-up,Weight,https://exrx.net/WeightExercises/LatissimusDorsi/WtRearPullup
+back,LatissimusDorsi,Band-assisted Chin-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASChinupBand
+back,LatissimusDorsi,Band-assisted Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASPullupBand
+back,LatissimusDorsi,Band-assisted Neutral Grip Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASNeutralGripPullupFootBand
+back,LatissimusDorsi,Band-assisted Parallel Grip Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASParallelGripPullupBand
+back,LatissimusDorsi,Band-assisted Rear Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASRearPullupBand
+back,LatissimusDorsi,Chin-up,BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWUnderhandChinup
+back,LatissimusDorsi,Parallel Close Grip Pull-up,BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWCloseGripChinup
+back,LatissimusDorsi,Pull-up,BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWPullup
+back,LatissimusDorsi,Pull-up (neutral grip),BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWPullupN
+back,LatissimusDorsi,Pull-up (open-centered bar),BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWPullupOpen
+back,LatissimusDorsi,Rear Pull-up,BodyWeight,https://exrx.net/WeightExercises/LatissimusDorsi/BWRearPullup
+back,LatissimusDorsi,Partner-assisted Chin-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsUnderhandChinupPartner
+back,LatissimusDorsi,Partner-assisted Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsChinupPartner
+back,LatissimusDorsi,Partner-assisted Rear Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsRearPullupPartner
+back,LatissimusDorsi,Self-assisted Chin-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsUnderhandChinupSelf
+back,LatissimusDorsi,Self-assisted Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/AsChinupSelf
+back,LatissimusDorsi,Self-assisted Rear Pull-up,Assisted,https://exrx.net/WeightExercises/LatissimusDorsi/ASRearPullupSelf
+back,LatissimusDorsi,Suspended Pull-up,Suspended,https://exrx.net/WeightExercises/LatissimusDorsi/STPullup
+back,LatissimusDorsi,Suspended Self-assisted Pull-up,Suspended,https://exrx.net/WeightExercises/LatissimusDorsi/STSelfAssistedPullup
+back,TrapeziusUpper,Cambered Barbell Seated Shrug,Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBSeatShrug
+back,TrapeziusUpper,Barbell Shrug,Barbell,https://exrx.net/WeightExercises/TrapeziusUpper/BBShrug
+back,TrapeziusUpper,Trap Bar Shrug,TrapBar,https://exrx.net/WeightExercises/TrapeziusUpper/TBShrug
+back,TrapeziusUpper,Trap Bar Shrug (elevated stand),SafetyBarbell,https://exrx.net/WeightExercises/TrapeziusUpper/SBShrugStand
+back,TrapeziusUpper,Cable Shrug,Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBShrug
+back,TrapeziusUpper,Cable Bar Shrug,Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBBarShrug
+back,TrapeziusUpper,Cable Shrug (dual pulley),Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBShrugDualPulley
+back,TrapeziusUpper,Cable Shrug (with stirrups),Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBShrugStirrups
+back,TrapeziusUpper,Cable One Arm Shrug,Cable,https://exrx.net/WeightExercises/TrapeziusUpper/CBOneArmShrug
+back,TrapeziusUpper,Dumbbell Shrug,Dumbbell,https://exrx.net/WeightExercises/TrapeziusUpper/DBShrug
+back,TrapeziusUpper,Lever Gripless Shrug (plate loaded),Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVXGripShrugPL
+back,TrapeziusUpper,Lever Seated Shrug (plate loaded),Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVSeatedShrug
+back,TrapeziusUpper,Lever Shrug (plate loaded),Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVShrugH
+back,TrapeziusUpper,Lever Barbell Shrug (plate loaded),Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVBBShrug
+back,TrapeziusUpper,Lever Narrow Grip Shrug (plate loaded),Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVShrugNarrowH
+back,TrapeziusUpper,Lever Gripless Shrug,Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVXGripShrug
+back,TrapeziusUpper,Lever Seated Gripless Shrug,Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVSeatXGripShrug
+back,TrapeziusUpper,Lever Shrug,Lever,https://exrx.net/WeightExercises/TrapeziusUpper/LVShrug
+back,TrapeziusUpper,Sled Gripless Shrug,Sled,https://exrx.net/WeightExercises/TrapeziusUpper/SLXGripShrug
+back,TrapeziusUpper,Smith Shrug,Smith,https://exrx.net/WeightExercises/TrapeziusUpper/SMShrug
+back,TrapeziusUpper,Inverted Shrug (on parallel bars),BodyWeight,https://exrx.net/WeightExercises/TrapeziusUpper/BWInvertedShrugPB
+back,TrapeziusUpper,Suspended Inverted Shrug,BodyWeight,https://exrx.net/WeightExercises/TrapeziusUpper/BWInvertedShrugRings
+back,Infraspinatus,Cable Seated Shoulder External Rotation,Cable,https://exrx.net/WeightExercises/Infraspinatus/CBSeatedExternalRotation
+back,Infraspinatus,Cable Standing Shoulder External Rotation,Cable,https://exrx.net/WeightExercises/Infraspinatus/CBStandingExternalRotation
+back,Infraspinatus,Cable Upright Shoulder External Rotation,Cable,https://exrx.net/WeightExercises/Infraspinatus/CBUprightExternalRotation
+back,Infraspinatus,Dumbbell Lying Shoulder External Rotation,Dumbbell,https://exrx.net/WeightExercises/Infraspinatus/DBLyingExternalRotation
+back,Infraspinatus,Dumbbell Incline Shoulder External Rotation,Dumbbell,https://exrx.net/WeightExercises/Infraspinatus/DBInclineExternalRotation
+back,Infraspinatus,Dumbbell Seated Shoulder External Rotation,Dumbbell,https://exrx.net/WeightExercises/Infraspinatus/DBSeatedExternalRotation
+back,Infraspinatus,Dumbbell Upright Shoulder External Rotation,Dumbbell,https://exrx.net/WeightExercises/Infraspinatus/DBUprightExternalRotation
+back,Infraspinatus,Dumbbell Upright Shoulder External Rotation (with support),Dumbbell,https://exrx.net/WeightExercises/Infraspinatus/DBUprightExternalRotationSupport
+back,Infraspinatus,Lever Shoulder External Rotation (plate loaded),Lever,https://exrx.net/WeightExercises/Infraspinatus/LVShoulderExternalRotationPL
+back,Infraspinatus,Lever Shoulder External Rotation,Lever,https://exrx.net/WeightExercises/Infraspinatus/LVExternalRotation
+back,Infraspinatus,Lever Upright Shoulder External Rotation,Lever,https://exrx.net/WeightExercises/Infraspinatus/LVUprightExternalRotation
+back,Infraspinatus,Suspended Shoulder External Rotation,Suspended,https://exrx.net/WeightExercises/Infraspinatus/STShoulderExternalRotation
+back,Subscapularis,Cable Seated Shoulder Internal Rotation,Cable,https://exrx.net/WeightExercises/Subscapularis/CBInternalRotation
+back,Subscapularis,Cable Standing Shoulder Internal Rotation,Cable,https://exrx.net/WeightExercises/Subscapularis/CBStandingInternalRotation
+back,Subscapularis,Dumbbell Shoulder Internal Rotation (on bench),Dumbbell,https://exrx.net/WeightExercises/Subscapularis/DBInternalRotation
+back,Subscapularis,Dumbbell Shoulder Internal Rotation (on floor),Dumbbell,https://exrx.net/WeightExercises/Subscapularis/DBInternalRotationFloor
+back,Subscapularis,Lever Shoulder Internal Rotation (plate loaded),Lever,https://exrx.net/WeightExercises/Subscapularis/LVShoulderInternalRotationPL
+back,Subscapularis,Lever Shoulder Internal Rotation,Lever,https://exrx.net/WeightExercises/Subscapularis/LVInternalRotation
+back,Subscapularis,Lever Upright Shoulder Internal Rotation,Lever,https://exrx.net/WeightExercises/Subscapularis/LVUprightInternalRotation
+chest,PectoralSternal,Machine-assisted Chest Dip,Assisted,https://exrx.net/WeightExercises/PectoralSternal/AsChestDip
+chest,PectoralSternal,Machine-assisted Chest Dip (kneeling),Assisted,https://exrx.net/WeightExercises/PectoralSternal/AsChestDipKneeling
+chest,PectoralSternal,Barbell Bench Press,Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBBenchPress
+chest,PectoralSternal,Barbell Bench Press (power lift),Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBBenchPressPowerLift
+chest,PectoralSternal,Barbell Board Press,Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBBoardPress
+chest,PectoralSternal,Barbell Floor Press,Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBFloorPress
+chest,PectoralSternal,Barbell Guillotine Bench Press,Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBGuillotineBenchPress
+chest,PectoralSternal,Barbell Bench Press (with chains),Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBBenchPressChain
+chest,PectoralSternal,Barbell Decline Bench Press,Barbell,https://exrx.net/WeightExercises/PectoralSternal/BBDeclineBenchPress
+chest,PectoralSternal,Cable Chest Dip,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBChestDip
+chest,PectoralSternal,Cable Decline Fly,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBDeclineFly
+chest,PectoralSternal,Cable Lying Fly,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBLyingFly
+chest,PectoralSternal,Cable Seated Fly,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBSeatedFly
+chest,PectoralSternal,Cable Standing Fly,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly
+chest,PectoralSternal,Cable Bench Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBBenchPress
+chest,PectoralSternal,Cable Bar Bench Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBBarBenchPress
+chest,PectoralSternal,Cable Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBChestPress
+chest,PectoralSternal,Cable One Arm Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBOneArmChestPress
+chest,PectoralSternal,Cable Standing Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBStandingChestPress
+chest,PectoralSternal,Cable Bar Standing Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBBarStandingChestPress
+chest,PectoralSternal,Cable Twisting Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBTwistingChestPress
+chest,PectoralSternal,Cable Decline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBDeclineChestPress
+chest,PectoralSternal,Cable Bar Standing Decline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBBarStandingDeclineChestPress
+chest,PectoralSternal,Cable Standing Decline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBStandingDeclineChestPress
+chest,PectoralSternal,Cable Twisting Standing Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBTwistingStandingChestPress
+chest,PectoralSternal,Dumbbell Bench Press,Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBBenchPress
+chest,PectoralSternal,Dumbbell Decline Bench Press,Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBDeclineBenchPress
+chest,PectoralSternal,Dumbbell Decline Fly,Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBDeclineFly
+chest,PectoralSternal,Dumbbell Fly,Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBFly
+chest,PectoralSternal,Dumbbell Pullover,Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBPullover
+chest,PectoralSternal,Dumbbell Pullover (on apparatus),Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBPulloverAp
+chest,PectoralSternal,Dumbbell Pullover (on arched bench),Dumbbell,https://exrx.net/WeightExercises/PectoralSternal/DBPulloverArchedBench
+chest,PectoralSternal,Lever Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVBenchPressH
+chest,PectoralSternal,Lever Barbell Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVBBBenchPress
+chest,PectoralSternal,Lever Chest Dip (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestDipH
+chest,PectoralSternal,Lever Chest Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestPressH
+chest,PectoralSternal,Lever Decline Chest Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVDeclineChestPressH
+chest,PectoralSternal,Lever Decline Chest Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVDeclineChestPressPL
+chest,PectoralSternal,Lever Wide Grip Chest Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVWideGripChestPress
+chest,PectoralSternal,Lever Chest Dip,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestDip
+chest,PectoralSternal,Lever Chest Dip,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestDip2
+chest,PectoralSternal,Lever Bent-over Fly (on iron cross machine),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVBentoverFlyIronCross
+chest,PectoralSternal,Lever Seated Decline Fly (gripless),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVSeatedDeclineFly
+chest,PectoralSternal,Lever Lying Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVLyingFly
+chest,PectoralSternal,Lever Pec Deck Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVPecDeckFly
+chest,PectoralSternal,Lever Decline Pec Deck Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVDeclineFly
+chest,PectoralSternal,Lever Seated Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVSeatedFly
+chest,PectoralSternal,Lever Seated Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVSeatedFly2
+chest,PectoralSternal,Lever Seated Fly (gripless),Lever,https://exrx.net/WeightExercises/PectoralSternal/LVSeatedFlyGripless
+chest,PectoralSternal,Lever Seated Iron Cross Fly,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVSeatedIronCrossFly
+chest,PectoralSternal,Lever Bench Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVBenchPress
+chest,PectoralSternal,Lever Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestPressS
+chest,PectoralSternal,Lever Alternating Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVAlternatingChestPress
+chest,PectoralSternal,Lever Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestPress
+chest,PectoralSternal,Lever Parallel Grip Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVParallelGripChestPress
+chest,PectoralSternal,Lever Decline Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVDeclineChestPress
+chest,PectoralSternal,Lever Alternating Decline Chest Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVAlternatingDeclineChestPress
+chest,PectoralSternal,Lever Decline Bench Press,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVDeclineBenchPress
+chest,PectoralSternal,Sled Standing Chest Dip,Sled,https://exrx.net/WeightExercises/PectoralSternal/SLStandingChestDip
+chest,PectoralSternal,Sled Horizontal Grip Standing Chest Dip,Sled,https://exrx.net/WeightExercises/PectoralSternal/SLStandingChestDipWideHorizontalGrip
+chest,PectoralSternal,Smith Bench Press,Smith,https://exrx.net/WeightExercises/PectoralSternal/SMBenchPress
+chest,PectoralSternal,Smith Decline Bench Press,Smith,https://exrx.net/WeightExercises/PectoralSternal/SMDeclineBenchPress
+chest,PectoralSternal,Weighted Chest Dip,Weight,https://exrx.net/WeightExercises/PectoralSternal/WtChestDip
+chest,PectoralSternal,Weighted Push-up,Weight,https://exrx.net/WeightExercises/PectoralSternal/WtPushup
+chest,PectoralSternal,Weighted Push-up (on handles),Weight,https://exrx.net/WeightExercises/PectoralSternal/WtPushupHandles
+chest,PectoralSternal,Band-assisted Chest Dip,Assisted,https://exrx.net/WeightExercises/PectoralSternal/ASChestDipBand
+chest,PectoralSternal,Chest Dip,BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWChestDip
+chest,PectoralSternal,Chest Dip (between benches),BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWChestDipBenches
+chest,PectoralSternal,Chest Dip (bent knees between benches),BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWChestDipBenchesBentKnee
+chest,PectoralSternal,Push-up,BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWPushup
+chest,PectoralSternal,Incline Push-up,BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWInclinePushup
+chest,PectoralSternal,Incline Push-up (on bar),BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWInclinePushupBar
+chest,PectoralSternal,Push-up (on knees),BodyWeight,https://exrx.net/WeightExercises/PectoralSternal/BWPushupKnee
+chest,PectoralSternal,Self-assisted Chest Dip,Assisted,https://exrx.net/WeightExercises/PectoralSternal/AsChestDipSelf
+chest,PectoralSternal,Suspended Chest Dip,Suspended,https://exrx.net/WeightExercises/PectoralSternal/STChestDip
+chest,PectoralSternal,Suspended Self-assisted Chest Dip,Suspended,https://exrx.net/WeightExercises/PectoralSternal/STSelfAssistedChestDip
+chest,PectoralSternal,Suspended Chest Press,Suspended,https://exrx.net/WeightExercises/PectoralSternal/STChestPress
+chest,PectoralSternal,Suspended Fly,Suspended,https://exrx.net/WeightExercises/PectoralSternal/STFly
+chest,PectoralClavicular,Barbell Incline Bench Press,Barbell,https://exrx.net/WeightExercises/PectoralClavicular/BBInclineBenchPress
+chest,PectoralClavicular,Cable Incline Bench Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBInclineBenchPress
+chest,PectoralClavicular,Cable Bar Incline Bench Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBBarInclineBenchPress
+chest,PectoralClavicular,Cable Incline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBInclineChestPress
+chest,PectoralClavicular,Cable Standing Incline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBStandingInclineChestPress
+chest,PectoralClavicular,Cable Bar Standing Incline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBBarStandingInclineChestPress
+chest,PectoralClavicular,Cable One Arm Standing Incline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBStandTwistInclineChestPress
+chest,PectoralClavicular,Cable Incline Fly,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBInclineFly
+chest,PectoralClavicular,Cable Standing Incline Fly,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBStandingInclineFly
+chest,PectoralClavicular,Dumbbell Incline Bench Press,Dumbbell,https://exrx.net/WeightExercises/PectoralClavicular/DBInclineBenchPress
+chest,PectoralClavicular,Dumbbell Incline Fly,Dumbbell,https://exrx.net/WeightExercises/PectoralClavicular/DBInclineFly
+chest,PectoralClavicular,Lever Incline Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineBenchPressPL
+chest,PectoralClavicular,Lever Barbell Incline Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVBBInclineBenchPress
+chest,PectoralClavicular,Lever Parallel Grip Incline Bench Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVParallelGripInclineBenchPressPL
+chest,PectoralClavicular,Lever Incline Chest Press (plate loaded),Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineChestPressH
+chest,PectoralClavicular,Lever Incline Chest Press (on Hammer military press),Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineChestPressOnHammerMilitaryPress
+chest,PectoralClavicular,Lever Incline Bench Press,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineBenchPress
+chest,PectoralClavicular,Lever Parallel Grip Incline Bench Press,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVParallelGripInclineBenchPress
+chest,PectoralClavicular,Lever Incline Chest Press,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineChestPress
+chest,PectoralClavicular,Lever Alternating Incline Chest Press,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVAlternatingInclineChestPress
+chest,PectoralClavicular,Lever Parallel Grip Incline Chest Press,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVParallelGripInclineChestPress
+chest,PectoralClavicular,Lever Incline Fly,Lever,https://exrx.net/WeightExercises/PectoralClavicular/LVInclineFly
+chest,PectoralClavicular,Smith Incline Bench Press,Smith,https://exrx.net/WeightExercises/PectoralClavicular/SMInclineBenchPress
+chest,PectoralClavicular,Decline Push-up,BodyWeight,https://exrx.net/WeightExercises/PectoralClavicular/BWDeclinePushup
+chest,PectoralClavicular,Decline Push-up (on stability ball),BodyWeight,https://exrx.net/WeightExercises/PectoralClavicular/BWDeclinePushupOnBall
+chest,PectoralClavicular,Pike Push-up,BodyWeight,https://exrx.net/WeightExercises/PectoralClavicular/BWPikePushup
+chest,PectoralSternal,Machine-assisted Chest Dip,Assisted,https://exrx.net/WeightExercises/PectoralSternal/AsChestDip
+chest,PectoralSternal,Cable Standing Fly,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBStandingFly
+chest,PectoralSternal,Lever Chest Dip,Lever,https://exrx.net/WeightExercises/PectoralSternal/LVChestDip
+chest,PectoralSternal,Weighted Chest Dip,Weight,https://exrx.net/WeightExercises/PectoralSternal/WtChestDip
+chest,SerratusAnterior,Barbell Incline Shoulder Raise,Barbell,https://exrx.net/WeightExercises/SerratusAnterior/BBInclineShoulderRaise
+chest,SerratusAnterior,Cable Incline Shoulder Raise,Cable,https://exrx.net/WeightExercises/SerratusAnterior/CBInclineShoulderRaise
+chest,SerratusAnterior,Cable One Arm Incline Push,Cable,https://exrx.net/WeightExercises/SerratusAnterior/CBOneArmInclinePush
+chest,SerratusAnterior,Dumbbell Incline Shoulder Raise,Dumbbell,https://exrx.net/WeightExercises/SerratusAnterior/DBInclineShoulderRaise
+chest,SerratusAnterior,Lever Incline Shoulder Raise (plate loaded),Lever,https://exrx.net/WeightExercises/SerratusAnterior/LVInclineShoulderRaisePL
+chest,SerratusAnterior,Lever Incline Shoulder Raise,Lever,https://exrx.net/WeightExercises/SerratusAnterior/LVInclineShoulderRaise
+chest,SerratusAnterior,Smith Incline Shoulder Raise,Smith,https://exrx.net/WeightExercises/SerratusAnterior/SMInclineShoulderRaise
+chest,PectoralClavicular,Cable One Arm Standing Incline Chest Press,Cable,https://exrx.net/WeightExercises/PectoralClavicular/CBStandTwistInclineChestPress
+chest,PectoralSternal,Cable Twisting Chest Press,Cable,https://exrx.net/WeightExercises/PectoralSternal/CBTwistingChestPress
+chest,SerratusAnterior,Push-up Plus,BodyWeight,https://exrx.net/WeightExercises/SerratusAnterior/BWPushUpPlus
+waist,RectusAbdominis,Barbell Push Crunch,Barbell,https://exrx.net/WeightExercises/RectusAbdominis/BBPushCrunch
+waist,RectusAbdominis,Barbell Push Sit-up,Barbell,https://exrx.net/WeightExercises/RectusAbdominis/BBPushSitUp
+waist,RectusAbdominis,Cable Lying Crunch (on stability ball),Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBLyingCrunchStabilityBall
+waist,RectusAbdominis,Cable Lying Leg-Hip Raise,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBLyingLegHipRaise
+waist,RectusAbdominis,Cable Lying Leg-Hip Raise (on bench),Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBLyingLegHipRaiseBench
+waist,RectusAbdominis,Cable Lying Straight Leg-Hip Raise,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBLyingStraightLegHipRaise
+waist,RectusAbdominis,Cable Kneeling Crunch,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBKneelingCrunch
+waist,RectusAbdominis,Cable Seated Crunch,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBSeatedCrunch
+waist,RectusAbdominis,Cable Overhead Seated Crunch,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBOverheadSeatedCrunch
+waist,RectusAbdominis,Cable Seated Crunch (plate loaded),Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBSeatedCrunchPL
+waist,RectusAbdominis,Cable Standing Crunch,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBStandingCrunch
+waist,RectusAbdominis,Cable Standing Overhead Crunch,Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBStandingOverheadCrunch
+waist,RectusAbdominis,Cable Standing Overhead Crunch (multi-exercise bar),Cable,https://exrx.net/WeightExercises/RectusAbdominis/CBStandingOverheadCrunchMultiBar
+waist,RectusAbdominis,Dumbbell Push Crunch,Dumbbell,https://exrx.net/WeightExercises/RectusAbdominis/DBPushCrunch
+waist,RectusAbdominis,Dumbbell Push Sit-up,Dumbbell,https://exrx.net/WeightExercises/RectusAbdominis/DBPushSitUp
+waist,RectusAbdominis,Lever Lying Leg Raise Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVLegRaiseCrunch
+waist,RectusAbdominis,Lever Lying Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVLyingCrunchPL
+waist,RectusAbdominis,Lever Lying Leg-Hip Raise (plate loaded),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVLyingLegHipRaise
+waist,RectusAbdominis,Lever Seated Leg Raise Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedLegRaiseCrunchPL
+waist,RectusAbdominis,Lever Vertical Leg-Hip Raise (plate loaded),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVVerticalLegHipRaise
+waist,RectusAbdominis,Lever Lying Crunch,Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVLyingCrunch
+waist,RectusAbdominis,Lever Push Crunch,Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVPushCrunch
+waist,RectusAbdominis,Lever Seated Crunch,Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunch
+waist,RectusAbdominis,Lever Seated Crunch (arm bar),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunchArmBar
+waist,RectusAbdominis,Lever Seated Crunch (arm pad),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunchArmPad
+waist,RectusAbdominis,Lever Seated Crunch (chest pad),Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedCrunchChestPad
+waist,RectusAbdominis,Lever Seated Leg Raise Crunch,Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSeatedLegRaiseCrunch
+waist,RectusAbdominis,Lever Side Lying Leg Hip Raise,Lever,https://exrx.net/WeightExercises/RectusAbdominis/LVSideLyingLegHipRaise
+waist,RectusAbdominis,Sled Leg Hip Raise (ab coaster),Sled,https://exrx.net/WeightExercises/RectusAbdominis/SLLegHipRaise
+waist,RectusAbdominis,Weighted Crunch,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtCrunch
+waist,RectusAbdominis,Weighted Crunch (plate on chest),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtCrunchX
+waist,RectusAbdominis,Weighted Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtBallCrunch
+waist,RectusAbdominis,Weighted Overhead Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtOverheadBallCrunch
+waist,RectusAbdominis,Weighted Incline Crunch,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtInclineCrunch
+waist,RectusAbdominis,Weighted Incline Crunch (arms crossed),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtInclineCrunchX
+waist,RectusAbdominis,Weighted Incline Sit-up,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtInclineSitUp
+waist,RectusAbdominis,Weighted Incline Sit-up (arms crossed),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtInclineSitUpX
+waist,RectusAbdominis,Medicine Ball Overhead Throw Sit-up (machine),MedicineBall,https://exrx.net/WeightExercises/RectusAbdominis/MBSitUp
+waist,RectusAbdominis,Medicine Ball Chest Throw Sit-up (machine),MedicineBall,https://exrx.net/WeightExercises/RectusAbdominis/MBSitUpChest
+waist,RectusAbdominis,Weighted Sit-up,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtSitUp
+waist,RectusAbdominis,Weighted Sit-up (arms crossed),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtSitUpX
+waist,RectusAbdominis,Weighted Hanging Leg-Hip Raise,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtHangingLegHipRaise
+waist,RectusAbdominis,Weighted Incline Leg-Hip Raise,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtInclineLegHipRaise
+waist,RectusAbdominis,Weighted Lying Leg-Hip Raise,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtLegHipRaise
+waist,RectusAbdominis,Weighted Vertical Leg-Hip Raise,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtVerticalLegHipRaise
+waist,RectusAbdominis,Weighted Vertical Leg-Hip Raise (Bosu support),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WTVerticalLegHipRaiseBosa
+waist,RectusAbdominis,Weighted Vertical Leg-Hip Raise (on parallel bars),Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtVerticalLegHipRaisePB
+waist,Obliques,Cable Standing Twisting Crunch,Cable,https://exrx.net/WeightExercises/Obliques/CBStandingTwistingCrunch
+waist,Obliques,Lever Seated Twisting Leg Raise Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/Obliques/LVSeatedTwistingLegRaiseCrunch
+waist,Obliques,Weighted Incline Twisting Crunch (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingCrunch
+waist,Obliques,Weighted Side Crunch,Weight,https://exrx.net/WeightExercises/Obliques/WtSideCrunch
+waist,Obliques,Weighted Side Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WTSideCrunchOnBall
+waist,Obliques,Weighted Twisting Crunch,Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingCrunch
+waist,Obliques,Weighted Twisting Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingBallCrunch
+waist,Obliques,Weighted Incline Twisting Situp,Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingSitUp
+waist,Obliques,Weighted Incline Twisting Situp (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingSitUpX
+waist,Obliques,Weighted Twisting Situp,Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingSitUp
+waist,Obliques,Weighted Twisting Situp (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingSitUpX
+waist,RectusAbdominis,Crunch,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWCrunch
+waist,RectusAbdominis,Crunch (arms crossed),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWCrunchX
+waist,RectusAbdominis,Crunch (arms down),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWCrunchAD
+waist,RectusAbdominis,Crunch Up,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWCrunchUp
+waist,RectusAbdominis,Incline Crunch,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInclineCrunch
+waist,RectusAbdominis,Incline Crunch (arms down),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInclineCrunchDown
+waist,RectusAbdominis,Ball Crunch (on stability ball),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWBallCrunch
+waist,RectusAbdominis,"Crunch (on stability ball, arms crossed)",BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWBallCrunchX
+waist,RectusAbdominis,Jack-knife Sit-up,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtJackKnifeSitUp
+waist,RectusAbdominis,Hanging Leg-Hip Raise,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWHangingLegHipRaise
+waist,RectusAbdominis,Hanging Straight Leg-Hip Raise,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWHangingStraightLegHipRaise
+waist,RectusAbdominis,Incline Leg-Hip Raise,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInclineLegHipRaise
+waist,RectusAbdominis,Lying Leg-Hip Raise,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWLyingLegHipRaise
+waist,RectusAbdominis,Leg-Hip Raise (on stability ball),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWLegHipRaiseExBall
+waist,RectusAbdominis,Vertical Leg-Hip Raise,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaise
+waist,RectusAbdominis,Vertical Leg-Hip Raise (parallel bars),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaisePB
+waist,RectusAbdominis,Vertical Straight Leg-Hip Raise (parallel bars),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWVertStraightLegHipRaisePB
+waist,RectusAbdominis,Vertical Leg-Hip Raise (Bosu support),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWVerticalLegHipRaiseBosa
+waist,RectusAbdominis,Incline Sit-up,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInclineSitUp
+waist,RectusAbdominis,Incline Sit-up (arms crossed),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInclineSitUpX
+waist,RectusAbdominis,Inverted Sit-up,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWInvertedSitup
+waist,RectusAbdominis,Sit-up,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWSitUp
+waist,RectusAbdominis,Sit-up (arms crossed),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpX
+waist,RectusAbdominis,Sit-up (arms down),BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWSitUpAD
+waist,RectusAbdominis,V-up,Weight,https://exrx.net/WeightExercises/RectusAbdominis/WtVUp
+waist,RectusAbdominis,Suspended Jack-knife,Suspended,https://exrx.net/WeightExercises/RectusAbdominis/STJackknife
+waist,RectusAbdominis,Suspended Jack-knife Pike,Suspended,https://exrx.net/WeightExercises/RectusAbdominis/STJackknifePike
+waist,RectusAbdominis,Suspended Pull Through,Suspended,https://exrx.net/WeightExercises/RectusAbdominis/STPullThrough
+waist,RectusAbdominis,Suspended Rollout,Suspended,https://exrx.net/WeightExercises/RectusAbdominis/STRollout
+waist,RectusAbdominis,Front Plank,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWFrontPlank
+waist,RectusAbdominis,Stability Ball Rollout,BodyWeight,https://exrx.net/WeightExercises/RectusAbdominis/BWBallRollout
+waist,Transverse,Abdominal Vacuum,None,https://exrx.net/WeightExercises/TransverseAbdominus/AbdominalVacuum
+waist,Obliques,Cable Kneeling Twisting Crunch,Cable,https://exrx.net/WeightExercises/Obliques/CBKneelingTwistingCrunch
+waist,Obliques,Cable Russian Twist (on stability ball),Cable,https://exrx.net/WeightExercises/Obliques/CBRussianTwistBall
+waist,Obliques,Cable Side Bend,Cable,https://exrx.net/WeightExercises/Obliques/CBSideBend
+waist,Obliques,Cable Side Crunch,Cable,https://exrx.net/WeightExercises/Obliques/CBSideCrunch
+waist,Obliques,Cable Seated Twist,Cable,https://exrx.net/WeightExercises/Obliques/CBSeatedTwist
+waist,Obliques,Cable Seated Cross Arm Twist,Cable,https://exrx.net/WeightExercises/Obliques/CBCrossArmTwist
+waist,Obliques,Cable Standing Twisting Crunch,Cable,https://exrx.net/WeightExercises/Obliques/CBStandingTwistingCrunch
+waist,Obliques,Cable Standing Twisting Crunch (single side),Cable,https://exrx.net/WeightExercises/Obliques/CBStandingTwistingCrunchSingle
+waist,Obliques,Cable Twist,Cable,https://exrx.net/WeightExercises/Obliques/CBTwist
+waist,Obliques,Cable Twist (down up),Cable,https://exrx.net/WeightExercises/Obliques/CBDownUpTwist
+waist,Obliques,Cable Twist (up down),Cable,https://exrx.net/WeightExercises/Obliques/CBUpDownTwist
+waist,Obliques,Dumbbell 45¢X Side Bend,Dumbbell,https://exrx.net/WeightExercises/Obliques/DB45SideBend
+waist,Obliques,Dumbbell Russian Twist (on stability ball),Dumbbell,https://exrx.net/WeightExercises/Obliques/DBRussianTwistBall
+waist,Obliques,Dumbbell Side Bend,Dumbbell,https://exrx.net/WeightExercises/Obliques/DBSideBend
+waist,Obliques,Lever Barbell Side Bend (plate loaded),Lever,https://exrx.net/WeightExercises/Obliques/LVBBSideBend
+waist,Obliques,Lever Seated Twisting Leg Raise Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/Obliques/LVSeatedTwistingLegRaiseCrunch
+waist,Obliques,Lever Seated Side Leg Raise Crunch (plate loaded),Lever,https://exrx.net/WeightExercises/Obliques/LVSeatedSideLegRaiseCrunch
+waist,Obliques,Lever Kneeling Twist,Lever,https://exrx.net/WeightExercises/Obliques/LVKneelingTwist
+waist,Obliques,Lever Lying Twist,Lever,https://exrx.net/WeightExercises/Obliques/LVLyingTwist
+waist,Obliques,Lever Seated Side Bend,Lever,https://exrx.net/WeightExercises/Obliques/LVSeatedSideBend
+waist,Obliques,Lever Seated Twist,Lever,https://exrx.net/WeightExercises/Obliques/LVTwist
+waist,Obliques,Lever Seated Twist,Lever,https://exrx.net/WeightExercises/Obliques/LVTwistLower
+waist,Obliques,Lever Seated Twist,Lever,https://exrx.net/WeightExercises/Obliques/LVTwistAltMach
+waist,Obliques,Lever Seated Twist (gripless),Lever,https://exrx.net/WeightExercises/Obliques/LVTwistGripless
+waist,Obliques,Lever Seated Side Crunch,Lever,https://exrx.net/WeightExercises/Obliques/LVSideCrunch
+waist,Obliques,Lever Standing Side Bend,Lever,https://exrx.net/WeightExercises/Obliques/LVStandingSideBend
+waist,Obliques,Sled Side Leg Hip Raise (ab coaster),Sled,https://exrx.net/WeightExercises/Obliques/SLSideHipRaiseAbCoaster
+waist,Obliques,Weighted Lying Twist,Weight,https://exrx.net/WeightExercises/Obliques/WtLyingTwist
+waist,Obliques,Weighted Bent-knee Lying Twist,Weight,https://exrx.net/WeightExercises/Obliques/WtBentKneeLyingTwist
+waist,Obliques,Weighted Russian Twist (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WTRussianTwistBall
+waist,Obliques,Weighted 45¢X Side Bend,Weight,https://exrx.net/WeightExercises/Obliques/WT45SideBend
+waist,Obliques,Weighted Side Bend (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WTBallSideBend
+waist,Obliques,Weighted Incline Twisting Crunch (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingCrunch
+waist,Obliques,Weighted Side Crunch,Weight,https://exrx.net/WeightExercises/Obliques/WtSideCrunch
+waist,Obliques,Weighted Side Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WTSideCrunchOnBall
+waist,Obliques,Weighted Twisting Crunch,Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingCrunch
+waist,Obliques,Weighted Twisting Crunch (on stability ball),Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingBallCrunch
+waist,Obliques,Weighted Incline Twisting Situp,Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingSitUp
+waist,Obliques,Weighted Incline Twisting Situp (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtInclineTwistingSitUpX
+waist,Obliques,Weighted Twisting Situp,Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingSitUp
+waist,Obliques,Weighted Twisting Situp (arms crossed),Weight,https://exrx.net/WeightExercises/Obliques/WtTwistingSitUpX
+waist,ErectorSpinae,Dumbbell One Arm Straight Leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/ErectorSpinae/DBOneArmStraightLegDeadlift
+waist,Obliques,Angled Side Bridge,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWAngledSideBridge
+waist,Obliques,Lying Twist,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWLyingTwist
+waist,Obliques,Bent-knee Lying Twist,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWBentKneeLyingTwist
+waist,Obliques,Plank Twist (on stability ball),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWExerciseBallPlankTwist
+waist,Obliques,Side Bend (on stability ball),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWBallSideBend
+waist,Obliques,Side Bridge,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWSideBridge
+waist,Obliques,Bent Knee Side Bridge,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWBentKneeSideBridge
+waist,Obliques,Incline Twisting Situp,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWInclineTwistingSitUp
+waist,Obliques,Incline Twisting Situp (arms crossed),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWInclineTwistingSitUpX
+waist,Obliques,Twisting Situp,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWTwistingSitUp
+waist,Obliques,Twisting Situp (arms crossed),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWTwistingSitUpX
+waist,Obliques,Incline Twisting Crunch,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWInclineTwistingCrunch
+waist,Obliques,Incline Twisting Crunch (arms crossed),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWInclineTwistingCrunchX
+waist,Obliques,Side Crunch,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWSideCrunch
+waist,Obliques,Side Crunch (on stability ball),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWSideCrunchOnBall
+waist,Obliques,Twisting Crunch,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWTwistingCrunch
+waist,Obliques,Twisting Crunch (arms crossed),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWTwistingCrunchX
+waist,Obliques,Twisting Crunch (on stability ball),BodyWeight,https://exrx.net/WeightExercises/Obliques/BWTwistingBallCrunch
+waist,Obliques,Suspended Side Bend,Suspended,https://exrx.net/WeightExercises/Obliques/STSideBend
+waist,Obliques,Suspended Side Bridge,Suspended,https://exrx.net/WeightExercises/Obliques/STSideBridge
+waist,Obliques,Suspended Twist,Suspended,https://exrx.net/WeightExercises/Obliques/STTwist
+waist,Obliques,Suspended Twisting Jack-knife,Suspended,https://exrx.net/WeightExercises/Obliques/STTwistingJackknife
+waist,Obliques,Side Plank,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWSidePlank
+waist,Obliques,Bent Knee Side Plank,BodyWeight,https://exrx.net/WeightExercises/Obliques/BWBentKneeSidePlank
+waist,ErectorSpinae,Barbell Hyperextension,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBHyperextension
+waist,ErectorSpinae,Barbell Back Extension (on hyperextension apparatus),Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBBackExtension
+waist,ErectorSpinae,Barbell 45¢X Hyperextension,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BB45Hyperextension
+waist,ErectorSpinae,Barbell 45¢X Back Extension (on hyperextension apparatus),Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BB45BackExtension
+waist,ErectorSpinae,Barbell Bent Knee Good-morning,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBBentKneeGoodMorning
+waist,ErectorSpinae,Barbell Deadlift,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBDeadlift
+waist,ErectorSpinae,Barbell Block Pull,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBBlockPull
+waist,ErectorSpinae,Barbell Deficit Deadlift,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBDeficitDeadlift
+waist,ErectorSpinae,Barbell Rack Pull,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBRackPull
+waist,ErectorSpinae,Barbell Sumo Deadlift,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBSumoDeadlift
+waist,ErectorSpinae,Barbell Sumo Block Pull,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBSumoBlockPull
+waist,ErectorSpinae,Barbell Stiff Leg Deadlift,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBStiffLegDeadlift
+waist,ErectorSpinae,Barbell Straight Leg Deadlift,Barbell,https://exrx.net/WeightExercises/ErectorSpinae/BBStraightLegDeadlift
+waist,ErectorSpinae,Trap Bar Deadlift,TrapBar,https://exrx.net/WeightExercises/ErectorSpinae/TBDeadlift
+waist,ErectorSpinae,Trap Bar Stiff Leg Deadlift,TrapBar,https://exrx.net/WeightExercises/ErectorSpinae/TBStiffLegDeadlift
+waist,ErectorSpinae,Trap Bar Straight Leg Deadlift,TrapBar,https://exrx.net/WeightExercises/ErectorSpinae/TBStraightLegDeadlift
+waist,ErectorSpinae,Cable Stiff Leg Deadlift,Cable,https://exrx.net/WeightExercises/ErectorSpinae/CBStiffLegDeadlift
+waist,ErectorSpinae,Cable Straight Leg Deadlift,Cable,https://exrx.net/WeightExercises/ErectorSpinae/CBStraightLegDeadlift
+waist,ErectorSpinae,Dumbbell Straight Leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/ErectorSpinae/DBStraightLegDeadlift
+waist,ErectorSpinae,Dumbbell One Arm Straight Leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/ErectorSpinae/DBOneArmStraightLegDeadlift
+waist,ErectorSpinae,Lever Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVDeadlift
+waist,ErectorSpinae,Lever Stiff Leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVStiffLegDeadlift
+waist,ErectorSpinae,Lever Straight Leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVStraightLegDeadlift
+waist,ErectorSpinae,Lever Back Extension,Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVBackExtensionN
+waist,ErectorSpinae,Lever Back Extension,Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVBackExtension
+waist,ErectorSpinae,Lever Back Extension,Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVBackExtensionMedEx
+waist,ErectorSpinae,Lever Kneeling Back Extension,Lever,https://exrx.net/WeightExercises/ErectorSpinae/LVKneelingBackExtension
+waist,ErectorSpinae,Smith Bent Knee Good-morning,Smith,https://exrx.net/WeightExercises/ErectorSpinae/SMBentKneeGoodMorning
+waist,ErectorSpinae,Smith Deadlift,Smith,https://exrx.net/WeightExercises/ErectorSpinae/SMDeadlift
+waist,ErectorSpinae,Smith Stiff Leg Deadlift,Smith,https://exrx.net/WeightExercises/ErectorSpinae/SMStiffLegDeadlift
+waist,ErectorSpinae,Smith Straight Leg Deadlift,Smith,https://exrx.net/WeightExercises/ErectorSpinae/SMStraightLegDeadlift
+waist,ErectorSpinae,Weighted Hyperextension,Weight,https://exrx.net/WeightExercises/ErectorSpinae/WtHyperextension
+waist,ErectorSpinae,Weighted Back Extension (on hyperextension apparatus),Weight,https://exrx.net/WeightExercises/ErectorSpinae/WtBackExtension
+waist,ErectorSpinae,Weighted Back Extension (on stability ball),Weight,https://exrx.net/WeightExercises/ErectorSpinae/WtBallHyperextension
+waist,ErectorSpinae,Weighted 45¢X Hyperextension,Weight,https://exrx.net/WeightExercises/ErectorSpinae/Wt45Hyperextension
+waist,ErectorSpinae,Weighted 45¢X Back Extension (on hyperextension apparatus),Weight,https://exrx.net/WeightExercises/ErectorSpinae/Wt45BackExtension
+waist,ErectorSpinae,"Back Extension (on stability ball, arms down)",BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionBall
+waist,ErectorSpinae,"Back Extension (on stability ball, arms crossed)",BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionBallArmsCrossed
+waist,ErectorSpinae,"Back Extension (on stability ball, arms up)",BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionBallArmsUp
+waist,ErectorSpinae,Bird Dog,BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWBirdDog
+waist,ErectorSpinae,Alternating Bird Dog,BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWAlternatingBirdDog
+waist,ErectorSpinae,Bird Dog (on stability ball),BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWBirdDogExBall
+waist,ErectorSpinae,Alternating Bird Dog (on exercise ball),BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWAlternatingBirdDogExBall
+waist,ErectorSpinae,Hanging Hyperextension,BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHangingHyperextension
+waist,ErectorSpinae,Hyperextension,BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionHead
+waist,ErectorSpinae,Hyperextension (arms crossed),BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionX
+waist,ErectorSpinae,Hyperextension (hands behind hips),BodyWeight,https://exrx.net/WeightExercises/ErectorSpinae/BWHyperextensionHips
+waist,ErectorSpinae,Superman,None,https://exrx.net/WeightExercises/ErectorSpinae/Superman
+waist,ErectorSpinae,Contralateral Superman,None,https://exrx.net/WeightExercises/ErectorSpinae/ContraLateralSuperman
+waist,ErectorSpinae,Suspended Hyperextension,Suspended,https://exrx.net/WeightExercises/ErectorSpinae/STHyperextension
+waist,ErectorSpinae,Suspended Pull Through,Suspended,https://exrx.net/WeightExercises/ErectorSpinae/STPullThrough
+waist,ErectorSpinae,Rear Decline Bridge,None,https://exrx.net/WeightExercises/ErectorSpinae/RearDeclinePlank
+waist,ErectorSpinae,Rear Incline Bridge,None,https://exrx.net/WeightExercises/ErectorSpinae/RearInclinePlank
+hips,GluteusMaximus,Barbell Bent Knee Good-morning,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBBentKneeGoodMorning
+hips,GluteusMaximus,Barbell Seated Good-morning,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSeatedGoodMorning
+hips,GluteusMaximus,Barbell Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBDeadlift
+hips,GluteusMaximus,Barbell Block Pull,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBBlockPull
+hips,GluteusMaximus,Barbell Deficit Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBDeficitDeadlift
+hips,GluteusMaximus,Barbell Rack Pull,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBRackPull
+hips,GluteusMaximus,Barbell Sumo Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSumoDeadlift
+hips,GluteusMaximus,Barbell Sumo Block Pull,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSumoBlockPull
+hips,GluteusMaximus,Barbell Stiff Leg Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBStiffLegDeadlift
+hips,GluteusMaximus,Barbell Single Leg Stiff-leg Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSingleLegStiffLegDeadlift
+hips,GluteusMaximus,Barbell Straight-back Stiff-leg Deadlift,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBStrBackStiffLegDeadlift
+hips,GluteusMaximus,Barbell Hip Thrust,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBHipThrust
+hips,GluteusMaximus,Barbell Lunge,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBLunge
+hips,GluteusMaximus,Barbell Rear Lunge,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBRearLunge
+hips,GluteusMaximus,Barbell Side Lunge,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSideLunge
+hips,GluteusMaximus,Barbell Walking Lunge,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBWalkingLunge
+hips,GluteusMaximus,Barbell Single Leg Split Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSingleLegSplitSquat
+hips,GluteusMaximus,Barbell Side Split Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSideSplitSquat
+hips,GluteusMaximus,Barbell Single Leg Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSingleLegSquat
+hips,GluteusMaximus,Barbell Split Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSplitSquat
+hips,GluteusMaximus,Barbell Squat (low bar),Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSquat
+hips,GluteusMaximus,Barbell Box Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBBoxSquat
+hips,GluteusMaximus,Barbell Front Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBFrontSquat
+hips,GluteusMaximus,Barbell Full Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBFullSquat
+hips,GluteusMaximus,Barbell Hack Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBHackSquat
+hips,GluteusMaximus,Safety Barbell Squat,SafetyBarbell,https://exrx.net/WeightExercises/GluteusMaximus/SBSquat
+hips,GluteusMaximus,Safety Barbell Squat (long handles),SafetyBarbell,https://exrx.net/WeightExercises/GluteusMaximus/SBSquatHandles
+hips,GluteusMaximus,Safety Barbell Squat (self-spotting),SafetyBarbell,https://exrx.net/WeightExercises/GluteusMaximus/SBSquatSelfSpot
+hips,GluteusMaximus,Trap Bar Squat,TrapBar,https://exrx.net/WeightExercises/GluteusMaximus/TBSquat
+hips,GluteusMaximus,Barbell Squat (with chains),Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBSquatChains
+hips,GluteusMaximus,Barbell Zercher Squat,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBZercherSquat
+hips,GluteusMaximus,Barbell Step-up,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBStepUp
+hips,GluteusMaximus,Barbell Lateral Step-up,Barbell,https://exrx.net/WeightExercises/GluteusMaximus/BBLateralStepUp
+hips,GluteusMaximus,Trap Bar Deadlift,TrapBar,https://exrx.net/WeightExercises/GluteusMaximus/TBDeadlift
+hips,GluteusMaximus,Trap Bar Stiff Leg Deadlift,TrapBar,https://exrx.net/WeightExercises/GluteusMaximus/TBStiffLegDeadlift
+hips,GluteusMaximus,Trap Bar Straight-back Stiff-leg Deadlift,TrapBar,https://exrx.net/WeightExercises/GluteusMaximus/TBStrBackStiffLegDeadlift
+hips,GluteusMaximus,Cable Rear Lunge,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBRearLunge
+hips,GluteusMaximus,Cable Rear Step-down Lunge,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBRearStepdownLunge
+hips,GluteusMaximus,Cable Single Leg Split Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBSingleLegSplitSquat
+hips,GluteusMaximus,Cable One Arm Single Leg Split Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBSingleLegSplitSquatOneArm
+hips,GluteusMaximus,Cable Split Squat (belt),Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBLunge
+hips,GluteusMaximus,Cable Split Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBLungeTwoArm
+hips,GluteusMaximus,Cable One Arm Split Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBLungeOneArm
+hips,GluteusMaximus,Cable Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBSquat
+hips,GluteusMaximus,Cable Bar Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBBarSquat
+hips,GluteusMaximus,Cable Belt Squat,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBSquatBelt
+hips,GluteusMaximus,Cable Standing Hip Extension,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBStandingHipExtension
+hips,GluteusMaximus,Cable Bent-over Hip Extension,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBBentOverHipExtension
+hips,GluteusMaximus,Cable Step-up,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBStepUp
+hips,GluteusMaximus,Cable Stiff Leg Deadlift,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBStiffLegDeadlift
+hips,GluteusMaximus,Cable Straight-back Stiff-leg Deadlift,Cable,https://exrx.net/WeightExercises/GluteusMaximus/CBStrBackStiffLegDeadlift
+hips,GluteusMaximus,Dumbbell Lunge,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBLunge
+hips,GluteusMaximus,Dumbbell Alternating Side Lunge,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSideLunge
+hips,GluteusMaximus,Dumbbell Rear Lunge,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBRearLunge
+hips,GluteusMaximus,Dumbbell Side Lunge,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSideLunge2
+hips,GluteusMaximus,Dumbbell Walking Lunge,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBWalkingLunge
+hips,GluteusMaximus,Dumbell Single Leg Stiff-leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSingleLegStiffLegDeadlift
+hips,GluteusMaximus,Dumbbell Single Leg Split Squat,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSingleLegSplitSquat
+hips,GluteusMaximus,Dumbbell Single Leg Squat,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSingleLegSquat
+hips,GluteusMaximus,Dumbbell Split Squat,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSplitSquat
+hips,GluteusMaximus,Dumbbell Squat,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBSquat
+hips,GluteusMaximus,Dumbbell Front Squat,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBFrontSquat
+hips,GluteusMaximus,Dumbbell Step-up,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBStepUp
+hips,GluteusMaximus,Dumbbell Lateral Step-up,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBLateralStepUp
+hips,GluteusMaximus,Dumbbell Step Down,Dumbbell,https://exrx.net/WeightExercises/GluteusMaximus/DBStepDown
+hips,GluteusMaximus,Lever Bent-over Rear Kick (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBentOverRearKickPL
+hips,GluteusMaximus,Lever Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVDeadlift
+hips,GluteusMaximus,Lever Stiff Leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVStiffLegDeadlift
+hips,GluteusMaximus,Lever Straight-back Stiff-leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVStrBackStiffLegDeadlift
+hips,GluteusMaximus,Lever 45¢X Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LV45LegPress
+hips,GluteusMaximus,Lever Single Leg 45¢X Leg Press,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLeg45LegPress
+hips,GluteusMaximus,Lever Hack Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVHackPress
+hips,GluteusMaximus,Lever Lying Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVLyingLegPressH
+hips,GluteusMaximus,Lever Lying Leg Press (custom - plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVLyingLegPress
+hips,GluteusMaximus,Lever Single Leg Lying Leg Press (custom - plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegLyingLegPress
+hips,GluteusMaximus,Lever Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSeatedLegPressH
+hips,GluteusMaximus,Lever Alternating Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVAlternatingLegPress
+hips,GluteusMaximus,Lever Single Leg Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegPressH
+hips,GluteusMaximus,Lever Lying Hip Extension (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVLyingHipExtensionH
+hips,GluteusMaximus,Lever Power Runner (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVPowerRunnerPL
+hips,GluteusMaximus,Lever Rear Lunge (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVRearLunge
+hips,GluteusMaximus,Lever Barbell Rear Lunge (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBBRearLunge
+hips,GluteusMaximus,Lever Reverse Hyper-extension (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVReverseHyperextension
+hips,GluteusMaximus,Lever Single Leg Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegSplitSquat
+hips,GluteusMaximus,Lever Barbell Single Leg Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBBSingleLegSplitSquat
+hips,GluteusMaximus,Lever Single Leg Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegSquat
+hips,GluteusMaximus,Lever Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSplitSquat
+hips,GluteusMaximus,Lever Barbell Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBBSplitSquat
+hips,GluteusMaximus,Lever Sliding Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSlidingSplitSquatPL
+hips,GluteusMaximus,Lever Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSquatPL
+hips,GluteusMaximus,Lever Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSquatPL3
+hips,GluteusMaximus,Lever Barbell Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBBSquat
+hips,GluteusMaximus,Lever Front Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVFrontSquatPL
+hips,GluteusMaximus,Lever Full Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVFullSquatPL
+hips,GluteusMaximus,Lever Hack Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVHackSquat
+hips,GluteusMaximus,Lever V-Squat (plate loaded),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVVSquatH
+hips,GluteusMaximus,Lever Bent-over Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBentOverHipExtension
+hips,GluteusMaximus,Lever Kneeling Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVKneelingHipExtensionRoller
+hips,GluteusMaximus,Lever Alternating Kneeling Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVAlternatingKneelingHipExtRoll
+hips,GluteusMaximus,Lever Lying Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVLyingHipExtension
+hips,GluteusMaximus,Lever Alternating Lying Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVAlternatingLyingHipExtension
+hips,GluteusMaximus,Lever Standing Hip Extension,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVStandingHipExtension
+hips,GluteusMaximus,Lever Standing Hip Extension (with abdominal pad),Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVStandingHipExtensionTech
+hips,GluteusMaximus,Lever Alternating Seated Leg Press,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVAlternatingLyingLegPress
+hips,GluteusMaximus,Lever Seated Leg Press,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSeatedLegPress
+hips,GluteusMaximus,Lever Single Leg Seated Leg Press,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegLegPress
+hips,GluteusMaximus,Lever Bent-over Rear Kick,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVBentOverRearKick
+hips,GluteusMaximus,Lever Kneeling Rear Kick,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVKneelingHipExtension
+hips,GluteusMaximus,Lever Standing Rear Kick,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegStandingLegPress
+hips,GluteusMaximus,Lever Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSquat
+hips,GluteusMaximus,Lever V-Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVVSquat
+hips,GluteusMaximus,Lever Split V-Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegVSquat
+hips,GluteusMaximus,Lever Single Leg Split V-Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVSingleLegSplitVSquat
+hips,GluteusMaximus,Lever Alternating Single Leg Split V-Squat,Lever,https://exrx.net/WeightExercises/GluteusMaximus/LVAlternatingSingleLegSplitVSquat
+hips,GluteusMaximus,Sled 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SL45LegPress
+hips,GluteusMaximus,Sled Alternating 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLAlternating45LegPress
+hips,GluteusMaximus,Sled Single Leg 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSingleLeg45LegPress
+hips,GluteusMaximus,Sled Hack Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLHackPress
+hips,GluteusMaximus,Sled Lying Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLLyingLegPress
+hips,GluteusMaximus,Sled Lying Leg Press (plate loaded),Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLLyingLegPressPL
+hips,GluteusMaximus,Sled Single Leg Lying Leg Press (plate loaded),Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSingleLegLyingLegPressPL
+hips,GluteusMaximus,Sled Single Leg Lying Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSingleLegLyingLegPress
+hips,GluteusMaximus,Sled Seated Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSeatedLegPress
+hips,GluteusMaximus,Sled Vertical Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLVerticalLegPress
+hips,GluteusMaximus,Sled Single Leg Vertical Leg Press,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSingleLegVerticalLegPress
+hips,GluteusMaximus,Sled Kneeling Rear Kick,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLKneelingHipExtension
+hips,GluteusMaximus,Sled Standing Rear Kick,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLStandingHipExtension
+hips,GluteusMaximus,Sled Rear Lunge,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLRearLunge
+hips,GluteusMaximus,Sled Squat,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSquat
+hips,GluteusMaximus,Sled Hack Squat,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLHackSquat
+hips,GluteusMaximus,Sled Single Leg Hack Squat,Sled,https://exrx.net/WeightExercises/GluteusMaximus/SLSingleLegHackSquat
+hips,GluteusMaximus,Smith Bent Knee Good-morning,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMBentKneeGoodMorning
+hips,GluteusMaximus,Smith Deadlift,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMDeadlift
+hips,GluteusMaximus,Smith Stiff Leg Deadlift,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMStiffLegDeadlift
+hips,GluteusMaximus,Smith Straight-back Stiff-leg Deadlift,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMStrBackStiffLegDeadlift
+hips,GluteusMaximus,Smith Rear Lunge,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMRearLunge
+hips,GluteusMaximus,Smith Single Leg Split Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMSingleLegSplitSquat
+hips,GluteusMaximus,Smith Split Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMSplitSquat
+hips,GluteusMaximus,Smith Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMSquat
+hips,GluteusMaximus,Smith Single Leg Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMSingleLegSquat
+hips,GluteusMaximus,Smith Front Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMFrontSquat
+hips,GluteusMaximus,Smith Hack Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMHackSquat
+hips,GluteusMaximus,Smith Wide Squat,Smith,https://exrx.net/WeightExercises/GluteusMaximus/SMWideSquat
+hips,GluteusMaximus,Weighted Belt Squat,Weight,https://exrx.net/WeightExercises/GluteusMaximus/WtSquat
+hips,GluteusMaximus,Weighted Front Squat,Weight,https://exrx.net/WeightExercises/GluteusMaximus/WTFrontSquat
+hips,GluteusMaximus,Weighted Reverse Hyper-extension,Weight,https://exrx.net/WeightExercises/GluteusMaximus/WtReverseHyperextension
+hips,GluteusMaximus,Weighted Single Leg Squat,Weight,https://exrx.net/WeightExercises/GluteusMaximus/WtSingleLegSquat
+hips,GluteusMaximus,Lunge,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWLunge
+hips,GluteusMaximus,Reverse Hyper-extension,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWReverseHyperextension
+hips,GluteusMaximus,Reverse Hyper-extension (on stability ball),BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWReverseHyperextensionBall
+hips,GluteusMaximus,Single Leg Hip Bridge,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWLyingHipExtension
+hips,GluteusMaximus,Single Leg Squat (pistol),BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegSquat
+hips,GluteusMaximus,Single Leg Box Squat,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegBoxSquat
+hips,GluteusMaximus,Single Leg Squat (with leg back),BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegSquatLegBack
+hips,GluteusMaximus,Single Leg Reclining Squat (bar),BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegRecliningSquat
+hips,GluteusMaximus,Split Squat,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSplitSquat
+hips,GluteusMaximus,Single Leg Split Squat,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegSplitSquat
+hips,GluteusMaximus,Single Leg Stiff-leg Deadlift,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSingleLegStiffLegDeadlift
+hips,GluteusMaximus,Squat,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWSquat
+hips,GluteusMaximus,Step-up,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWStepUp
+hips,GluteusMaximus,Lateral Step-up,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWLateralStepUp
+hips,GluteusMaximus,Step-down,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWStepDown
+hips,GluteusMaximus,Alternating Step-down,BodyWeight,https://exrx.net/WeightExercises/GluteusMaximus/BWAlternatingStepDown
+hips,GluteusMaximus,Self-assisted Single Leg Squat (bar),Assisted,https://exrx.net/WeightExercises/GluteusMaximus/AsSingleLegSquatSelf
+hips,GluteusMaximus,Self-assisted Single Leg Reclining Squat (pole),Assisted,https://exrx.net/WeightExercises/GluteusMaximus/ASSingleLegSquatSelfPole
+hips,GluteusMaximus,Self-assisted Single Leg Squat (leg wrapped),Assisted,https://exrx.net/WeightExercises/GluteusMaximus/AsSingleLegSquatLegSelf
+hips,GluteusMaximus,Self-assisted Step-down,Assisted,https://exrx.net/WeightExercises/GluteusMaximus/ASStepDownSelf
+hips,GluteusMaximus,Suspended Hip Bridge,Suspended,https://exrx.net/WeightExercises/GluteusMaximus/STHipBridge
+hips,GluteusMaximus,Suspended Single Leg Squat,Suspended,https://exrx.net/WeightExercises/GluteusMaximus/STSingleLegSquat
+hips,GluteusMaximus,Suspended Single Leg Split Squat,Suspended,https://exrx.net/WeightExercises/GluteusMaximus/STSplitSquat
+hips,GluteusMaximus,Suspended Single Leg Split Squat (self-assisted),Suspended,https://exrx.net/WeightExercises/GluteusMaximus/STSingleLegSplitSquatSelfAss
+hips,HipAbductor,Cable Hip Abduction,Cable,https://exrx.net/WeightExercises/HipAbductor/CBHipAbduction
+hips,HipAbductor,Cable Lying Hip Internal Rotation,Cable,https://exrx.net/WeightExercises/HipAbductor/CBLyingHipInternalRotation
+hips,HipAbductor,Cable Seated Hip Internal Rotation,Cable,https://exrx.net/WeightExercises/HipAbductor/CBSeatedHipInternalRotation
+hips,HipAbductor,Dumbbell Lying Hip Abduction,Dumbbell,https://exrx.net/WeightExercises/HipAbductor/DBLyingHipAbduction
+hips,HipAbductor,Lever Seated Hip Abduction (plate loaded),Lever,https://exrx.net/WeightExercises/HipAbductor/LVSeatedHipAbductionH
+hips,HipAbductor,Lever Lying Hip Abduction,Lever,https://exrx.net/WeightExercises/HipAbductor/LVLyingHipAbduction
+hips,HipAbductor,Lever Seated Hip Abduction,Lever,https://exrx.net/WeightExercises/HipAbductor/LVSeatedHipAbduction
+hips,HipAbductor,Lever Standing Hip Abduction,Lever,https://exrx.net/WeightExercises/HipAbductor/LVStandHipAbduction
+hips,HipAbductor,Weighted Lying Hip Abduction,Weight,https://exrx.net/WeightExercises/HipAbductor/WtLyingHipAbduction
+hips,HipAbductor,Side Bridge Hip Abduction,BodyWeight,https://exrx.net/WeightExercises/HipAbductor/BWSideBridgeHipAbduction
+hips,HipAbductor,Angled Side Bridge Hip Abduction,BodyWeight,https://exrx.net/WeightExercises/HipAbductor/BWAngledSideBridgeHipAbduction
+hips,HipAbductor,Bent Knee Side Bridge Hip Abduction,BodyWeight,https://exrx.net/WeightExercises/HipAbductor/BWBentKneeSideBridgeHipAbduction
+hips,HipAbductor,Suspended Hip Abduction,Suspended,https://exrx.net/WeightExercises/HipAbductor/STHipAbduction
+hips,HipFlexors,Cable Assisted Wheel Rollout,Cable,https://exrx.net/WeightExercises/HipFlexors/CBAssistedKneelingWheelRollout
+hips,HipFlexors,Cable Lying Leg Raise,Cable,https://exrx.net/WeightExercises/HipFlexors/CBLyingLegRaise
+hips,HipFlexors,Cable Lying Leg Raise (on bench),Cable,https://exrx.net/WeightExercises/HipFlexors/CBLyingLegRaiseBench
+hips,HipFlexors,Cable Lying Straight Leg Raise,Cable,https://exrx.net/WeightExercises/HipFlexors/CBLyingStraightLegRaise
+hips,HipFlexors,Cable Standing Leg Raise,Cable,https://exrx.net/WeightExercises/HipFlexors/CBStandingLegRaise
+hips,HipFlexors,Cable Standing Straight Leg Raise,Cable,https://exrx.net/WeightExercises/HipFlexors/CBStandingStraightLegRaise
+hips,HipFlexors,Lever Hip Flexion,Lever,https://exrx.net/WeightExercises/HipFlexors/LVHipFlexion
+hips,HipFlexors,Lever Lying Leg Raise,Lever,https://exrx.net/WeightExercises/HipFlexors/LVLyingLegRaiseN
+hips,HipFlexors,Lever Vertical Leg Raise,Lever,https://exrx.net/WeightExercises/HipFlexors/LVVerticalLegRaise
+hips,HipFlexors,Weighted Decline Sit-up,Weight,https://exrx.net/WeightExercises/HipFlexors/WtDeclineSitup
+hips,HipFlexors,Weighted Hanging Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtHangLegRaise
+hips,HipFlexors,Weighted Hanging Straight Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtHangingStraightLegRaise
+hips,HipFlexors,Weighted Incline Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtInclineLegRaise
+hips,HipFlexors,Weighted Incline Leg Raise (arms on pads),Weight,https://exrx.net/WeightExercises/HipFlexors/WtInclineLegRaiseArmPads
+hips,HipFlexors,Weighted Incline Straight Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtInclineStraightLegRaise
+hips,HipFlexors,Weighted Incline Straight Leg Raise (arms on pads),Weight,https://exrx.net/WeightExercises/HipFlexors/WtInclineStraightLegRaiseArmPads
+hips,HipFlexors,Weighted Lying Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtLyingLegRaise
+hips,HipFlexors,Weighted Roman Chair Sit-up,Weight,https://exrx.net/WeightExercises/HipFlexors/WtRomanChairSitup
+hips,HipFlexors,Weighted Seated Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtSeatedLegRaise
+hips,HipFlexors,Weighted Vertical Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtVerticalLegRaise
+hips,HipFlexors,Weighted Vertical Leg Raise (on parallel bars),Weight,https://exrx.net/WeightExercises/HipFlexors/WtVerticalLegRaisePB
+hips,HipFlexors,Weighted Vertical Straight Leg Raise,Weight,https://exrx.net/WeightExercises/HipFlexors/WtVerticalStraightLegRaise
+hips,HipFlexors,Hanging Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWHangingLegRaise
+hips,HipFlexors,Hanging Leg Raise (with ab straps),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWHangingLegRaiseAbStrap
+hips,HipFlexors,Hanging Straight Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWHangingStraightLegRaise
+hips,HipFlexors,Incline Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWInclineLegRaise
+hips,HipFlexors,Incline Leg Raise (arms on pads),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWInclineLegRaiseArmPads
+hips,HipFlexors,Incline Straight Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWInclineStraightLegRaise
+hips,HipFlexors,Incline Straight Leg Raise (arms on pads),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWInclineStraightLegRaiseArmPads
+hips,HipFlexors,Lying Leg Raise (on bench),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWLyingLegRaise
+hips,HipFlexors,Lying Simultaneous Alternating Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWSimAltLyingLegRaise
+hips,HipFlexors,Lying Leg Raise (on floor),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWLyingLegRaiseFloor
+hips,HipFlexors,Lying Straight Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWStraightLegRaise
+hips,HipFlexors,Lying Simultaneous Alternating Straight Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWSimAltStraightLegRaise
+hips,HipFlexors,Seated Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWSeatedLegRaise
+hips,HipFlexors,Vertical Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWVerticalLegRaise
+hips,HipFlexors,Vertical Leg Raise (on parallel bars),BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWVerticalLegRaisePB
+hips,HipFlexors,Vertical Straight Leg Raise,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWVerticalStraightLegRaise
+hips,HipFlexors,Jack-knife on Ball,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWJackKnifeBall
+hips,HipFlexors,Roman Chair Sit-up,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWRomanChairSitup
+hips,HipFlexors,Lying Scissor Kick,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWScissorKick
+hips,HipFlexors,Jack-knife on Power Wheel,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWJackKnifeWheel
+hips,HipFlexors,Wheel Rollout,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWKneelingWheelRollout
+hips,HipFlexors,Pike on Power Wheel,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWPikeWheel
+hips,HipFlexors,Pike on Discs,BodyWeight,https://exrx.net/WeightExercises/HipFlexors/BWPikeDiscs
+hips,HipFlexors,Suspended Mountain Climber,Suspended,https://exrx.net/WeightExercises/HipFlexors/STMountainClimber
+hips,HipFlexors,Suspended Pike,Suspended,https://exrx.net/WeightExercises/HipFlexors/STPike
+hips,HipExternalRotator,Cable Lying Hip External Rotation,Cable,https://exrx.net/WeightExercises/HipExternalRotator/CBLyingHipExternalRotation
+hips,HipExternalRotator,Cable Seated Hip External Rotation,Cable,https://exrx.net/WeightExercises/HipExternalRotator/CBSeatedHipExternalRotation
+hips,HipAbductor,Lever Seated Hip Abduction,Lever,https://exrx.net/WeightExercises/HipAbductor/LVSeatedHipAbduction
+hips,HipAbductor,Lever Seated Hip Abduction (plate loaded),Lever,https://exrx.net/WeightExercises/HipAbductor/LVSeatedHipAbductionH
+thighs,Quadriceps,Barbell Lunge,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBLunge
+thighs,Quadriceps,Barbell Rear Lunge,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBRearLunge
+thighs,Quadriceps,Barbell Side Lunge,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSideLunge
+thighs,Quadriceps,Barbell Walking Lunge,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBWalkingLunge
+thighs,Quadriceps,Barbell Single Leg Split Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSingleLegSplitSquat
+thighs,Quadriceps,Barbell Side Split Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSideSplitSqaut
+thighs,Quadriceps,Barbell Single Leg Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSingleLegSquat
+thighs,Quadriceps,Barbell Split Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSplitSquat
+thighs,Quadriceps,Barbell Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSquat
+thighs,Quadriceps,Barbell Front Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBFrontSquat
+thighs,Quadriceps,Barbell Full Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBFullSquat
+thighs,Quadriceps,Barbell Hack Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBHackSquat
+thighs,Quadriceps,Safety Barbell Squat,SafetyBarbell,https://exrx.net/WeightExercises/Quadriceps/SBSquat
+thighs,Quadriceps,Safety Barbell Squat (long handles),SafetyBarbell,https://exrx.net/WeightExercises/Quadriceps/SBSquatHandles
+thighs,Quadriceps,Safety Barbell Squat (self-spotting),SafetyBarbell,https://exrx.net/WeightExercises/Quadriceps/SBSquatSelfSpot
+thighs,Quadriceps,Trap Bar Squat,TrapBar,https://exrx.net/WeightExercises/Quadriceps/TBSquat
+thighs,Quadriceps,Barbell Squat (with chains),Barbell,https://exrx.net/WeightExercises/Quadriceps/BBSquatChains
+thighs,Quadriceps,Barbell Zercher Squat,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBZercherSquat
+thighs,Quadriceps,Barbell Step-up,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBStepUp
+thighs,Quadriceps,Barbell Lateral Step-up,Barbell,https://exrx.net/WeightExercises/Quadriceps/BBLateralStepUp
+thighs,Quadriceps,Cable Rear Lunge,Cable,https://exrx.net/WeightExercises/Quadriceps/CBRearLunge
+thighs,Quadriceps,Cable Rear Step-down Lunge,Cable,https://exrx.net/WeightExercises/Quadriceps/CBRearStepDownLunge
+thighs,Quadriceps,Cable Single Leg Split Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBSingleLegSplitSquat
+thighs,Quadriceps,Cable One Arm Single Leg Split Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBSingleLegSplitSquatOneArm
+thighs,Quadriceps,Cable Split Squat (belt),Cable,https://exrx.net/WeightExercises/Quadriceps/CBLunge
+thighs,Quadriceps,Cable Split Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBLungeTwoArm
+thighs,Quadriceps,Cable One Arm Split Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBLungeOneArm
+thighs,Quadriceps,Cable Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBSquat
+thighs,Quadriceps,Cable Bar Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBBarSquat
+thighs,Quadriceps,Cable Belt Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CBSquatBelt
+thighs,Quadriceps,Cable Belt Half Squat,Cable,https://exrx.net/WeightExercises/Quadriceps/CB3QuarterSquatDipBelt
+thighs,Quadriceps,Cable Standing Leg Extension,Cable,https://exrx.net/WeightExercises/Quadriceps/CBStandingLegExtension
+thighs,Quadriceps,Cable Step Down,Cable,https://exrx.net/WeightExercises/Quadriceps/CBSingleLegSquat
+thighs,Quadriceps,Cable Step-up,Cable,https://exrx.net/WeightExercises/Quadriceps/CBStepUp
+thighs,Quadriceps,Dumbbell Lunge,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBLunge
+thighs,Quadriceps,Dumbbell Alternating Side Lunge,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBSideLunge
+thighs,Quadriceps,Dumbbell Rear Lunge,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBRearLunge
+thighs,Quadriceps,Dumbbell Walking Lunge,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBWalkingLunge
+thighs,Quadriceps,Dumbbell Single Leg Split Squat,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBSingleLegSplitSquat
+thighs,Quadriceps,Dumbbell Single Leg Squat,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBSingleLegSquat
+thighs,Quadriceps,Dumbbell Split Squat,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBSplitSquat
+thighs,Quadriceps,Dumbbell Squat,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBSquat
+thighs,Quadriceps,Dumbbell Front Squat,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBFrontSquat
+thighs,Quadriceps,Dumbbell Step-up,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBStepUp
+thighs,Quadriceps,Dumbbell Lateral Step-up,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBLateralStepUp
+thighs,Quadriceps,Dumbbell Step Down,Dumbbell,https://exrx.net/WeightExercises/Quadriceps/DBStepDown
+thighs,Quadriceps,Lever Leg Extension (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVLegExtensionH
+thighs,Quadriceps,Lever Alternating Leg Extension (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingLegExtensionH
+thighs,Quadriceps,Lever 45¢X Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LV45LegPress
+thighs,Quadriceps,Lever Single Leg 45¢X Leg Press,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLeg45LegPress
+thighs,Quadriceps,Lever Hack Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVHackPress
+thighs,Quadriceps,Lever Lying Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVLyingLegPressH
+thighs,Quadriceps,Lever Lying Leg Press (custom - plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVLyingLegPress
+thighs,Quadriceps,Lever Single Leg Lying Leg Press (custom - plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegLyingLegPress
+thighs,Quadriceps,Lever Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSeatedLegPressH
+thighs,Quadriceps,Lever Alternating Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingLegPress
+thighs,Quadriceps,Lever Single Leg Seated Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegPressH
+thighs,Quadriceps,Lever Single Leg Standing Leg Press (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegStandingLegPress
+thighs,Quadriceps,Lever Rear Lunge (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVRearLunge
+thighs,Quadriceps,Lever Barbell Rear Lunge (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVBBRearLunge
+thighs,Quadriceps,Lever Single Leg Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegSplitSquat
+thighs,Quadriceps,Lever Barbell Single Leg Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVBBSingleLegSplitSquat
+thighs,Quadriceps,Lever Single Leg Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegSquat
+thighs,Quadriceps,Lever Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSplitSquat
+thighs,Quadriceps,Lever Barbell Split Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVBBSplitSquat
+thighs,Quadriceps,Lever Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSquatPL
+thighs,Quadriceps,Lever Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVSquatPL3
+thighs,Quadriceps,Lever Barbell Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVBBSquat
+thighs,Quadriceps,Lever Front Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVFrontSquatPL
+thighs,Quadriceps,Lever Full Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVFullSquatPL
+thighs,Quadriceps,Lever Hack Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVHackSquatPL
+thighs,Quadriceps,Lever V-Squat (plate loaded),Lever,https://exrx.net/WeightExercises/Quadriceps/LVVSquatH
+thighs,Quadriceps,Lever Leg Extension,Lever,https://exrx.net/WeightExercises/Quadriceps/LVLegExtension
+thighs,Quadriceps,Lever Alternating Leg Extension,Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingLegExtension
+thighs,Quadriceps,Lever Alternating Leg Extension (unilateral machine),Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingLegExtensionUnilateral
+thighs,Quadriceps,Lever Alternating Lying Leg Press,Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingLyingLegPress
+thighs,Quadriceps,Lever Seated Leg Press,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSeatedLegPress
+thighs,Quadriceps,Lever Single Leg Seated Leg Press,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegLegPress
+thighs,Quadriceps,Lever Squat,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSquat
+thighs,Quadriceps,Lever V-Squat,Lever,https://exrx.net/WeightExercises/Quadriceps/LVVSquat
+thighs,Quadriceps,Lever Split V-Squat,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegVSquat
+thighs,Quadriceps,Lever Single Leg Split V-Squat,Lever,https://exrx.net/WeightExercises/Quadriceps/LVSingleLegSplitVSquat
+thighs,Quadriceps,Lever Alternating Single Leg Split V-Squat,Lever,https://exrx.net/WeightExercises/Quadriceps/LVAlternatingSingleLegSplitVSquat
+thighs,Quadriceps,Sled 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SL45LegPress
+thighs,Quadriceps,Sled Alternating 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLAlternating45LegPress
+thighs,Quadriceps,Sled Single Leg 45¢X Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSingleLeg45LegPress
+thighs,Quadriceps,Sled Hack Press (plate loaded),Sled,https://exrx.net/WeightExercises/Quadriceps/SLHackPress
+thighs,Quadriceps,Sled Lying Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLLyingLegPress
+thighs,Quadriceps,Sled Lying Leg Press (plate loaded),Sled,https://exrx.net/WeightExercises/Quadriceps/SLLyingLegPressPL
+thighs,Quadriceps,Sled Single Leg Lying Leg Press (plate loaded),Sled,https://exrx.net/WeightExercises/Quadriceps/SLSingleLyingLegPressPL
+thighs,Quadriceps,Sled Single Leg Lying Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSingleLegLyingLegPress
+thighs,Quadriceps,Sled Seated Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSeatedLegPress
+thighs,Quadriceps,Sled Vertical Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLVerticalLegPress
+thighs,Quadriceps,Sled Single Leg Vertical Leg Press,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSingleLegVerticalLegPress
+thighs,Quadriceps,Sled Squat,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSquat
+thighs,Quadriceps,Sled Hack Squat,Sled,https://exrx.net/WeightExercises/Quadriceps/SLHackSquat
+thighs,Quadriceps,Sled Single Leg Hack Squat,Sled,https://exrx.net/WeightExercises/Quadriceps/SLSingleLegHackSquat
+thighs,Quadriceps,Sled Rear Lunge,Sled,https://exrx.net/WeightExercises/Quadriceps/SLRearLunge
+thighs,Quadriceps,Smith Rear Lunge,Smith,https://exrx.net/WeightExercises/Quadriceps/SMRearLunge
+thighs,Quadriceps,Smith Single Leg Split Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMSingleLegSplitSquat
+thighs,Quadriceps,Smith Split Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMSplitSquat
+thighs,Quadriceps,Smith Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMSquat
+thighs,Quadriceps,Smith Single Leg Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMSingleLegSquat
+thighs,Quadriceps,Smith Front Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMFrontSquat
+thighs,Quadriceps,Smith Hack Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMHackSquat
+thighs,Quadriceps,Smith Wide Squat,Smith,https://exrx.net/WeightExercises/Quadriceps/SMWideSquat
+thighs,Quadriceps,Smith Step Down,Smith,https://exrx.net/WeightExercises/Quadriceps/SMStepDown
+thighs,Quadriceps,Weighted Belt Squat,Weight,https://exrx.net/WeightExercises/Quadriceps/WtSquat
+thighs,Quadriceps,Weighted Front Squat,Weight,https://exrx.net/WeightExercises/Quadriceps/WTFrontSquat
+thighs,Quadriceps,Weighted Single Leg Squat,Weight,https://exrx.net/WeightExercises/Quadriceps/WTSingleLegSquat
+thighs,Quadriceps,Weighted Sissy Squat,Weight,https://exrx.net/WeightExercises/Quadriceps/WTSissySquat
+thighs,Quadriceps,Weighted Sissy Squat (on apparatus),Weight,https://exrx.net/WeightExercises/Quadriceps/WTSissySquatAp
+thighs,Quadriceps,Lunge,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWLunge
+thighs,Quadriceps,Single Leg Squat (pistol),BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegSquat
+thighs,Quadriceps,Single Leg Box Squat,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegBoxSquat
+thighs,Quadriceps,Single Leg Squat (with leg back),BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegSquatLegBack
+thighs,Quadriceps,Single Leg Reclining Squat (bar),BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegRecliningSquat
+thighs,Quadriceps,Sissy Squat,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSissySquat
+thighs,Quadriceps,Sissy Squat (on apparatus),BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSissySquatAp
+thighs,Quadriceps,Split Squat,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSplitSquat
+thighs,Quadriceps,Single Leg Split Squat,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSingleLegSplitSquat
+thighs,Quadriceps,Squat,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWSquat
+thighs,Quadriceps,Step-up,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWStepUp
+thighs,Quadriceps,Lateral Step-up,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWLateralStepUp
+thighs,Quadriceps,Step-down,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWStepDown
+thighs,Quadriceps,Alternating Step Down,BodyWeight,https://exrx.net/WeightExercises/Quadriceps/BWAlternatingStepDown
+thighs,Quadriceps,Self-assisted Single Leg Squat (bar),Assisted,https://exrx.net/WeightExercises/Quadriceps/ASSingleLegSquatSelf
+thighs,Quadriceps,Self-assisted Single Leg Reclining Squat (pole),Assisted,https://exrx.net/WeightExercises/Quadriceps/ASSingleLegSquatSelfPole
+thighs,Quadriceps,Self-assisted Single Leg Squat (leg wrapped),Assisted,https://exrx.net/WeightExercises/Quadriceps/ASSingleLegSquatSelfLeg
+thighs,Quadriceps,Self-assisted Step-down,Assisted,https://exrx.net/WeightExercises/Quadriceps/ASStepDownSelf
+thighs,Quadriceps,Suspended Single Leg Squat,Suspended,https://exrx.net/WeightExercises/Quadriceps/STSingleLegSquat
+thighs,Quadriceps,Suspended Single Leg Split Squat,Suspended,https://exrx.net/WeightExercises/Quadriceps/STSplitSquat
+thighs,Quadriceps,Suspended Single Leg Split Squat (self-assisted),Suspended,https://exrx.net/WeightExercises/Quadriceps/STSingleLegSplitSquatSelfAss
+thighs,Hamstrings,Barbell Good-morning,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBGoodMorning
+thighs,Hamstrings,Barbell Glute-Ham Raise,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBGluteHamRaise
+thighs,Hamstrings,Barbell Inverse Leg Curl,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBHamstringRaise
+thighs,Hamstrings,Barbell Hyperextension,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBHyperextension
+thighs,Hamstrings,Barbell Back Raise (on hyperextension apparatus),Barbell,https://exrx.net/WeightExercises/Hamstrings/BBHipExtension
+thighs,Hamstrings,Barbell 45¢X Hyperextension,Barbell,https://exrx.net/WeightExercises/Hamstrings/BB45Hyperextension
+thighs,Hamstrings,Barbell 45¢X Back Raise (on hyperextension apparatus),Barbell,https://exrx.net/WeightExercises/Hamstrings/BB45HipExtension
+thighs,Hamstrings,Barbell Straight Leg Deadlift,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBStraightLegDeadlift
+thighs,Hamstrings,Barbell Straight-back Straight-leg Deadlift,Barbell,https://exrx.net/WeightExercises/Hamstrings/BBStrBackStrLegDeadlift
+thighs,Hamstrings,Trap Bar Straight Leg Deadlift,TrapBar,https://exrx.net/WeightExercises/Hamstrings/TBStraightLegDeadlift
+thighs,Hamstrings,Trap Bar Straight-back Straight-leg Deadlift,TrapBar,https://exrx.net/WeightExercises/Hamstrings/TBStrBackStrLegDeadlift
+thighs,Hamstrings,Cable Bent-over Leg Curl,Cable,https://exrx.net/WeightExercises/Hamstrings/CBBentOverLegCurl
+thighs,Hamstrings,Cable Lying Leg Curl,Cable,https://exrx.net/WeightExercises/Hamstrings/CBLyingLegCurl
+thighs,Hamstrings,Cable Standing Leg Curl,Cable,https://exrx.net/WeightExercises/Hamstrings/CBStandingLegCurl
+thighs,Hamstrings,Cable Straight Leg Deadlift,Cable,https://exrx.net/WeightExercises/Hamstrings/CBStraightLegDeadlift
+thighs,Hamstrings,Cable Straight-back Straight-leg Deadlift,Cable,https://exrx.net/WeightExercises/Hamstrings/CBStrBackStrLegDeadlift
+thighs,Hamstrings,Dumbbell Straight Leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/Hamstrings/DBStraightLegDeadlift
+thighs,Hamstrings,Dumbbell Straight-back Straight-leg Deadlift,Dumbbell,https://exrx.net/WeightExercises/Hamstrings/DBStrBackStrLegDeadlift
+thighs,Hamstrings,Lever Kneeling Leg Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVKneelingLegCurlH
+thighs,Hamstrings,Lever Lying Leg Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurlH
+thighs,Hamstrings,Lever Alternating Lying Leg Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVAlternatingLyingLegCurlH
+thighs,Hamstrings,"Lever Lying Leg Curl (on reverse hyper-extension machine, plate loaded)",Lever,https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurlRevHyperMachPL
+thighs,Hamstrings,Lever Seated Leg Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVSeatedLegCurlH
+thighs,Hamstrings,Lever Single Leg Seated Leg Curl (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVSingleLegSeatedLegCurlHammer
+thighs,Hamstrings,Lever Straight Leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVStraightLegDeadlift
+thighs,Hamstrings,Lever Straight-back Straight-leg Deadlift (plate loaded),Lever,https://exrx.net/WeightExercises/Hamstrings/LVStrBackStrLegDeadlift
+thighs,Hamstrings,Lever Bent-over Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVBentOverLegCurl
+thighs,Hamstrings,Lever Alternating Bent-over Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVAlternationgBentOverLegCurl
+thighs,Hamstrings,Lever Kneeling Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVKneelingLegCurl
+thighs,Hamstrings,Lever Lying Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVLyingLegCurl
+thighs,Hamstrings,Lever Alternating Lying Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVAlternatingLyingLegCurl
+thighs,Hamstrings,Lever Seated Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVSeatedLegCurl
+thighs,Hamstrings,Lever Standing Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVStandingLegCurl
+thighs,Hamstrings,Lever Alternating Standing Leg Curl,Lever,https://exrx.net/WeightExercises/Hamstrings/LVAlternatingStandingLegCurl
+thighs,Hamstrings,Lever Standing Leg Curl (on leg extension),Lever,https://exrx.net/WeightExercises/Hamstrings/LVStandingLegCurlLegExt
+thighs,Hamstrings,Lever Standing Leg Curl (on multi-hip machine),Lever,https://exrx.net/WeightExercises/Hamstrings/LVStandingLegCurlMultiHip
+thighs,Hamstrings,Lever Straight-leg Lying Hip Extension,Lever,https://exrx.net/WeightExercises/Hamstrings/LVStraightLegLyingHipExtension
+thighs,Hamstrings,Smith Good-morning,Smith,https://exrx.net/WeightExercises/Hamstrings/SMGoodMorning
+thighs,Hamstrings,Smith Straight Leg Deadlift,Smith,https://exrx.net/WeightExercises/Hamstrings/SMStraightLegDeadlift
+thighs,Hamstrings,Smith Straight-back Straight-leg Deadlift,Smith,https://exrx.net/WeightExercises/Hamstrings/SMStrBackStrLegDeadlift
+thighs,Hamstrings,Weighted Glute-Ham Raise,Weight,https://exrx.net/WeightExercises/Hamstrings/WTGluteHamRaise
+thighs,Hamstrings,Weighted Inverse Leg Curl,Weight,https://exrx.net/WeightExercises/Hamstrings/WTHamstringRaise
+thighs,Hamstrings,Weighted Hyperextension,Weight,https://exrx.net/WeightExercises/Hamstrings/WtHyperextension
+thighs,Hamstrings,Weighted Back Raise (on hyperextension apparatus),Weight,https://exrx.net/WeightExercises/Hamstrings/WTHipExtension
+thighs,Hamstrings,Weighted 45¢X Hyperextension,Weight,https://exrx.net/WeightExercises/Hamstrings/Wt45Hyperextension
+thighs,Hamstrings,Weighted 45¢X Back Raise (on hyperextension apparatus),Weight,https://exrx.net/WeightExercises/Hamstrings/WT45HipExtension
+thighs,Hamstrings,Band-assisted Inverse Leg Curl,Assisted,https://exrx.net/WeightExercises/Hamstrings/ASInverseLegCurlBands
+thighs,Hamstrings,Glute-Ham Raise (hands behind neck),BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWGluteHamRaiseHead
+thighs,Hamstrings,Glute-Ham Raise (hands behind hips),BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWGluteHamRaiseHips
+thighs,Hamstrings,Hanging Hamstring Bridge,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWHangingHamstringBridge
+thighs,Hamstrings,Single Leg Hanging Hamstring Bridge,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWSingleLegHangingHamstringBridge
+thighs,Hamstrings,Hanging Hamstring Bridge Curl,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWHangingHamstringBridgeCurl
+thighs,Hamstrings,Single Leg Hanging Hamstring Bridge Curl,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWSingleLegHangingHamstringBridgeCurl
+thighs,Hamstrings,Hanging Leg Curl,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWHangingLegCurl
+thighs,Hamstrings,Hanging Straight Hip Leg Curl,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWHangingStraightHipLegCurl
+thighs,Hamstrings,Inverse Leg Curl,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWHamstringRaise
+thighs,Hamstrings,Leg Curl (on stability ball),BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWBallLegCurl
+thighs,Hamstrings,Leg Curl (on power wheel),BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWWheelLegCurl
+thighs,Hamstrings,Single Leg 45¢X Hyperextension,BodyWeight,https://exrx.net/WeightExercises/Hamstrings/BWSingleLeg45Hyperextension
+thighs,Hamstrings,Self-assisted Inverse Leg Curl,Assisted,https://exrx.net/WeightExercises/Hamstrings/ASHamstringRaiseSelf
+thighs,Hamstrings,Self-assisted Inverse Leg Curl (on floor),Assisted,https://exrx.net/WeightExercises/Hamstrings/ASHamstringRaiseSelfFloor
+thighs,Hamstrings,Suspended Leg Curl,Suspended,https://exrx.net/WeightExercises/Hamstrings/STLegCurl
+thighs,Hamstrings,Suspended Straight Hip Leg Curl,Suspended,https://exrx.net/WeightExercises/Hamstrings/STStraightHipLegCurl
+thighs,Hamstrings,Suspended Hamstring Runner,Suspended,https://exrx.net/WeightExercises/Hamstrings/STHamstringRunner
+thighs,Hamstrings,Suspended Hanging Leg Curl,Suspended,https://exrx.net/WeightExercises/Hamstrings/STHangingLegCurl
+thighs,Hamstrings,Suspended Hanging Straight Hip Leg Curl,Suspended,https://exrx.net/WeightExercises/Hamstrings/STHangingStraightHipLegCurl
+thighs,Hamstrings,Suspended Hyperextension,Suspended,https://exrx.net/WeightExercises/Hamstrings/STHyperextension
+thighs,HipAdductors,Cable Hip Adduction,Cable,https://exrx.net/WeightExercises/HipAdductors/CBHipAdduction
+thighs,HipAdductors,Cable Lying Hip Adduction,Cable,https://exrx.net/WeightExercises/HipAdductors/CBLyingHipAdduction
+thighs,HipAdductors,Lever Seated Hip Adduction (plate loaded),Lever,https://exrx.net/WeightExercises/HipAdductors/LVSeatedHipAdductionH
+thighs,HipAdductors,Lever Lying Hip Adduction,Lever,https://exrx.net/WeightExercises/HipAdductors/LVLyingHipAdduction
+thighs,HipAdductors,Lever Seated Hip Adduction,Lever,https://exrx.net/WeightExercises/HipAdductors/LVSeatedHipAdduction
+thighs,HipAdductors,Lever Standing Hip Adduction,Lever,https://exrx.net/WeightExercises/HipAdductors/LVStandHipAdduction
+thighs,HipAdductors,Weighted Lying Hip Adduction,Weight,https://exrx.net/WeightExercises/HipAdductors/WTLyingHipAdduction
+calves,Gastrocnemius,Safety Barbell Standing Leg Calf Raise,SafetyBarbell,https://exrx.net/WeightExercises/Gastrocnemius/SBStandingCalfRaise
+calves,Gastrocnemius,Barbell Standing Leg Calf Raise,Barbell,https://exrx.net/WeightExercises/Gastrocnemius/BBStandingCalfRaise
+calves,Gastrocnemius,Cable Standing Calf Raise,Cable,https://exrx.net/WeightExercises/Gastrocnemius/CBStandingCalfRaise
+calves,Gastrocnemius,Cable Single Leg Calf Raise,Cable,https://exrx.net/WeightExercises/Gastrocnemius/CBSingleLegCalfRaise
+calves,Gastrocnemius,Cable One Arm Single Leg Calf Raise,Cable,https://exrx.net/WeightExercises/Gastrocnemius/CBOneArmSingleLegCalfRaise
+calves,Gastrocnemius,Dumbbell Standing Calf Raise,Dumbbell,https://exrx.net/WeightExercises/Gastrocnemius/DBStandingCalfRaise
+calves,Gastrocnemius,Dumbbell Single Leg Calf Raise,Dumbbell,https://exrx.net/WeightExercises/Gastrocnemius/DBSingleLegCalfRaise
+calves,Gastrocnemius,Lever 45¢X Calf Press (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LV45CalfPress
+calves,Gastrocnemius,Lever 45¢X Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LV45CalfRaisePL
+calves,Gastrocnemius,Lever Calf Extension (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVSeatedCalfExtensionHammer
+calves,Gastrocnemius,Lever Donkey Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVDonkeyCalfRaisePL
+calves,Gastrocnemius,Lever Seated Calf Press (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVSeatedCalfPressH
+calves,Gastrocnemius,Lever Standing Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVStandingCalfRaisePL
+calves,Gastrocnemius,"Lever Calf Raise (on v-squat machine, plate loaded)",Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVVCalfRaiseH
+calves,Gastrocnemius,Lever 45¢X Calf Raise,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LV45CalfRaise
+calves,Gastrocnemius,Lever Calf Extension,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVSeatedCalfExtension
+calves,Gastrocnemius,Lever Calf Extension (bilateral),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVSeatedCalfExtensionBi
+calves,Gastrocnemius,Lever Alternating Calf Extension,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVAlternatingSeatedCalfExt
+calves,Gastrocnemius,Lever Donkey Calf Raise,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVDonkeyCalfRaise
+calves,Gastrocnemius,Lever Seated Calf Press,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVSeatedCalfPress
+calves,Gastrocnemius,Lever Standing Calf Raise,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVStandingCalfRaise
+calves,Gastrocnemius,Lever Standing Calf Raise (belt loaded),Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVStandingCalfRaiseBelt
+calves,Gastrocnemius,Lever Forward Angled Calf Raise,Lever,https://exrx.net/WeightExercises/Gastrocnemius/LVForwardAngledCalfRaise
+calves,Gastrocnemius,Sled 45¢X Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfPress
+calves,Gastrocnemius,Sled 45¢X Alternating Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SL45AlternatingCalfPress
+calves,Gastrocnemius,Sled 45¢X Calf Raise,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfRaise
+calves,Gastrocnemius,Sled 45¢X Calf Raise (plate loaded),Sled,https://exrx.net/WeightExercises/Gastrocnemius/SL45CalfPressPL
+calves,Gastrocnemius,Sled Donkey Calf Raise,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLDonkeyCalfRaise
+calves,Gastrocnemius,Sled Hack Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLHackCalfPress
+calves,Gastrocnemius,Sled Lying Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLLyingCalfPress
+calves,Gastrocnemius,Sled Lying Calf Press (plate loaded),Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLLyingCalfPressPL
+calves,Gastrocnemius,Sled Seated Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLSeatedCalfPress
+calves,Gastrocnemius,Sled Standing Calf Raise,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLStandingCalfRaise
+calves,Gastrocnemius,Sled Forward Angled Calf Raise,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLForwardAngledCalfRaise
+calves,Gastrocnemius,Sled Vertical Calf Press,Sled,https://exrx.net/WeightExercises/Gastrocnemius/SLVerticalCalfPress
+calves,Gastrocnemius,Smith Donkey Calf Raise,Smith,https://exrx.net/WeightExercises/Gastrocnemius/SMDonkeyCalfRaise
+calves,Gastrocnemius,Smith Standing Leg Calf Raise,Smith,https://exrx.net/WeightExercises/Gastrocnemius/SMStandingCalfRaise
+calves,Gastrocnemius,Weighted Donkey Calf Raise,Weight,https://exrx.net/WeightExercises/Gastrocnemius/WTDonkeyCalfRaise
+calves,Gastrocnemius,Weighted Single Leg Calf Raise,Weight,https://exrx.net/WeightExercises/Gastrocnemius/WTSingleLegCalfRaise
+calves,Gastrocnemius,Standing Calf Raise,BodyWeight,https://exrx.net/WeightExercises/Gastrocnemius/BWStandingCalfRaise
+calves,Gastrocnemius,Single Leg Calf Raise,BodyWeight,https://exrx.net/WeightExercises/Gastrocnemius/BWSingleLegCalfRaise
+calves,Gastrocnemius,Single Leg Forward Angled Calf Raise,BodyWeight,https://exrx.net/WeightExercises/Gastrocnemius/BWSingleLegForwardAngledCalfRaise
+calves,Gastrocnemius,Self-assisted Leg Calf Raise,Assisted,https://exrx.net/WeightExercises/Gastrocnemius/ASSingleLegCalfRaiseSelf
+calves,Gastrocnemius,Self-assisted Single Leg Calf Raise (with opposite leg),Assisted,https://exrx.net/WeightExercises/Gastrocnemius/ASSingleLegCalfRaiseSelfFoot
+calves,Soleus,Safety Bar Seated Calf Raise,SafetyBarbell,https://exrx.net/WeightExercises/Soleus/SBSeatedCalfRaise
+calves,Soleus,Lever Seated Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/Soleus/LVSeatedCalfRaiseH
+calves,Soleus,Lever Bent Knee Calf Extension,Lever,https://exrx.net/WeightExercises/Soleus/LVBentKneeSeatedCalfExtension
+calves,Soleus,Lever Alternating Bent-knee Seated Calf Extension,Lever,https://exrx.net/WeightExercises/Soleus/LVAltBentKneeSeatedCalfExt
+calves,Soleus,Lever Seated Calf Raise,Lever,https://exrx.net/WeightExercises/Soleus/LVSeatedCalfRaise
+calves,Soleus,Lever Seated Calf Extension,Lever,https://exrx.net/WeightExercises/Soleus/LVSeatedCalfExtension
+calves,Soleus,Smith Seated Calf Raise,Smith,https://exrx.net/WeightExercises/Soleus/SMSeatedCalfRaise
+calves,TibialisAnterior,Barbell Reverse Calf Raise,Barbell,https://exrx.net/WeightExercises/TibialisAnterior/BBReverseCalfRaise
+calves,TibialisAnterior,Safety Bar Reverse Calf Raise,SafetyBarbell,https://exrx.net/WeightExercises/TibialisAnterior/SBReverseCalfRaise
+calves,TibialisAnterior,Cable Reverse Calf Raise,Cable,https://exrx.net/WeightExercises/TibialisAnterior/CBReverseCalfRaise
+calves,TibialisAnterior,Cable Single Leg Reverse Calf Raise,Cable,https://exrx.net/WeightExercises/TibialisAnterior/CBSingleLegReverseCalfRaise
+calves,TibialisAnterior,Dumbbell Reverse Calf Raise,Dumbbell,https://exrx.net/WeightExercises/TibialisAnterior/DBReverseCalfRaise
+calves,TibialisAnterior,Dumbbell Single Leg Reverse Calf Raise,Dumbbell,https://exrx.net/WeightExercises/TibialisAnterior/DBSingleLegRevCalfRaise
+calves,TibialisAnterior,Lever 45¢X Reverse Calf Press (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LV45ReverseCalfPress
+calves,TibialisAnterior,Lever 45¢X Reverse Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LV45ReverseCalfRaise
+calves,TibialisAnterior,Lever Reverse Calf Raise (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVReverseCalfRaisePL
+calves,TibialisAnterior,"Lever Reverse Calf Raise (on v-squat machine, plate loaded)",Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVReverseVCalfRaiseH
+calves,TibialisAnterior,Lever Reverse Calf Extension (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVSeatedReverseCalfExtHammer
+calves,TibialisAnterior,Lever Seated Tibia Raise (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVSeatedTibiaRaisePL
+calves,TibialisAnterior,Lever Single Leg Seated Tibia Raise (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVSingleLegSeatedSeatedTibiaRaisePL
+calves,TibialisAnterior,Lever Standing Tibia Raise (plate loaded),Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVStandingTibiaRaisePL
+calves,TibialisAnterior,Lever Donkey Reverse Calf Raise,Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVDonkeyReverseCalfRaise
+calves,TibialisAnterior,Lever Reverse Calf Extension,Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVReverseCalfExtension
+calves,TibialisAnterior,Lever Reverse Calf Raise,Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVReverseCalfRaise
+calves,TibialisAnterior,Lever Seated Reverse Calf Press,Lever,https://exrx.net/WeightExercises/TibialisAnterior/LVSeatedReverseCalfPress
+calves,TibialisAnterior,Sled 45¢X Reverse Calf Press,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SL45ReverseCalfPress
+calves,TibialisAnterior,Sled 45¢X Reverse Calf Raise,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SL45ReverseCalfRaise
+calves,TibialisAnterior,Sled 45¢X Reverse Calf Raise (plate loaded),Sled,https://exrx.net/WeightExercises/TibialisAnterior/SL45ReverseCalfRaisePL
+calves,TibialisAnterior,Sled 45¢X Reverse Calf Raise (on hack press),Sled,https://exrx.net/WeightExercises/TibialisAnterior/SL45ReverseCalfRaiseHackPress
+calves,TibialisAnterior,Sled Reverse Donkey Calf Raise (plate loaded),Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLDonkeyReverseCalfRaise
+calves,TibialisAnterior,Sled Hack Reverse Calf Raise,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLHackReverseCalfRaise
+calves,TibialisAnterior,Sled Lying Reverse Calf Press,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLLyingReverseCalfPress
+calves,TibialisAnterior,Sled Lying Reverse Calf Press (plate loaded),Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLLyingReverseCalfPressPL
+calves,TibialisAnterior,Sled Standing Reverse Calf Raise,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLReverseCalfRaise
+calves,TibialisAnterior,Sled Reverse Calf Raise (plate loaded),Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLReverseCalfRaisePL
+calves,TibialisAnterior,Sled Seated Reverse Calf Press,Sled,https://exrx.net/WeightExercises/TibialisAnterior/SLSeatedReverseCalfPress
+calves,TibialisAnterior,Smith Reverse Calf Raise,Smith,https://exrx.net/WeightExercises/TibialisAnterior/SMReverseCalfRaise
+calves,TibialisAnterior,Reverse Calf Raise,BodyWeight,https://exrx.net/WeightExercises/TibialisAnterior/BWReverseCalfRaise
+calves,TibialisAnterior,Single Leg Reverse Calf Raise,BodyWeight,https://exrx.net/WeightExercises/TibialisAnterior/BWSingleLegRevCalfRaise
