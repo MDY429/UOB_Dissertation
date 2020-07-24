@@ -1,5 +1,12 @@
 # Weekly Log  
 
+### week6 (2020/07/18 - 2020/07/24)
+* **What were your objectives for this week, and which did you achieve?**  
+    Connect the csv database with chatbot.
+  
+* **What are your objectives for next week?**  
+    Expend the muscle dataset and fine tune the action process.
+
 ### week6 (2020/07/11 - 2020/07/17)
 * **What were your objectives for this week, and which did you achieve?**  
     Try to use the web crawler to dump the exercise dataset.
