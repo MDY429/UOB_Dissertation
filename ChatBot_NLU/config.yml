@@ -1,5 +1,13 @@
 language: "en"
-pipeline: "pretrained_embeddings_spacy"
+pipeline: 
+- name: "SpacyNLP"
+- name: "SpacyTokenizer"
+- name: "RegexFeaturizer"
+- name: "SpacyFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper"
+- name: "CountVectorsFeaturizer"
+- name: "EmbeddingIntentClassifier"
 
 
 policies:
