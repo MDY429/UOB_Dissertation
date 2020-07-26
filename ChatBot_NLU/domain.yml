@@ -1,44 +1,68 @@
 actions:
+- action_check_body
 - action_check_equipment
 - action_check_muscle
 - action_search_exercise
 - utter_ask_facility
-- utter_ask_facility2
 - utter_cannot_understand
+- utter_check_muscle
 - utter_goodbye
 - utter_greet
+- utter_recommendation
 entities:
+- body
 - deny
 - facility
 - greet
 - muscle
+- suggest
 intents:
+- partOfBody
+- query
+- chest
 - greet
-- inform
+- equipment
+- shoulder
+- neck
 - negative
 - goodbye
+- UpperArms
+- ForeArms
+- back
+- waist
+- hips
+- thighs
+- calves
+- support
 responses:
   utter_ask_facility:
-  - text: OK, for {muscle} exercise. What facility you want to use?
-  - text: Sure, for {muscle} exercise with any facility?
-  utter_ask_facility2:
-  - text: Change to {muscle}, need any facility?
+  - text: OK, What facility you want to use?
+  - text: Sure, with any equipment?
   utter_cannot_understand:
   - text: Sorry, I cannot understand what you mean. Could you say again please?
+  utter_check_muscle:
+  - text: Do you want to assign any muscle of {body}?
+  - text: Any specific muscle of {body}?
   utter_goodbye:
   - text: see ya :)
   - text: bye bye
   - text: Have a good day.
   utter_greet:
   - text: Hello, how can I help?
-  - text: Which muscle you want to train?
+  - text: Hi, which part of body you want to train?
+  utter_recommendation:
+  - text: I recommend to do some {body} exercise!
 session_config:
   carry_over_slots_to_new_session: true
   session_expiration_time: 0
 slots:
+  body:
+    type: text
   deny:
     type: text
   facility:
     type: text
   muscle:
+    type: text
+  suggest:
     type: text

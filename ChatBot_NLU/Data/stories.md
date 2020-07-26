@@ -7,71 +7,88 @@
     - utter_goodbye
 
 ## story 03
-* inform
+* partOfBody
+    - action_check_body
+* thighs
     - action_check_muscle
-
-## story 04
-* inform
-    - action_check_muscle
-* inform
-    - action_check_equipment
-
-## interactive_story_0
-* greet
-    - utter_greet
-* inform{"muscle": "chest"}
-    - slot{"muscle": "chest"}
-    - action_check_muscle
-* inform{"facility": "bodyweight"}
-    - slot{"facility": "bodyweight"}
-    - action_check_equipment
+* equipment
     - action_search_exercise
-    - slot{"muscle": null}
-    - slot{"facility": null}
-    - slot{"deny": null}
 
 ## interactive_story_1
 * greet
     - utter_greet
-* inform{"muscle": "pectoralis major"}
-    - slot{"muscle": "pectoralis major"}
+* partOfBody{"body": "shoulders"}
+    - slot{"body": "shoulders"}
+    - action_check_body
+* shoulder{"muscle": "DeltoidPosterior"}
+    - slot{"muscle": "DeltoidPosterior"}
     - action_check_muscle
-* negative{"deny": "nope"}
-    - slot{"deny": "nope"}
-    - action_check_equipment
-    - followup{"name": "action_search_exercise"}
-    - slot{"facility": "bodyweight"}
-    - slot{"deny": null}
+* equipment{"facility": "barbell"}
+    - slot{"facility": "barbell"}
     - action_search_exercise
-    - slot{"muscle": null}
-    - slot{"facility": null}
-    - slot{"deny": null}
 
-## interactive_story_2
-* inform{"muscle": "chest", "facility": "cable"}
-    - slot{"facility": "cable"}
-    - slot{"muscle": "chest"}
-    - action_check_muscle
-    - action_search_exercise
-    - slot{"muscle": null}
-    - slot{"facility": null}
-    - slot{"deny": null}
-
-## interactive_story_3
-* greet{"greet": "hey what's up"}
+## interactive_story_1
+* greet
     - utter_greet
-* inform{"muscle": "biceps"}
-    - slot{"muscle": "biceps"}
+* partOfBody{"body": "shoulder"}
+    - slot{"body": "shoulder"}
+    - action_check_body
+* shoulder{"muscle": "DeltoidAnterior"}
+    - slot{"muscle": "DeltoidAnterior"}
     - action_check_muscle
-* inform{"muscle": "triceps"}
-    - slot{"muscle": "triceps"}
-    - action_check_muscle
-    - slot{"facility": null}
-    - slot{"deny": null}
-* inform{"facility": "dumbbell"}
-    - slot{"facility": "dumbbell"}
-    - action_check_equipment
+* equipment{"facility": "barbell"}
+    - slot{"facility": "barbell"}
     - action_search_exercise
+    - slot{"body": null}
     - slot{"muscle": null}
     - slot{"facility": null}
-    - slot{"deny": null}
+    - slot{"suggest": null}
+* partOfBody{"body": "neck"}
+    - slot{"body": "neck"}
+    - action_check_body
+* neck{"muscle": "sternocleidomastoid"}
+    - slot{"muscle": "sternocleidomastoid"}
+    - action_check_muscle
+* equipment{"facility": "cable"}
+    - slot{"facility": "cable"}
+    - action_search_exercise
+    - slot{"body": null}
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"suggest": null}
+
+## interactive_story_1
+* greet
+    - utter_greet
+* partOfBody{"body": "shoulder"}
+    - slot{"body": "shoulder"}
+    - action_check_body
+* shoulder{"muscle": "DeltoidLateral"}
+    - slot{"muscle": "DeltoidLateral"}
+    - action_check_muscle
+* equipment{"facility": "dumbbell"}
+    - slot{"facility": "dumbbell"}
+    - action_search_exercise
+    - slot{"body": null}
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"suggest": null}
+
+## interactive_story_1
+* greet
+    - utter_greet
+* query
+    - action_check_body
+* chest{"body": "chest"}
+    - slot{"body": "chest"}
+    - action_check_body
+* chest{"muscle": "PectoralClavicular"}
+    - slot{"muscle": "PectoralClavicular"}
+    - action_check_muscle
+* partOfBody{"facility": "barbell"}
+    - slot{"facility": "barbell"}
+    - action_search_exercise
+    - slot{"body": null}
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"suggest": null}

@@ -2,33 +2,63 @@
 - hi
 - hi there
 - hello
-- [hola](greet)
-- [hey what's up](greet)
-
-## intent:inform
-- I want to train my [shoulders](muscle)
-- well, [barbell](facility) please
-- Train my [chest](muscle) with [dumbbell](facility)
-- training my [biceps](muscle)
-- i want to train my [shoulders](muscle) with [barbell](facility)
-- training [Triceps Brachii](muscle) with [dumbbell](facility)
-- training my [triceps](muscle)
-- [cable](facility) please
-- wanna know how to train [chest](muscle) with [cable](facility)
-- how to train my [chest](muscle)
-- just [bodyweight](facility)
-- i want to focus on my [pectoralis major](muscle)
-- yoo, i want to know exercise about [chest](muscle) with [cable](facility)
-- tell me some about [biceps](muscle)
-- oh sorry, i am asking [triceps](muscle)
-- [dumbbell](facility)
-
-## intent:negative
-- no
-- no thanks
-- nope
-- no thank you
-- [nope](deny)
+- hola
+- hey what's up
+- hey
 
 ## intent:goodbye
 - thanks, bye
+
+## intent:suggest
+- Any [suggestion]{"entity": "suggest", "value": "Suggestion"}?
+- Can you give me some [advice]{"entity": "suggest", "value": "Suggestion"}?
+- Give me some [recommendation]{"entity": "suggest", "value": "Suggestion"}. Thanks
+
+## intent:query
+- tell me more please
+- What do you have?
+- Can you tell me more?
+- what part do you have/
+
+## intent:shoulder
+- [rear delts]{"entity": "muscle", "value": "DeltoidPosterior"}
+- [front delts]{"entity": "muscle", "value": "DeltoidAnterior"} thanks
+- [side shoulder]{"entity": "muscle", "value": "DeltoidLateral"} please
+
+## intent:partOfBody
+- Tell me some [shoulder](body) exercise
+- How about [neck](body) exercise?
+- could you please tell me how to train my [shoulders]{"entity": "body", "value": "shoulder"}?
+- of course [barbell](facility)
+
+## intent:equipment
+- I would like to use [barbell](facility)
+- [cable](facility)
+- yes, [dumbbell](facility)
+
+## intent:neck
+- yeh, [side neck]{"entity": "muscle", "value": "sternocleidomastoid"} please
+
+## intent:chest
+- oh nice, I want to choose [chest](body)
+- ahhh [upper chest]{"entity": "muscle", "value": "PectoralClavicular"}
+
+## synonym:DeltoidAnterior
+- front delts
+
+## synonym:DeltoidLateral
+- side shoulder
+
+## synonym:DeltoidPosterior
+- rear delts
+
+## synonym:Suggestion
+- suggestion
+- advice
+- recommendation
+
+## synonym:shoulder
+- shoulders
+
+## synonym:sternocleidomastoid
+- side neck
