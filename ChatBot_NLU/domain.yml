@@ -4,11 +4,12 @@ actions:
 - action_check_muscle
 - action_search_exercise
 - utter_ask_facility
+- utter_cannot_find_muscle
 - utter_cannot_understand
 - utter_check_muscle
 - utter_goodbye
 - utter_greet
-- utter_recommendation
+- utter_wrong_muscle
 entities:
 - body
 - deny
@@ -17,20 +18,20 @@ entities:
 - muscle
 - suggest
 intents:
-- partOfBody
-- query
-- chest
 - greet
-- equipment
 - shoulder
-- neck
+- query
+- partOfBody
 - negative
+- hips
+- back
+- chest
+- equipment
+- neck
 - goodbye
 - UpperArms
 - ForeArms
-- back
 - waist
-- hips
 - thighs
 - calves
 - support
@@ -38,6 +39,8 @@ responses:
   utter_ask_facility:
   - text: OK, What facility you want to use?
   - text: Sure, with any equipment?
+  utter_cannot_find_muscle:
+  - text: Sorry, I cannot find this muscle at {body}, Could you check again?
   utter_cannot_understand:
   - text: Sorry, I cannot understand what you mean. Could you say again please?
   utter_check_muscle:
@@ -50,8 +53,8 @@ responses:
   utter_greet:
   - text: Hello, how can I help?
   - text: Hi, which part of body you want to train?
-  utter_recommendation:
-  - text: I recommend to do some {body} exercise!
+  utter_wrong_muscle:
+  - text: oh, {muscle} is not belong {body}. Could you please check again?
 session_config:
   carry_over_slots_to_new_session: true
   session_expiration_time: 0
