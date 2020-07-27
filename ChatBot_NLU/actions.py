@@ -10,6 +10,13 @@ import csv
 import random
 
 # reader = csv.DictReader(open('Exercise.csv'))
+print('ttttttttt')
+reader = csv.DictReader(open('BodyMap.csv'))
+bodyMap = {}
+for row in reader:
+    if row['Body'] not in bodyMap:
+        bodyMap[row['Body']] = set()
+    bodyMap[row['Body']].add(row['muscle'])
 
 logger = logging.getLogger(__name__)
 
@@ -34,15 +41,16 @@ class ActionCheckBody(Action):
 
         # if body != None:
         #     return [FollowupAction('action_check_muscle')]
-        bodyPart = ["neck", "shoulder", "back", "upper arms", "fore arms", "back", "chest", "waist", "hips", "thighs", "calves"]
-        
+        # bodyPart = ["neck", "shoulder", "back", "upper arms", "fore arms", "back", "chest", "waist", "hips", "thighs", "calves"]
+        # bodyPart = bodyMap.keys()
+
         # print(tracker.get_latest_entity_values("body"))
 
         if suggest != None:
-            aa = random.choice(bodyPart)
-            print(aa)
-            dispatcher.utter_message(template='utter_recommendation')
-            return [SlotSet('body', aa)]
+            rnd = random.choice(list(bodyMap.keys()))
+            print(rnd)
+            dispatcher.utter_message(template='utter_recommendation', variable = rnd)
+            return [SlotSet('body', rnd), SlotSet('suggest', None)]
         elif tracker.latest_message['intent'].get('name') == 'query':
             respond = "You can choice following body: {}".format(bodyPart[0:])
             dispatcher.utter_message(respond)
@@ -54,7 +62,7 @@ class ActionCheckBody(Action):
         if body != None:
             reader = csv.DictReader(open('Exercise.csv'))
             for row in reader:
-                print("r:{}, boolean:{}".format(row, row['Body'].lower() == body.lower()))
+                # print("r:{}, boolean:{}".format(row, row['Body'].lower() == body.lower()))
                 if row['Body'].lower() == body.lower():
                     dispatcher.utter_message(template='utter_check_muscle')
                     return []
@@ -76,17 +84,24 @@ class ActionCheckMuscle(Action):
         logger.debug("---- [ActionCheckMuscle] ----")
 
         # Get slot value
+        body = tracker.get_slot('body')
         muscle = tracker.get_slot('muscle')
         facility = tracker.get_slot('facility')
 
-        logger.debug("m:{}, f:{}".format(muscle, facility))
+        logger.debug("b:{}, m:{}, f:{}".format(body, muscle, facility))
 
-        if muscle == None:
-            dispatcher.utter_message(template='utter_cannot_understand')
-            return [SlotSet('muscle', None), SlotSet('facility', None), SlotSet('deny', None), FollowupAction('action_listen')]
-        elif (muscle != None) and (facility != None):
+        if (muscle != None) and (facility != None):
             return [FollowupAction('action_search_exercise')]
-
+        elif tracker.latest_message['intent'].get('name') == 'query':
+            respond = "{} has following muscles: {}".format(body, bodyMap[body])
+            dispatcher.utter_message(respond)
+            return []
+        # elif muscle not in bodyMap[body]:
+        #     dispatcher.utter_message(template='utter_cannot_find_muscle')
+        #     return [SlotSet('muscle', None), SlotSet('facility', None), SlotSet('deny', None), FollowupAction('action_listen')]
+        print(tracker.get_latest_entity_values("muscle"))
+        if any(tracker.get_latest_entity_values("muscle")):
+            print("AAAA")
         dispatcher.utter_message(template='utter_ask_facility')
         return []
 
@@ -139,13 +154,14 @@ class ActionSearchExercise(Action):
 
         reader = csv.DictReader(open('Exercise.csv'))
         sc = []
-        for row in reader:
-            if row['muscle'].lower() == muscle.lower() and row['equipment'].lower() == facility.lower():
-                print(row['resource'])
-                sc.append(row['resource'])
-
-        print(sc[0:5])
         try:
+            for row in reader:
+                if row['muscle'].lower() == muscle.lower() and row['equipment'].lower() == facility.lower():
+                    print(row['resource'])
+                    sc.append(row['resource'])
+
+            print(sc[0:5])
+        
             response1 = """FYI {}""".format(random.choice(sc))
         except:
             response1 = "sorry, we don't have this."
