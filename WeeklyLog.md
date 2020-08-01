@@ -1,11 +1,22 @@
 # Weekly Log  
 
-### week6 (2020/07/18 - 2020/07/24)
+### week8 (2020/07/25 - 2020/07/31)
+* **What were your objectives for this week, and which did you achieve?**  
+    1. Extend query for body parts
+    2. Add suggestion feature
+    3. Add asking detail feature
+    4. Modify checking function (muscle/equipment/searching)
+    5. Fix a bunch of bugs
+  
+* **What are your objectives for next week?**  
+    Implement the user interface and prepare to write the dissertation.
+
+### week7 (2020/07/18 - 2020/07/24)
 * **What were your objectives for this week, and which did you achieve?**  
     Connect the csv database with chatbot.
   
 * **What are your objectives for next week?**  
-    Expend the muscle dataset and fine tune the action process.
+    Expend the muscle dataset and fine-tune the action process.
 
 ### week6 (2020/07/11 - 2020/07/17)
 * **What were your objectives for this week, and which did you achieve?**  
