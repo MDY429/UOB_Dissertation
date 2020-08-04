@@ -1,0 +1,44 @@
+Body,muscle,value
+neck,Sternocleidomastoid,sternocleidomastoid
+neck,Splenius,splenius
+shoulder,Anterior Shoulder,DeltoidAnterior
+shoulder,Lateral Shoulder,DeltoidLateral
+shoulder,Posterior Shoulder,DeltoidPosterior
+shoulder,Supraspinatus,Supraspinatus
+upperarms,Triceps,Triceps
+upperarms,Biceps,Biceps
+upperarms,Brachialis,Brachialis
+forearms,Brachioradialis,Brachioradialis
+forearms,WristFlexors,WristFlexors
+forearms,WristExtensors,WristExtensors
+forearms,Pronators,Pronators
+forearms,Supinators,Supinators
+back,Teres Major,LatissimusDorsi
+back,Latissimus,LatissimusDorsi
+back,Upper Trapezius,TrapeziusUpper
+back,Middle Trapezius,BackGeneral
+back,Lower Trapezius,BackGeneral
+back,Rhomboids,BackGeneral
+back,Infraspinatus,Infraspinatus
+back,Subscapularis,Subscapularis
+chest,Sternal,PectoralSternal
+chest,Clavicular,PectoralClavicular
+chest,Pectoralis Minor,PectoralSternal
+chest,Serratus Anterior,SerratusAnterior
+waist,Rectus Abdominis,RectusAbdominis
+waist,Transverse Abdominis,Transverse
+waist,Obliques,Obliques
+waist,Quadratus Lumborum,Obliques
+waist,Erector Spinae,ErectorSpinae
+hips,Gluteus Maximus,GluteusMaximus
+hips,Gluteus Medius,HipAbductor
+hips,Gluteus Minimus,HipAbductor
+hips,Abductors,HipAbductor
+hips,Iliopsoas,HipFlexors
+hips,Sartorius,HipFlexors
+thighs,Quadriceps,Quadriceps
+thighs,Hamstrings,Hamstrings
+thighs,HipAdductors,HipAdductors
+calves,Gastrocnemius,Gastrocnemius
+calves,Soleus,Soleus
+calves,Tibialis,TibialisAnterior
