@@ -9,6 +9,10 @@ actions:
 - utter_check_muscle
 - utter_goodbye
 - utter_greet
+- utter_query_equipment
+- utter_query_muscle
+- utter_random_muscle
+- utter_system_wrong
 - utter_wrong_muscle
 entities:
 - body
@@ -17,24 +21,25 @@ entities:
 - greet
 - muscle
 - suggest
+- waist
 intents:
-- greet
-- shoulder
+- equipment
 - query
+- support
+- waist
+- thighs
+- greet
 - partOfBody
+- back
+- shoulder
 - negative
 - hips
-- back
 - chest
-- equipment
 - neck
 - goodbye
 - UpperArms
 - ForeArms
-- waist
-- thighs
 - calves
-- support
 responses:
   utter_ask_facility:
   - text: OK, What facility you want to use?
@@ -51,10 +56,21 @@ responses:
   - text: bye bye
   - text: Have a good day.
   utter_greet:
-  - text: Hello, how can I help?
-  - text: Hi, which part of body you want to train?
+  - text: "Hello, welcome to use Exercise Searcher\nFollow the instruction to find\
+      \ the exercise you want!\n  Input \"HELP\": This command can show you the body/muscle/equipment\n\
+      \  Input \"Suggest\": This command will give you a recommendation.\n  \nWhich\
+      \ part of body exercise do you want to know?\n"
+  utter_query_equipment:
+  - text: We could use following equipment to do the training
+  utter_query_muscle:
+  - text: Following is muscle of {body}
+  utter_random_muscle:
+  - text: Ok, let me help you to choose {variable}.
+  utter_system_wrong:
+  - text: Oops, It seems have some unknown error. Please start the first question
+      please.
   utter_wrong_muscle:
-  - text: oh, {muscle} is not belong {body}. Could you please check again?
+  - text: oh, {muscle} is not belong to {body}. Could you please check again?
 session_config:
   carry_over_slots_to_new_session: true
   session_expiration_time: 0
