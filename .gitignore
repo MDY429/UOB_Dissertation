@@ -5,3 +5,6 @@
 
 # VS Code Setting
 .vscode/
+
+# log file
+*.log
