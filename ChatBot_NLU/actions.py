@@ -34,28 +34,34 @@ class ActionCheckBody(Action):
 
         logger.debug("b:{}, s:{}, m:{}, f:{}".format(body, suggest, muscle, facility))
 
-        # Need a exercise suggestion.
-        if suggest != None:
-            rnd = random.choice(exerciseList)
-            msg = "I recommend to do some {} exercise with {}!!\nFYI {}".format(rnd['Body'],rnd['equipment'], rnd['resource'])
-            dispatcher.utter_message(msg)
-            return [AllSlotsReset()]
-        # Body part question
-        elif tracker.latest_message['intent'].get('name') == 'query':
-            respond = "You can choice following body: {}".format(list(bodyMap.keys())[0:])
-            dispatcher.utter_message(respond)
-            return [FollowupAction('action_listen')]
+        try:
+            # Need a exercise suggestion.
+            if suggest != None:
+                rnd = random.choice(exerciseList)
+                msg = "I recommend to do some {} exercise with {}!!\nFYI {}".format(rnd['Body'],rnd['equipment'], rnd['resource'])
+                dispatcher.utter_message(msg)
+                return [AllSlotsReset(), FollowupAction('action_restart')]
+            # Body part question
+            elif tracker.latest_message['intent'].get('name') == 'query':
+                respond = "You can choice following body: {}".format(list(bodyMap.keys())[0:])
+                dispatcher.utter_message(respond)
+                return [FollowupAction('action_listen')]
 
-        # Check body is vaildated.
-        if body != None:
-            if body.lower() in [item.lower() for item in list(bodyMap.keys())]:
+            # Check body is vaildated.
+            if body != None and body.lower() in [item.lower() for item in list(bodyMap.keys())]:
                 dispatcher.utter_message(template='utter_check_muscle')
                 return [SlotSet('muscle', None), SlotSet('facility', None), SlotSet('deny', None), SlotSet('suggest', None)]
 
-        dispatcher.utter_message(template='utter_cannot_understand')
-        respond = "Please check the spelling of body/muscle/equipment\n - Which body part you want to train?"
-        dispatcher.utter_message(respond)
-        return [AllSlotsReset(), FollowupAction('action_restart')]
+            dispatcher.utter_message(template='utter_cannot_understand')
+            respond = "Please check the spelling of body part\n"
+            respond = respond +"\tFollowing is the body list: {}\n".format(list(bodyMap.keys())[0:])
+            respond = respond + "Which part of body exercise you want to know?"
+            dispatcher.utter_message(respond)
+            return [AllSlotsReset(), FollowupAction('action_restart')]
+
+        except:
+            dispatcher.utter_template('utter_system_wrong')
+            return [AllSlotsReset(), FollowupAction('action_restart')]
 
 class ActionCheckMuscle(Action):
     def name(self):
@@ -71,30 +77,43 @@ class ActionCheckMuscle(Action):
         # Get slot value
         body = tracker.get_slot('body')
         muscle = tracker.get_slot('muscle')
-        facility = tracker.get_slot('facility')
         intent = tracker.latest_message['intent'].get('name')
 
-        logger.debug("b:{}, m:{}, f:{}".format(body, muscle, facility))
+        logger.debug("b:{}, m:{}".format(body, muscle))
 
-        if (muscle != None) and (facility != None):
-            return [FollowupAction('action_search_exercise')]
-        elif intent == 'negative' or tracker.get_slot('deny') != None or tracker.get_slot('suggest') != None:
-            rnd = random.choice(list(bodyMap[body.lower()]))
-            dispatcher.utter_message(template='utter_random_muscle', variable=rnd)
-            dispatcher.utter_message(template='utter_ask_facility')
-            return [SlotSet('muscle', muscleMap[rnd][0]), FollowupAction('action_listen')]
-        elif intent == 'query':
-            respond = "{} has following muscles: {}".format(body, bodyMap[body.lower()])
-            dispatcher.utter_message(respond)
-            return [FollowupAction('action_listen')]
+        try:
+            # Need muscle suggestion
+            if body != None and (intent == 'negative' or tracker.get_slot('deny') != None or tracker.get_slot('suggest') != None):
+                rnd = random.choice(list(bodyMap[body.lower()]))
+                dispatcher.utter_message(template='utter_random_muscle', variable=rnd)
+                dispatcher.utter_message(template='utter_ask_facility')
+                return [SlotSet('muscle', muscleMap[rnd][0]), SlotSet('deny', None), SlotSet('suggest', None), FollowupAction('action_listen')]
+            # Need to know what muscles in body.
+            elif intent == 'query':
+                if muscle != None:
+                    return[FollowupAction('action_check_equipment')]
+                dispatcher.utter_template('utter_query_muscle', tracker, body=body)
+                dispatcher.utter_message(" - {}".format(bodyMap[body.lower()]))
+                return []
+            # Ask muscle directly.
+            elif body == None and any(tracker.get_latest_entity_values('muscle')):
+                print(tracker.latest_message)
+                body = tracker.latest_message['entities'][0].get('role')
+                dispatcher.utter_message(template='utter_ask_facility')
+                return [SlotSet('body', body), SlotSet('deny', None), SlotSet('suggest', None)]
 
-        if any(tracker.get_latest_entity_values('muscle', entity_role = body.lower())):
-            dispatcher.utter_message(template='utter_ask_facility')
-        else:
-            dispatcher.utter_message(template='utter_wrong_muscle')
-            return [SlotSet('muscle', None), FollowupAction('action_listen')]
-        
-        return []
+            # Vaildate muscle
+            if any(tracker.get_latest_entity_values('muscle', entity_role = str(body).lower())):
+            # if (tracker.latest_message.get("entities", [])[0]['role'] == body.lower()) == True:
+                dispatcher.utter_message(template='utter_ask_facility')
+                return [SlotSet('deny', None), SlotSet('suggest', None)]
+            
+            # Vaildate muscle fail
+            dispatcher.utter_template('utter_wrong_muscle', tracker)
+            return [SlotSet('muscle', None)]
+        except:
+            dispatcher.utter_template('utter_system_wrong')
+            return [AllSlotsReset(), FollowupAction('action_restart')]
 
 class ActionCheckEquipment(Action):
     def name(self):
@@ -102,39 +121,48 @@ class ActionCheckEquipment(Action):
 
     def run(self,
             dispatcher: CollectingDispatcher,
-            tracker: DialogueStateTracker,
+            tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
         logger.debug("---- [ActionCheckEquipment] ----")
 
-        # Get slot value
-        muscle = tracker.get_slot('muscle')
-        facility = tracker.get_slot('facility')
-        deny = tracker.get_slot('deny')
-        intent= tracker.latest_message['intent'].get('name')
+        try:
+            # Get slot value
+            muscle = tracker.get_slot('muscle')
+            facility = tracker.get_slot('facility')
+            deny = tracker.get_slot('deny')
+            intent= tracker.latest_message['intent'].get('name')
 
-        logger.debug("m:{}, f:{}, d:{}, ent:{}".format(muscle, facility, deny, intent))
+            logger.debug("m:{}, f:{}, d:{}, ent:{}".format(muscle, facility, deny, intent))
 
-        if tracker.latest_message['intent'].get('name') == 'query':
-            respond = "Here are the equipments: {}".format(equipmentMapping(muscle)[0:])
-            dispatcher.utter_message(respond)
-            return [FollowupAction('action_listen')]
-        elif facility == None:
-            if intent == 'negative' or deny != None:
-                try:
-                    rnd = random.choice(equipmentMapping(muscle)[0:])
-                    respond = 'Let us use {} to do some exercise!!'.format(rnd)
-                    dispatcher.utter_message(respond)
-                    return [SlotSet('facility', rnd), SlotSet('deny', None),FollowupAction('action_search_exercise')]
-                except:
-                    respond = 'Oh, please check your equipment is correct.'
-                    dispatcher.utter_message(template='utter_cannot_understand')
-                    return [SlotSet('facility', None), FollowupAction('action_listen')]
+            # Need to know equipments 
+            if tracker.latest_message['intent'].get('name') == 'query':
+                dispatcher.utter_template('utter_query_equipment', tracker)
+                dispatcher.utter_message(" - {}".format(equipmentMapping(muscle)))
+                return []
+            # Need suggestion
+            elif intent == 'negative' or deny != None or tracker.get_slot('suggest') != None:
+                rnd = random.choice(list(equipmentMapping(muscle)))
+                respond = 'Let us use {} to do some exercise!!'.format(rnd)
+                dispatcher.utter_message(respond)
+                return [SlotSet('facility', rnd), SlotSet('suggest', None), SlotSet('deny', None),FollowupAction('action_search_exercise')]
+
+            if facility != None and facility.lower() in equipmentMapping(muscle):
+                    return [FollowupAction('action_search_exercise')]
             else:
-                dispatcher.utter_message(template='utter_ask_facility')
-                return [SlotSet('facility', None), FollowupAction('action_listen')]
-        
-        return [FollowupAction('action_search_exercise')]
+                rnd = random.choice(list(equipmentMapping(muscle)))
+                respond = 'Sorry, there is no exercise go with this equipment. But we recommend use {} to replace.'.format(rnd)
+                dispatcher.utter_message(respond)
+                return [SlotSet('facility', rnd), FollowupAction('action_search_exercise')]
+            # else:
+            #     respond = 'Oh, please check your equipment is correct.'
+            #     dispatcher.utter_message(respond)
+            #     dispatcher.utter_template('utter_cannot_understand', tracker)
+            #     return [SlotSet('facility', None)]
+            # return [FollowupAction('action_search_exercise')]
+        except:
+            dispatcher.utter_template('utter_system_wrong')
+            return [AllSlotsReset(), FollowupAction('action_restart')]
 
 class ActionSearchExercise(Action):
     def name(self):
@@ -158,9 +186,12 @@ class ActionSearchExercise(Action):
         try:       
             response = """FYI {}""".format(random.choice(searchExercise(muscle, facility)))
         except:
-            response = "sorry, we don't have this."
+            response = "sorry, we cannot find the related exercise for you.\n"
+            response = "But we recommend you to do this\n"
+            rnd = random.choice(exerciseList)
+            response = response + "I recommend to do some {} exercise with {}!!\nFYI {}".format(rnd['Body'],rnd['equipment'], rnd['resource'])
         dispatcher.utter_message(response)
-        return [SlotSet('body', None), SlotSet('muscle', None), SlotSet('facility', None), SlotSet('suggest', None)]
+        return [AllSlotsReset(), FollowupAction('action_restart')]
 
 ### Sub Method ###
 def readBodyMap():
@@ -197,10 +228,10 @@ def searchExercise(muscle, facility):
 
 def equipmentMapping(muscle):
     logger.debug('Searching {} for equipment'.format(muscle))
-    src = []
+    src = set()
     for e in exerciseList:
         if e['muscle'].lower() == muscle.lower() and e['equipment'] not in src:
-            src.append(e['equipment'])
+            src.add(e['equipment'].lower())
     return src
 
 def equipmentList():
