@@ -9,9 +9,8 @@ pipeline:
 - name: "CountVectorsFeaturizer"
 - name: "EmbeddingIntentClassifier"
 
-
 policies:
   - name: MemoizationPolicy
-  - name: KerasPolicy
-    epochs: 200
-  - name: MappingPolicy
+  - name: TEDPolicy
+    epochs: 100
+    max_history: 6
