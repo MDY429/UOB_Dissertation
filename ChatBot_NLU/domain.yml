@@ -23,16 +23,16 @@ entities:
 - suggest
 - waist
 intents:
-- equipment
+- negative
+- partOfBody
 - query
+- equipment
 - support
 - waist
 - thighs
 - greet
-- partOfBody
 - back
 - shoulder
-- negative
 - hips
 - chest
 - neck

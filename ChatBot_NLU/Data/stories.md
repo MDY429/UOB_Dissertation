@@ -26,6 +26,20 @@
 * equipment
     - action_check_equipment
 
+## story 05
+* query
+    - action_check_body
+* partOfBody
+    - action_check_body
+* query
+    - action_check_muscle
+* hips
+    - action_check_muscle
+* equipment
+    - action_check_equipment
+* query
+    - action_check_equipment
+
 ## interactive_story_1
 * greet
     - utter_greet
@@ -163,3 +177,193 @@
     - slot{"muscle": null}
     - slot{"facility": null}
     - slot{"suggest": null}
+
+## interactive_story_1
+* greet
+    - utter_greet
+* partOfBody{"body": "shoulder"}
+    - slot{"body": "shoulder"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* query
+    - action_check_muscle
+* shoulder{"muscle": "DeltoidAnterior"}
+    - slot{"muscle": "DeltoidAnterior"}
+    - action_check_muscle
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* query
+    - action_check_equipment
+* equipment{"facility": "cable"}
+    - slot{"facility": "cable"}
+    - action_check_equipment
+    - slot{"facility": "Cable"}
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - slot{"body": null}
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+
+## interactive_story_1
+* greet
+    - utter_greet
+* partOfBody{"body": "back"}
+    - slot{"body": "back"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* query
+    - action_check_muscle
+* back{"muscle": "upper trapezius"}
+    - slot{"muscle": "upper trapezius"}
+    - action_check_muscle
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* equipment{"facility": "cable"}
+    - slot{"facility": "cable"}
+    - action_check_equipment
+    - action_search_exercise
+    - slot{"body": null}
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+
+## interactive_story_1
+* greet
+    - utter_greet
+* query
+    - action_check_body
+    - followup{"name": "action_listen"}
+* support{"suggest": "Suggestion"}
+    - slot{"suggest": "Suggestion"}
+    - action_check_body
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_2
+* query
+    - action_check_body
+    - followup{"name": "action_listen"}
+* partOfBody{"body": "chest"}
+    - slot{"body": "chest"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* partOfBody{"body": "forearms"}
+    - slot{"body": "forearms"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* partOfBody{"body": "thighs"}
+    - slot{"body": "thighs"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* waist{"waist": "RectusAbdominis"}
+    - action_check_muscle
+    - slot{"muscle": null}
+* thighs{"muscle": "Hamstrings"}
+    - slot{"muscle": "Hamstrings"}
+    - action_check_muscle
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* thighs{"muscle": "Quadriceps"}
+    - slot{"muscle": "Quadriceps"}
+    - action_check_muscle
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* query
+    - action_check_equipment
+* equipment{"facility": "sled"}
+    - slot{"facility": "sled"}
+    - action_check_equipment
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_1
+* query
+    - action_check_body
+    - followup{"name": "action_listen"}
+* partOfBody{"body": "calves"}
+    - slot{"body": "calves"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* negative{"deny": "no"}
+    - slot{"deny": "no"}
+    - action_check_muscle
+    - slot{"muscle": "TibialisAnterior"}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+    - followup{"name": "action_listen"}
+* negative{"deny": "no"}
+    - slot{"deny": "no"}
+    - action_check_equipment
+    - slot{"facility": "lever"}
+    - slot{"suggest": null}
+    - slot{"deny": null}
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_2
+* query
+    - action_check_body
+    - followup{"name": "action_listen"}
+* partOfBody{"body": "thighs"}
+    - slot{"body": "thighs"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* negative{"deny": "NO"}
+    - slot{"deny": "NO"}
+    - action_check_muscle
+    - slot{"muscle": "Hamstrings"}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+    - followup{"name": "action_listen"}
+* query
+    - action_check_equipment
+* equipment{"facility": "trapbar"}
+    - slot{"facility": "trapbar"}
+    - action_check_equipment
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_3
+* equipment{"muscle": "PectoralClavicular", "facility": "barbell"}
+    - slot{"facility": "barbell"}
+    - slot{"muscle": "PectoralClavicular"}
+    - action_check_equipment
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart

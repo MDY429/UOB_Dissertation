@@ -58,6 +58,8 @@
 - [chest](body) please
 - Oops, I change to [forearms](body).
 - alright, change my mind again, [legs]{"entity": "body", "value": "thighs"}!!
+- i want [calves](body)
+- nice, [thighs](body) please
 
 ## intent:equipment
 - [barbell](facility)
@@ -92,6 +94,8 @@
 - [medicine ball]{"entity": "facility", "value": "medicineball"}
 - [medicineball](facility)
 - [sled](facility)
+- [trapbar](facility)
+- Any about [upper chest]{"entity": "muscle", "role": "chest", "value": "PectoralClavicular"} with [barbell](facility)?
 
 ## intent:negative
 - [no](deny)!!
@@ -102,6 +106,9 @@
 - [nah]{"entity": "deny", "value": "no"}
 - [uhuh]{"entity": "deny", "value": "no"}
 - [nope]{"entity": "deny", "value": "no"}
+- [nah]{"entity": "deny", "value": "no"}
+- [no](deny)
+- [NO](deny)!!
 
 ## intent:neck
 - [Sternocleidomastoid]{"entity": "muscle", "role": "neck", "value": "sternocleidomastoid"}
@@ -288,6 +295,9 @@
 - help
 - what body exercise do you have?
 - what are them?
+- what can you do
+- I need your help
+- help again
 
 ## synonym:BackGeneral
 - middle back
