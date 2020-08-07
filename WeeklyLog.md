@@ -1,5 +1,13 @@
 # Weekly Log  
 
+### week9 (2020/08/01 - 2020/08/07)
+* **What were your objectives for this week, and which did you achieve?**  
+    1. Debug for the process
+    2. Implement/ debug/ connect the application to Telegram app
+  
+* **What are your objectives for next week?**  
+    Let the application be better and finish a chapter list, introduction.
+
 ### week8 (2020/07/25 - 2020/07/31)
 * **What were your objectives for this week, and which did you achieve?**  
     1. Extend query for body parts
