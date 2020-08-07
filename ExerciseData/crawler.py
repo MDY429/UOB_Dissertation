@@ -332,4 +332,37 @@ def getEquipment(equipment):
     return switcher.get(equipment, 'None')
 
 
-csvProccess()
+
+def mainPage2():
+
+    with open('BodyMap.csv', 'w', newline='') as csvfile:
+        fieldnames = ['Body', 'muscle']
+
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+
+        response = requests.get("https://exrx.net/Lists/Directory")
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        # Find the part of body tag
+        a_tags = soup.find_all('a')
+        for tag in a_tags:
+            linkID = str(tag.get('href'))
+            a = linkID.find('ExList/')
+            b = linkID.find('#')
+            if a != -1 and b != -1:
+                # print(linkID[a+7:])
+                soc = linkID[a+7:].split('Wt#')
+                # print(soc)
+                writer.writerow({'Body': soc[0].lower(), 'muscle': soc[1]})
+
+    csvfile.close()
+
+    
+
+
+
+#csvProccess()
+mainPage2()
