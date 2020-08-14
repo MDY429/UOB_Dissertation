@@ -1,5 +1,13 @@
 # Weekly Log  
 
+### week10 (2020/08/08 - 2020/08/14)
+* **What were your objectives for this week, and which did you achieve?**  
+    1. Make presentation ppt
+    2. introduction of dissertation
+  
+* **What are your objectives for next week?**  
+    Keep writing the dissertation.
+
 ### week9 (2020/08/01 - 2020/08/07)
 * **What were your objectives for this week, and which did you achieve?**  
     1. Debug for the process
