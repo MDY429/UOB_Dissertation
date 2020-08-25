@@ -1,5 +1,12 @@
 # Weekly Log  
 
+### week11 (2020/08/15 - 2020/08/21)
+* **What were your objectives for this week, and which did you achieve?**  
+    1. Literature Review of dissertation
+  
+* **What are your objectives for next week?**  
+    Keep writing the dissertation.
+
 ### week10 (2020/08/08 - 2020/08/14)
 * **What were your objectives for this week, and which did you achieve?**  
     1. Make presentation ppt
