@@ -1,5 +1,19 @@
 # Weekly Log  
 
+### week13 (2020/08/29 - 2020/09/04)
+* **What were your objectives for this week, and which did you achieve?**  
+    Check the dissertation and source code.
+  
+* **What are your objectives for next week?**  
+    Done
+
+### week12 (2020/08/22 - 2020/08/28)
+* **What were your objectives for this week, and which did you achieve?**  
+    Finish Methodology, Result
+  
+* **What are your objectives for next week?**  
+    Writing Reference and Appendices.
+
 ### week11 (2020/08/15 - 2020/08/21)
 * **What were your objectives for this week, and which did you achieve?**  
     1. Literature Review of dissertation
