@@ -109,7 +109,7 @@
     - utter_greet
 * query
     - action_check_body
-* chest{"body": "chest"}
+* partOfBody{"body": "chest"}
     - slot{"body": "chest"}
     - action_check_body
 * chest{"muscle": "PectoralClavicular"}
@@ -362,6 +362,57 @@
     - slot{"facility": "barbell"}
     - slot{"muscle": "PectoralClavicular"}
     - action_check_equipment
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_1
+* greet
+    - utter_greet
+* partOfBody{"body": "hips"}
+    - slot{"body": "hips"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* support{"suggest": "Suggestion"}
+    - slot{"suggest": "Suggestion"}
+    - action_check_muscle
+    - slot{"muscle": "HipAbductor"}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+    - followup{"name": "action_listen"}
+* equipment{"facility": "bodyweight"}
+    - slot{"facility": "bodyweight"}
+    - action_check_equipment
+    - followup{"name": "action_search_exercise"}
+    - action_search_exercise
+    - reset_slots
+    - followup{"name": "action_restart"}
+    - action_restart
+
+## interactive_story_2
+* partOfBody{"body": "upperarms"}
+    - slot{"body": "upperarms"}
+    - action_check_body
+    - slot{"muscle": null}
+    - slot{"facility": null}
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* upperarms{"muscle": "Biceps"}
+    - slot{"muscle": "Biceps"}
+    - action_check_muscle
+    - slot{"deny": null}
+    - slot{"suggest": null}
+* support{"suggest": "Suggestion"}
+    - slot{"suggest": "Suggestion"}
+    - action_check_equipment
+    - slot{"facility": "barbell"}
+    - slot{"suggest": null}
+    - slot{"deny": null}
     - followup{"name": "action_search_exercise"}
     - action_search_exercise
     - reset_slots

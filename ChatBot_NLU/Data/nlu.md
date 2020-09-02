@@ -60,6 +60,8 @@
 - alright, change my mind again, [legs]{"entity": "body", "value": "thighs"}!!
 - i want [calves](body)
 - nice, [thighs](body) please
+- any about [hip]{"entity": "body", "value": "hips"} exercise?
+- how to train my [arms]{"entity": "body", "value": "upperarms"}
 
 ## intent:equipment
 - [barbell](facility)
@@ -96,6 +98,7 @@
 - [sled](facility)
 - [trapbar](facility)
 - Any about [upper chest]{"entity": "muscle", "role": "chest", "value": "PectoralClavicular"} with [barbell](facility)?
+- [bodyweight](facility)
 
 ## intent:negative
 - [no](deny)!!
@@ -106,7 +109,6 @@
 - [nah]{"entity": "deny", "value": "no"}
 - [uhuh]{"entity": "deny", "value": "no"}
 - [nope]{"entity": "deny", "value": "no"}
-- [nah]{"entity": "deny", "value": "no"}
 - [no](deny)
 - [NO](deny)!!
 
@@ -133,6 +135,7 @@
 - [Rotatory Cuff]{"entity": "muscle", "role": "shoulder", "value": "Supraspinatus"}
 - [front shoulder]{"entity": "muscle", "role": "shoulder", "value": "DeltoidAnterior"}
 - thanks, how about [anterior shoulder]{"entity": "muscle", "role": "shoulder", "value": "DeltoidAnterior"}?
+- [front delts]{"entity": "muscle", "role": "shoulder", "value": "DeltoidAnterior"}
 
 ## intent:upperarms
 - [Rear Arm]{"entity": "muscle", "role": "upperarms", "value": "Triceps"} please
@@ -145,6 +148,7 @@
 - [brachialis]{"entity": "muscle", "role": "upperarms", "value": "Brachialis"}
 - [Side Arm]{"entity": "muscle", "role": "upperarms", "value": "Brachialis"}
 - [Lower Biceps]{"entity": "muscle", "role": "upperarms", "value": "Brachialis"}
+- [biceps]{"entity": "muscle", "role": "upperarms", "value": "Biceps"} please
 
 ## intent:forearms
 - [supinators]{"entity": "muscle", "role": "forearms", "value": "Supinators"}
@@ -275,6 +279,8 @@
 - [advise]{"entity": "suggest", "value": "Suggestion"} me
 - [introduce]{"entity": "suggest", "value": "Suggestion"}
 - any [suggestion]{"entity": "suggest", "value": "Suggestion"}?
+- any [suggestion]{"entity": "suggest", "value": "Suggestion"}?
+- i need [advice]{"entity": "suggest", "value": "Suggestion"}
 
 ## intent:query
 - HELP
@@ -402,8 +408,8 @@
 - Deep Low Back Lateral Flexor
 
 ## synonym:PectoralClavicular
-- Clavicular
 - upper chest
+- Clavicular
 
 ## synonym:PectoralSternal
 - Pectoralis Major

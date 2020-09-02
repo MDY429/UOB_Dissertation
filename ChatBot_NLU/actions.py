@@ -104,13 +104,12 @@ class ActionCheckMuscle(Action):
 
             # Vaildate muscle
             if any(tracker.get_latest_entity_values('muscle', entity_role = str(body).lower())):
-            # if (tracker.latest_message.get("entities", [])[0]['role'] == body.lower()) == True:
                 dispatcher.utter_message(template='utter_ask_facility')
                 return [SlotSet('deny', None), SlotSet('suggest', None)]
-            
             # Vaildate muscle fail
             dispatcher.utter_template('utter_wrong_muscle', tracker)
             return [SlotSet('muscle', None)]
+
         except:
             dispatcher.utter_template('utter_system_wrong')
             return [AllSlotsReset(), FollowupAction('action_restart')]
@@ -147,19 +146,16 @@ class ActionCheckEquipment(Action):
                 dispatcher.utter_message(respond)
                 return [SlotSet('facility', rnd), SlotSet('suggest', None), SlotSet('deny', None),FollowupAction('action_search_exercise')]
 
+            # Find the equipment
             if facility != None and facility.lower() in equipmentMapping(muscle):
                     return [FollowupAction('action_search_exercise')]
+            # Cannot find the equipment and give random one.
             else:
                 rnd = random.choice(list(equipmentMapping(muscle)))
                 respond = 'Sorry, there is no exercise go with this equipment. But we recommend use {} to replace.'.format(rnd)
                 dispatcher.utter_message(respond)
                 return [SlotSet('facility', rnd), FollowupAction('action_search_exercise')]
-            # else:
-            #     respond = 'Oh, please check your equipment is correct.'
-            #     dispatcher.utter_message(respond)
-            #     dispatcher.utter_template('utter_cannot_understand', tracker)
-            #     return [SlotSet('facility', None)]
-            # return [FollowupAction('action_search_exercise')]
+
         except:
             dispatcher.utter_template('utter_system_wrong')
             return [AllSlotsReset(), FollowupAction('action_restart')]
@@ -195,6 +191,9 @@ class ActionSearchExercise(Action):
 
 ### Sub Method ###
 def readBodyMap():
+    '''
+    Load BodyMap.csv
+    '''
     logger.debug('BodyMap.csv')
     input_csv = []
     reader = csv.DictReader(open('BodyMap.csv'))
@@ -213,12 +212,18 @@ def readBodyMap():
         muscleMap[row['muscle']].append(row['value'])
 
 def readExerciseMap():
+    '''
+    Load Exercise.csv
+    '''
     logger.debug('Exercise.csv')
     reader = csv.DictReader(open('Exercise.csv'))
     for row in reader:
         exerciseList.append(row)
 
 def searchExercise(muscle, facility):
+    '''
+    For exercise search
+    '''
     logger.debug('Searching {} with {}'.format(muscle, facility))
     src = []
     for e in exerciseList:
@@ -227,6 +232,9 @@ def searchExercise(muscle, facility):
     return src
 
 def equipmentMapping(muscle):
+    '''
+    Find corresponding equipment.
+    '''
     logger.debug('Searching {} for equipment'.format(muscle))
     src = set()
     for e in exerciseList:

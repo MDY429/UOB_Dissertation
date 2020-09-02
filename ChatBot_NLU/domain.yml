@@ -23,16 +23,17 @@ entities:
 - suggest
 - waist
 intents:
-- negative
 - partOfBody
-- query
+- greet
+- upperarms
 - equipment
 - support
+- shoulder
+- negative
+- query
 - waist
 - thighs
-- greet
 - back
-- shoulder
 - hips
 - chest
 - neck
@@ -42,8 +43,8 @@ intents:
 - calves
 responses:
   utter_ask_facility:
-  - text: OK, What facility you want to use?
-  - text: Sure, with any equipment?
+  - text: What facility you want to use?
+  - text: With any equipment?
   utter_cannot_find_muscle:
   - text: Sorry, I cannot find this muscle at {body}, Could you check again?
   utter_cannot_understand:
