@@ -1,11 +1,12 @@
 import requests
 import re
 import csv
-import pandas as pd
 from bs4 import BeautifulSoup
 
 def csvProccess():
-    
+    '''
+    Create the CSV file and remove the duplicate data.
+    '''
     with open('test.csv', 'w', newline='') as csvfile:
         fieldnames = ['Body', 'muscle', 'exercise', 'equipment', 'resource']
 
@@ -42,6 +43,9 @@ def csvProccess():
 
 
 def mainPage(writer):
+    '''
+    Get the data from exrx.net
+    '''
     response = requests.get("https://exrx.net/Lists/Directory")
 
     soup = BeautifulSoup(response.text, "html.parser")
@@ -86,6 +90,9 @@ def switch(body, writer):
 
 
 def neck(link, writer):
+    '''
+    Download data for neck.
+    '''
     print(link)
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -105,10 +112,13 @@ def neck(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'neck', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'neck', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def shoulder(link, writer):
+    '''
+    Download data for shoulder.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -126,10 +136,13 @@ def shoulder(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'shoulder', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'shoulder', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def UpperArms(link, writer):
+    '''
+    Download data for upper arms.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -146,10 +159,13 @@ def UpperArms(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'UpperArms', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'UpperArms', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def ForeArms(link, writer):
+    '''
+    Download data for fore arms.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -169,10 +185,13 @@ def ForeArms(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'ForeArms', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'ForeArms', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def back(link, writer):
+    '''
+    Download data for back.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -190,10 +209,13 @@ def back(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'back', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'back', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def chest(link, writer):
+    '''
+    Download data for chest.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -210,10 +232,13 @@ def chest(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'chest', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'chest', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def waist(link, writer):
+    '''
+    Download data for waist.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -230,10 +255,13 @@ def waist(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'waist', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'waist', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def hips(link, writer):
+    '''
+    Download data for hips.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -251,10 +279,13 @@ def hips(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'hips', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'hips', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def thighs(link, writer):
+    '''
+    Download data for thighs.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -274,10 +305,13 @@ def thighs(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'thighs', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'thighs', m, getEquipment(subUrl[0:2]), newUrl)
 
 
 def calves(link, writer):
+    '''
+    Download data for calves.
+    '''
     response = requests.get(link)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h2")
@@ -294,10 +328,13 @@ def calves(link, writer):
                 newUrl = "https://exrx.net/" + linker[a:]
                 subUrl = linker[a+muscleLen+17:]
                 print(newUrl)
-                getExercise(writer, 'calves', m, getEquipment(subUrl[0:2]), newUrl)
+                writeData(writer, 'calves', m, getEquipment(subUrl[0:2]), newUrl)
 
 
-def getExercise(writer, body, muscle, equipment, url):
+def writeData(writer, body, muscle, equipment, url):
+    '''
+    Write the data into CSV file.
+    '''
     response = requests.get(url)
     soup = BeautifulSoup(response.text, "html.parser")
     titles = soup.find_all("h1")
@@ -311,6 +348,9 @@ def getExercise(writer, body, muscle, equipment, url):
 
 
 def getEquipment(equipment):
+    '''
+    Check the equipment abbreviation.
+    '''
     switcher = {
         'BB': 'Barbell',
         'CB': 'Cable',
@@ -334,6 +374,9 @@ def getEquipment(equipment):
 
 
 def mainPage2():
+    '''
+    Create a CSV file for corresponding body and muscle.
+    '''
 
     with open('BodyMap.csv', 'w', newline='') as csvfile:
         fieldnames = ['Body', 'muscle']
@@ -353,16 +396,11 @@ def mainPage2():
             a = linkID.find('ExList/')
             b = linkID.find('#')
             if a != -1 and b != -1:
-                # print(linkID[a+7:])
                 soc = linkID[a+7:].split('Wt#')
-                # print(soc)
                 writer.writerow({'Body': soc[0].lower(), 'muscle': soc[1]})
 
     csvfile.close()
 
-    
 
-
-
-#csvProccess()
+csvProccess()
 mainPage2()
