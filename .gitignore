@@ -1,7 +1,9 @@
 # Generated file
 *.pkl
 *.h5
-*.gz
+
+# batch file
+*.bat
 
 # VS Code Setting
 .vscode/
